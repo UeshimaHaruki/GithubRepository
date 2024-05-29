@@ -1,0 +1,7 @@
+Model,RMSE,Accuracy
+./machine_learning/model/lgbm_model_size.pkl,0.7833434125915048,0.8178807947019867
+./machine_learning/model/rf_model_size.pkl,0.7492844610232001,0.8443708609271523
+./machine_learning/model/linear_regression_model_size.pkl,0.7414209442119831,0.8112582781456954
+./machine_learning/model/svr_model_size.pkl,0.7404572482136631,0.8410596026490066
+./machine_learning/model/gb_model_size.pkl,0.7329719275866943,0.8211920529801324
+./machine_learning/model/mlp_model_size.pkl,0.7202886330730479,0.8311258278145696
