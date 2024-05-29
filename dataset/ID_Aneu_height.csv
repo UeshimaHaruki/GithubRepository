@@ -1,0 +1,4 @@
+Aneu_height_ID,aneu_height_label_name
+0,height<5
+1,5<=height<7
+2,7<=height

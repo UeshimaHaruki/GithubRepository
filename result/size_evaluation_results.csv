@@ -1,0 +1,4 @@
+Model Rank,Model Path,RMSE,Accuracy
+1,./model/mlp_model_size.pkl,0.7241268431868978,0.8377483443708609
+2,./model/lgbm_model_size.pkl,0.7420657157164473,0.8178807947019867
+3,./model/gb_model_size.pkl,0.7239778109688635,0.8311258278145696

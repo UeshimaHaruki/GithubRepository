@@ -1,0 +1,37 @@
+ラベル,慈恵ー該当数,慈恵ーデータ,順天ー該当数,順天ーデータ,3,日本語で説明
+修正,1,"(2523, 271)",0,"(1920, 271)","modify ""Status_rupture"" unruptured to unrupture",破裂状態かどうかにおける誤字の修正
+修正,1,"(2523, 271)",0,"(1920, 271)","modify ""Status_rupture"" unrup Re Treat to unrupture",破裂状態かどうかにおける誤字の修正
+修正,366,"(2523, 271)",225,"(1920, 271)","modify ""Aneu_location"" VABA to VABA",脳動脈瘤の場所でVABAをVAかBAに修正．その個数
+修正,355,"(2523, 271)",94,"(1920, 271)","modify ""Adj_tech"" Double cathe (DC) to Double cathe",補助手技を左記のように修正
+修正,2,"(2523, 271)",1,"(1920, 271)","modify ""Adj_tech"" Triple cathe. to Triple cathe",補助手技を左記のように修正
+修正,71,"(2523, 271)",2,"(1920, 271)","modify ""Adj_tech"" StentからDC to Stent assist",補助手技を左記のように修正
+修正,46,"(2523, 271)",1,"(1920, 271)","modify ""Adj_tech"" DCからStent to Stent assist",補助手技を左記のように修正
+修正,24,"(2523, 271)",56,"(1920, 271)","modify ""Adj_tech"" BATからStent to Stent assist",補助手技を左記のように修正
+修正,22,"(2523, 271)",5,"(1920, 271)","modify ""Adj_tech"" DCからBAT to BAT",補助手技を左記のように修正
+修正,18,"(2523, 271)",7,"(1920, 271)","modify ""Adj_tech"" BATからDC to Double cathe",補助手技を左記のように修正
+修正,8,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" DC→Stent→DC to Stent assist",補助手技を左記のように修正
+修正,8,"(2523, 271)",8,"(1920, 271)","modify ""Adj_tech"" Rescue Stent to Stent assist",補助手技を左記のように修正
+修正,8,"(2523, 271)",5,"(1920, 271)","modify ""Adj_tech"" SimpleからBAT to BAT",補助手技を左記のように修正
+修正,6,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" DC & Stent to Stent assist",補助手技を左記のように修正
+修正,6,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" StentからBAT to Stent assist",補助手技を左記のように修正
+修正,6,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" SimpleからDC to Double cathe",補助手技を左記のように修正
+修正,4,"(2523, 271)",5,"(1920, 271)","modify ""Adj_tech"" DC & BAT to BAT",補助手技を左記のように修正
+修正,4,"(2523, 271)",31,"(1920, 271)","modify ""Adj_tech"" Stent内からBAT to Stent assist",補助手技を左記のように修正
+修正,3,"(2523, 271)",4,"(1920, 271)","modify ""Adj_tech"" SimpleからStent to Stent assist",補助手技を左記のように修正
+修正,2,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" DC & BAT→Stent to Stent assist",補助手技を左記のように修正
+修正,1,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" BAT→DC→Stent to Stent assist",補助手技を左記のように修正
+修正,1,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" Y Stent+DC to Stent assist",補助手技を左記のように修正
+修正,129,"(2523, 271)",0,"(1920, 271)","modify ""Adj_tech"" 記載不可 to Unknown",補助手技を左記のように修正
+修正,0,"(2523, 271)",1,"(1920, 271)","modify ""Adj_tech"" 記入不可 to Unknown",補助手技を左記のように修正
+補完,200,"(2523, 271)",0,"(1920, 271)","if ""bleb_data"" is Nan, fillna ""no""",Blebかどうかが欠損してる場合noを補完
+データ選択,280,"(2243, 271)",2,"(1918, 271)","del ""Status_ruptrue"" is rupture",破裂患者を削除
+データ選択,14,"(2235, 271)",24,"(1894, 271)","del ""Is_adj_rupture"" not one",術中破裂患者を削除
+データ選択,250,"(2053, 271)",67,"(1828, 271)","del ""Is_retreat"" not one",再治療患者を削除
+データ選択,226,"(1905, 271)",206,"(1657, 271)","if ""Complication"" is Nan_*_""KAKUNIN""_attempt, fillna ""none""",治療時合併症患者を削除
+データ選択,108,"(1844, 271)",17,"(1652, 271)","del ""Aneu_type"" not saccular",sacullar患者に限定
+データ選択,0,"(1844, 271)",0,"(1652, 271)","del ""Aneu_location"" are not ICA,VA,BA,ACA,MCA",場所を限定
+データ選択,0,"(1844, 271)",3,"(1652, 271)","del ""Num_adj"" not one",治療回数を1回の患者に限定
+データ選択,303,"(1639, 271)",412,"(1311, 271)","If ""Adj_tech"" is not in ""Simple"",""Double cathe"",""Triple cathe"",""BAT"",""Stent assist"",""Unknown"", the cases are removed.",補助手技が左記以外の患者を削除
+欠損値削除,64,"(1631, 271)",244,"(1307, 271)",df.shape is same coil_size1/length1,コイルの記録が無い患者を削除
+欠損値削除,64,"(1631, 271)",244,"(1307, 271)",df.shape is same coil_size1/length1,コイルの記録が無い患者を削除
+カラム削除,0,"(1631, 264)",0,"(1307, 264)","Drop columns ""Status_rupture"", ""Aneu_type"", ""Aneu_location_support"", ""Is_retreat"", ""Num_adj"", ""Complication"", ""Is_adj_rupture""",不要なカラムを削除

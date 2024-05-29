@@ -1,0 +1,1674 @@
+ID,Sex,Age,Aneu_location,Aneu_neck,Aneu_width,Aneu_depth,Aneu_height,Aneu_volume,Adj_tech,Is_bleb
+1,woman,69,ICA,3.8,5,6.9,5.95,107.42725,Unknown,no
+2,woman,49,ICA,2.7,10.9,8.2,9.55,446.7063433,Unknown,no
+3,woman,54,ICA,6,5.5,6.5,6,112.255,Unknown,no
+8,woman,63,ICA,5,11,11,11,696.5566667,Unknown,no
+11,woman,58,MCA,4.4,7.5,7.9,7.7,238.75775,Unknown,no
+16,woman,78,ICA,5,11,11,11,696.5566667,Simple,no
+17,woman,69,MCA,2.4,3.2,3.3,3.25,17.9608,Unknown,no
+20,woman,61,ICA,1.3,4.3,2.8,3.55,22.36831333,Unknown,no
+27,woman,64,ACA,1.8,3.5,5,4.25,38.92291667,Simple,no
+30,woman,55,ICA,8.4,8.4,9.8,9.1,392.03528,Simple,no
+32,woman,57,ICA,4.4,9.3,4.4,6.85,146.69138,Unknown,no
+33,woman,44,ICA,4.43,5.84,4.64,4.6,65.23295573,BAT,no
+35,woman,67,ICA,3.2,5.9,4,4.95,61.1358,Unknown,no
+36,woman,64,ICA,5.8,7.8,6.7,7.25,198.28315,BAT,no
+37,woman,59,ICA,4.5,6.3,6.3,6.3,130.85793,Unknown,no
+39,woman,71,ICA,4.55,7.19,12.06,9.62,436.5456529,Unknown,no
+41,woman,57,ICA,3.5,5.8,5.7,5.75,99.48305,Unknown,no
+42,woman,64,ICA,4.2,6.3,6.4,6.35,133.99008,Unknown,no
+46,woman,64,ICA,3,4.1,3.9,4,33.4724,Unknown,no
+47,woman,64,ICA,5,13,10,11.5,782.3833333,Unknown,no
+57,woman,65,ICA,2.97,3.65,3.88,3.765,27.9040967,Unknown,no
+62,man,58,ACA,3,4,3,3.5,21.98,Unknown,no
+65,man,55,ACA,3.5,3.5,5.2,4.35,41.4323,Unknown,no
+66,woman,39,ICA,4.3,6.6,5.9,6.25,127.36625,Unknown,no
+68,man,48,ICA,3.6,3.6,3.9,3.75,27.5535,Unknown,no
+69,woman,56,ICA,2.8,3,4.9,3.95,30.38735,Unknown,no
+72,woman,70,ICA,3.8,4.1,4.2,4.15,37.39897,BAT,no
+73,woman,55,ICA,4.3,5.3,4,4.65,51.5902,Unknown,no
+75,man,51,ICA,3.9,7.1,6.3,6.7,156.83829,Unknown,yes
+76,woman,61,ICA,5,7,6,6.5,142.87,BAT,yes
+77,man,51,ICA,3.8,7.8,8.9,8.35,303.35383,BAT,no
+83,woman,66,ICA,1.6,2.7,2.5,2.6,9.1845,Unknown,no
+84,woman,58,ICA,5,6,14,10,439.6,Unknown,no
+85,woman,69,ICA,3,6,4,5,62.8,Unknown,no
+89,woman,46,ICA,6.7,8.3,8,8.15,283.2070667,Unknown,no
+90,man,46,BA,3,4,4,4,33.49333333,Unknown,no
+91,woman,42,ICA,4.7,7.9,6.4,7.15,189.1870933,BAT,no
+94,woman,67,ICA,5.4,6.7,5.1,5.9,105.50557,BAT,no
+95,woman,57,ICA,5,12.1,15.3,13.7,1327.32039,BAT,no
+96,woman,69,ICA,3.4,8.4,4.7,6.55,135.33086,Unknown,no
+97,man,19,ICA,3,6.5,4.5,5.5,84.19125,Unknown,no
+100,woman,49,ICA,6,15,10,12.5,981.25,BAT,no
+104,woman,61,BA,5.1,6,6,6,113.04,Unknown,no
+105,man,39,ICA,1.7,4.1,2.6,3.35,18.68875667,Unknown,yes
+106,woman,65,ICA,1.5,5.6,5,5.3,77.66266667,BAT,no
+107,man,65,ACA,1.9,5.1,3.3,4.2,36.99234,Unknown,no
+112,man,49,ICA,2.5,9.6,4.8,7.2,173.62944,Unknown,yes
+116,woman,63,ICA,3.9,7.4,8.8,8.1,276.04368,BAT,no
+118,man,57,MCA,5,8.5,10,9.25,411.4708333,BAT,no
+121,woman,59,ICA,3.7,9.1,9.5,9.3,420.75215,BAT,no
+130,woman,54,BA,5.5,6.3,6.8,6.55,146.84838,BAT,no
+131,woman,59,ICA,4.6,24,17.7,20.85,4635.2052,Unknown,no
+132,woman,58,ICA,3.4,6.4,4.8,5.6,90.03008,Unknown,no
+138,woman,65,ICA,3.9,5.1,6,5.55,88.8777,Unknown,no
+142,woman,42,ICA,4.1,5.4,5,5.2,73.476,BAT,no
+143,woman,69,ACA,2.9,2.6,3.3,2.95,13.24609,Unknown,no
+150,woman,50,ACA,3,6,10,8,251.2,Unknown,no
+152,woman,60,ICA,6,9.17,7.86,17.03,642.3695223,Unknown,no
+153,man,56,ACA,4.5,8.4,6.8,7.6,227.18528,Unknown,yes
+154,woman,68,ICA,3.3,8.4,7.2,7.8,246.87936,BAT,yes
+158,woman,56,MCA,3.1,6,5,5.5,86.35,BAT,no
+162,woman,54,ICA,4.7,15.1,7.3,11.2,646.0947733,BAT,no
+164,woman,61,ICA,9.3,13.9,19.8,16.85,2426.93583,Unknown,no
+168,woman,66,ICA,7.7,13.5,12.8,13.15,1189.1808,Simple,no
+171,man,53,ACA,4.83,6.19,9.4,7.795,237.3629986,Simple,no
+173,woman,68,ICA,8.3,20,23,21.5,5175.766667,Simple,no
+175,woman,58,ACA,2.9,5.8,3.8,4.8,55.36448,Simple,yes
+178,man,71,ACA,4.2,7.2,6.6,6.9,171.59472,Unknown,yes
+179,man,37,MCA,2.8,5.3,4.4,4.85,59.19004667,Simple,yes
+180,woman,66,BA,3.3,4.2,6.9,5.55,84.17241,BAT,no
+181,woman,60,ICA,4.4,5.3,6.1,5.7,96.44039,Simple,no
+183,woman,64,BA,4.8,6,5.8,5.9,107.4508,BAT,no
+184,woman,62,BA,5.3,6.3,6.6,6.45,140.35329,BAT,no
+186,woman,69,ICA,3,5.8,5,5.4,81.954,Simple,no
+187,woman,63,ICA,3.9,7.4,7.3,7.35,207.78793,BAT,no
+189,woman,66,MCA,3.4,5.2,4.7,4.95,63.31182,Simple,no
+191,woman,63,ICA,6.6,9,10.6,9.8,489.2748,BAT,no
+192,woman,37,ICA,3.5,3.7,2.1,2.9,11.79227,Simple,no
+193,man,48,VA,4.4,5.6,7.3,6.45,137.99044,Simple,no
+194,woman,73,ICA,3.6,7,4,3,43.96,BAT,yes
+195,man,59,ACA,2.7,4.8,5.2,5,65.312,Simple,no
+196,woman,68,ICA,3.6,5.9,4.7,5.3,76.91377667,BAT,no
+197,woman,64,ICA,2.7,8.3,5.2,6.75,152.4627,Unknown,no
+199,woman,37,ICA,3.7,5.3,3.6,4.45,44.43414,BAT,no
+203,woman,37,ICA,3.5,3.6,2.9,3.25,17.7567,BAT,no
+208,man,41,ICA,6.3,11.6,9.5,10.55,608.4325667,BAT,no
+209,woman,62,BA,4,6,5,5.5,86.35,BAT,no
+211,man,39,ICA,3.9,9.1,9.9,9.5,447.89745,BAT,no
+213,man,48,ICA,2,3.7,2.4,3.05,14.17396,Simple,no
+214,woman,65,ICA,3.5,7.9,8,7.95,262.9436,BAT,no
+219,woman,62,ICA,4.5,3.8,4.7,4.25,39.72361667,BAT,no
+220,woman,47,ACA,2.2,4.9,2.8,3.85,27.64351333,Simple,yes
+221,man,55,ACA,1.6,4.2,3.2,3.7,26.02432,Simple,yes
+223,woman,64,ICA,6,6.4,5.7,6.05,115.50176,BAT,no
+227,man,62,ICA,2.5,6,4.1,5.05,65.0137,Simple,no
+232,woman,64,ICA,4.2,7.5,9.4,8.45,311.76275,BAT,no
+233,woman,61,ACA,4.3,5.1,3.6,4.35,41.79654,Simple,no
+234,woman,76,ICA,6.7,10.3,10.1,10.2,555.31214,BAT,no
+237,woman,54,MCA,4,6.5,4.4,5.45,81.57196667,Double cathe,yes
+238,woman,64,ICA,5.9,9.4,8.9,9.15,400.60591,BAT,no
+242,man,63,ACA,2.6,4.9,3.1,4,31.79773333,BAT,no
+246,woman,64,ICA,4,9,7,8,263.76,BAT,no
+248,woman,58,ICA,3.9,5.8,5.6,6,101.9872,BAT,no
+249,man,50,ICA,3.6,4.4,5.4,4,49.7376,Simple,no
+251,woman,40,ICA,3.5,6.8,6,4.8,102.4896,BAT,no
+253,woman,60,BA,5,6,8,6,150.72,Simple,no
+255,woman,56,ICA,4,6,5,4,62.8,BAT,no
+258,man,42,BA,6.8,12.2,11.1,16.3,1155.17774,Simple,no
+260,woman,34,MCA,3,2.5,3,2.7,10.5975,Simple,no
+262,woman,67,ICA,4.8,9.2,8.3,8,319.6938667,BAT,no
+266,woman,65,ICA,3.4,11.5,9.4,10.8,610.9812,BAT,no
+268,woman,68,ICA,3,4,3,2.5,15.7,Simple,yes
+271,man,69,ACA,4.3,5.4,5.5,5.5,85.4865,Simple,yes
+272,woman,57,ICA,4,5.5,6.9,5.5,109.23275,BAT,no
+274,woman,52,ICA,6.6,5.1,10,5.1,136.119,BAT,no
+275,woman,66,MCA,4.7,5.3,6.8,5.3,99.96294667,Simple,no
+276,woman,40,ICA,5.8,7.8,5.7,6,139.6044,BAT,no
+279,woman,56,ACA,4.2,5.7,6.8,6,121.7064,Simple,no
+281,man,57,ICA,5.5,12.1,11.6,12,881.4608,BAT,no
+282,woman,65,ACA,6.3,6.9,6.1,6.5,143.17615,Double cathe,no
+283,woman,62,BA,6.2,8.3,8.8,9.8,374.5978133,BAT,yes
+286,woman,62,ICA,5.4,6.9,8.4,7,212.3268,BAT,no
+287,woman,55,MCA,5,9.9,8.8,9,410.3352,Simple,no
+289,woman,74,ICA,3.5,4,6,4,50.24,Simple,no
+290,woman,72,ICA,2.8,3.6,3.2,3.5,21.1008,BAT,no
+291,man,44,ICA,3.8,4.9,4.5,4.7,54.23565,BAT,no
+293,woman,56,ICA,4.8,8.8,11.2,9.9,510.63936,BAT,no
+295,man,66,BA,6.8,8.2,12.8,9,494.3616,BAT,no
+296,man,53,BA,5.9,13,12.8,11.9,1036.283733,BAT,no
+297,man,60,ICA,3.9,4.1,4.3,5.9,54.43556333,BAT,no
+301,woman,52,BA,4.9,3.2,4,5.3,35.50293333,Simple,yes
+302,woman,56,ICA,4.1,6.7,6.4,6.5,145.8634667,BAT,no
+303,woman,66,BA,3.9,5.2,4,4.2,45.7184,BAT,no
+305,man,75,ICA,2.6,9.55,7.19,9.11,327.3625814,Simple,no
+308,woman,50,ICA,3.8,5.5,5,3.8,54.68833333,BAT,no
+311,woman,58,ICA,4.2,7.2,8.6,8.5,275.4408,BAT,no
+312,woman,28,ICA,3.6,8.5,4.7,5,104.5358333,BAT,no
+316,woman,76,ICA,22.4,26.9,20.9,28.5,8385.36215,Double cathe,yes
+318,woman,54,ICA,3.4,7.2,9,8.5,288.252,BAT,no
+319,woman,64,ICA,3.6,5.7,5.8,5,86.507,BAT,no
+324,woman,76,ICA,3.6,9.3,6.3,6.4,196.23744,Simple,yes
+325,woman,62,ICA,3.8,5.2,6.4,5.5,95.79093333,Simple,no
+326,man,58,ICA,3.3,4.4,4.6,5,52.96133333,Simple,no
+327,woman,53,ICA,5,6.8,5.2,6.3,116.58192,BAT,no
+328,woman,65,ICA,4.03,5.27,5.96,5.615,92.29645769,BAT,yes
+329,man,46,ACA,4.1,5.4,4.6,4.7,61.09812,Double cathe,yes
+332,woman,45,ICA,3.4,3.9,3.3,3.6,24.24708,Unknown,no
+333,man,54,ACA,3.6,5.1,4.4,4.8,56.36928,Simple,yes
+337,woman,73,ICA,5.2,9.4,9,8.5,376.329,Double cathe,no
+339,woman,54,ICA,2.52,3,4,3.5,21.98,BAT,yes
+340,woman,69,ACA,2.3,7.1,4.7,5.6,97.79634667,Simple,yes
+341,woman,38,ICA,4.7,7.3,5.3,6,121.4866,Simple,no
+342,woman,69,ACA,4.3,7.4,5.5,5,106.4983333,Double cathe,no
+344,man,50,ICA,2.27,5.98,2.66,2.6,21.64385253,Simple,no
+345,woman,69,ICA,3,5.3,4.7,4.5,58.66305,BAT,no
+346,woman,64,MCA,2.9,4.9,4.7,4.7,56.64612333,Simple,no
+347,woman,65,ICA,9.7,20,20,14.3,2993.466667,Double cathe,no
+350,woman,58,ICA,1.9,5.3,4.3,4,47.70706667,Simple,no
+351,woman,64,ICA,2.5,3.5,3.1,3,17.0345,Simple,no
+352,woman,77,ICA,3.1,8.5,6,6.5,173.485,Simple,no
+353,woman,71,ICA,6.8,11.1,7.2,8.3,347.14584,BAT,no
+357,woman,49,ICA,4.6,6,4.9,5.1,78.4686,BAT,no
+359,woman,60,ACA,3.9,5.1,4.6,2.9,35.60446,Simple,no
+361,woman,60,BA,4.2,10.7,9.3,7.6,395.78444,BAT,no
+363,woman,71,ICA,7.7,15.4,15.9,15.9,2037.48006,BAT,no
+364,woman,61,ICA,6.9,8.1,7.2,6.6,201.43728,Double cathe,no
+368,man,58,ICA,2.6,8.5,7,7.2,224.196,Simple,no
+369,woman,58,ICA,4.3,14,10.3,7.4,558.4385333,Simple,no
+370,woman,68,ICA,2.9,3.9,3.7,3.3,24.92061,Simple,no
+374,woman,65,ICA,2.6,4.9,4.2,3.8,40.92676,Simple,no
+375,woman,66,ICA,2.8,5.8,5.9,6.8,121.7775733,Simple,yes
+377,woman,57,MCA,4.4,6.5,5.5,4.7,87.93308333,Double cathe,no
+378,woman,72,ICA,3.2,4.9,4.3,5.3,58.44115667,Simple,no
+380,man,78,MCA,4.5,10.1,9.9,9.5,497.11695,Simple,no
+382,woman,48,ICA,3.84,5.01,4.49,5.2,61.2161212,Simple,no
+383,man,42,BA,3.1,5.7,5,3.8,56.677,Simple,no
+384,woman,74,MCA,5.6,8.8,5.2,7,167.6341333,Double cathe,no
+386,woman,65,ICA,3.8,6.5,6.1,4.4,91.30073333,Simple,no
+388,man,53,ICA,3.2,4.6,5.2,4.8,60.08704,Double cathe,no
+389,woman,47,ICA,4.3,8.6,9.6,8.1,349.97184,BAT,no
+390,man,62,ICA,3.3,8.56,6.37,5.7,162.6546376,BAT,no
+392,woman,43,ICA,2,4.4,3.5,3,24.178,Simple,no
+393,woman,70,ICA,5,7.2,5.9,6.4,142.27968,Double cathe,no
+394,woman,50,BA,3.6,6.1,3.4,4.6,49.92809333,Double cathe,no
+396,woman,60,MCA,2.6,4.5,4.4,4.3,44.5566,Simple,no
+397,man,58,ACA,2.78,4.16,3.66,3.75,29.88024,Simple,no
+399,woman,62,MCA,3.6,5.5,5.3,6.3,96.10755,BAT,yes
+400,woman,64,BA,5,7.3,6.6,6.8,171.45656,Simple,no
+402,man,50,MCA,2.9,6.3,6.1,6,120.6702,Double cathe,no
+403,woman,64,ICA,5.3,7.3,4.6,5,87.86766667,BAT,no
+404,woman,56,VA,2,4.9,2.7,2.9,20.07873,Simple,yes
+406,woman,37,ICA,3.6,6.2,6.6,6.1,130.63028,BAT,no
+407,man,41,ACA,2.9,5.09,2.98,3.44,27.30680485,Simple,no
+408,man,64,ACA,3.5,9.1,10.3,8.8,431.6578933,Double cathe,no
+409,woman,50,ICA,1.8,3.4,3.35,3.1,18.47837667,Simple,no
+410,man,53,MCA,3.9,4.1,6.3,5.7,77.05089,BAT,no
+411,woman,64,ICA,4,6.1,9.2,7.3,214.3971067,Simple,no
+412,woman,46,ICA,4.5,8.6,5.9,6.5,172.6005667,BAT,no
+413,man,58,BA,4.2,5,4.9,4.4,56.41533333,BAT,no
+416,woman,55,ICA,2.3,5.6,4.7,5,68.87066667,BAT,no
+417,woman,72,ICA,3.8,6.6,4.3,5,74.261,BAT,yes
+418,woman,54,ICA,2,5,3,4,31.4,Simple,no
+419,woman,64,MCA,2.9,4.3,4.4,3.8,37.62557333,Simple,yes
+420,man,61,ICA,7.1,7.6,7,6.8,189.3210667,BAT,no
+421,woman,58,ICA,7.41,17.7,12.5,14,1621.025,BAT,yes
+423,woman,73,ICA,3.8,5.6,5.1,5.3,79.21592,BAT,yes
+424,woman,69,ACA,3.4,5.2,4.5,6,73.476,Simple,yes
+429,woman,58,ICA,3.9,6.7,4.2,5.2,76.57832,BAT,no
+435,woman,55,MCA,5.9,6.9,6.8,6.5,159.6062,Simple,yes
+437,man,68,BA,6.27,8.1,8.33,8.215,290.0787971,Double cathe,no
+438,man,66,ACA,3.4,5.6,4.2,4.8,59.08224,Simple,no
+440,woman,71,ICA,3.1,3.6,3.9,3.5,25.7166,BAT,no
+441,man,72,ACA,3.6,5.8,4.7,5,71.33033333,Double cathe,yes
+445,woman,72,ACA,5.1,8.8,5.9,6.1,165.7459467,Simple,no
+448,woman,72,ICA,3.6,5.1,4.5,4.2,50.4441,Simple,yes
+449,woman,43,ICA,1.8,3.1,1.8,2,5.8404,Simple,no
+451,woman,73,ICA,4.5,10.8,9.9,10,559.548,BAT,yes
+453,woman,64,ICA,4.6,6.5,6.3,6.4,137.1552,BAT,no
+454,woman,65,ICA,4.6,5.8,5.6,7.8,132.58336,BAT,no
+455,woman,72,ICA,5.7,6.9,7.2,10,259.992,Simple,yes
+456,woman,61,MCA,4.669,6.672,6.211,6.441,139.6848365,Simple,no
+457,woman,73,ICA,3.8,4.8,6.5,5.2,84.9056,Simple,no
+458,woman,73,ICA,3.1,4.5,5.1,4.3,51.64515,BAT,no
+460,woman,59,VA,2.8,7.9,5.6,6,138.9136,Simple,no
+463,woman,57,ICA,4.4,9.3,11.8,10.5,603.0213,Simple,no
+464,woman,60,BA,7.8,11,9.7,10.7,597.4844333,Simple,yes
+465,woman,50,ICA,4.4,7.9,5.5,5.6,127.3374667,Simple,no
+466,woman,66,ICA,3.5,5.2,5.2,4.4,62.26410667,BAT,no
+469,woman,71,ACA,3.2,7.1,5.1,6.1,115.59439,Simple,yes
+470,man,47,ACA,4.7,5.2,4.6,4.9,61.33885333,Double cathe,no
+471,man,33,BA,3.4,4.9,5.9,5.2,78.67374667,Simple,yes
+475,woman,71,ICA,5.2,8,10.1,8.7,367.8824,BAT,no
+476,woman,73,ICA,3,5.1,4.8,4.95,63.41544,Simple,no
+477,woman,59,ICA,3.2,12.9,10.27,14.3,991.458611,Double cathe,no
+478,woman,66,ACA,4.2,8.3,7.7,7.5,250.84675,Simple,no
+479,woman,46,MCA,3.5,4.2,3.6,4,31.6512,Simple,no
+481,man,50,BA,4.7,5.3,5.4,5.3,79.38234,BAT,no
+482,woman,55,ICA,4.8,4.9,5.6,5.5,78.98146667,Simple,yes
+487,woman,70,ICA,4.8,13.8,11.5,12,996.636,BAT,yes
+488,woman,51,ICA,9.85,11.2,13.6,12.4,988.4552533,Double cathe,no
+493,man,72,BA,4.83,4.16,5.07,4.615,50.93911472,BAT,no
+495,woman,52,ICA,3.1,3.95,3.78,3.865,30.20068485,Simple,no
+496,woman,62,ICA,4.1,9.6,7,7.6,267.2768,BAT,no
+497,woman,59,ICA,3.5,3.9,3.06,3.48,21.7342008,Double cathe,no
+501,woman,73,MCA,3,3.1,4,3.7,24.01053333,Simple,no
+508,man,58,VA,6.7,10,5.7,6.5,193.895,Stent assist,no
+510,woman,54,ICA,9,6,10.1,8.05,255.2977,Stent assist,no
+511,woman,64,MCA,4.3,7.3,3.3,5,63.0355,Double cathe,yes
+513,man,78,ACA,1.6,2.5,4.5,2.8,16.485,Simple,yes
+514,woman,70,ICA,4.6,6.3,5.6,6,110.7792,Simple,yes
+515,man,62,ICA,3.4,4.7,4.1,6,60.5078,Double cathe,no
+516,woman,65,ICA,3.53,5.38,4.91,5.145,71.12586229,Simple,no
+519,man,61,ICA,4.4,5.4,4.7,5,66.411,Double cathe,no
+520,man,71,ACA,2.8,4.5,4,5.5,51.81,Simple,yes
+522,man,57,BA,5.1,5.7,5.5,5.5,90.23575,Double cathe,no
+523,woman,62,ACA,3,7,3.4,5.2,64.76773333,Simple,no
+524,woman,47,ICA,2.4,3.5,3.1,3.5,19.87358333,Simple,yes
+525,woman,60,ICA,3,4.9,4,4.3,44.10653333,BAT,no
+526,man,73,BA,5.1,6.2,5.4,7.3,127.90476,Double cathe,no
+528,woman,64,ICA,4.5,4.6,5.1,3.4,41.74316,Simple,no
+529,woman,54,ICA,10,15,15,15,1766.25,Double cathe,no
+532,woman,69,ICA,3.2,4.8,3.8,3.8,36.27328,Double cathe,no
+533,man,60,ACA,3.9,10.4,9.8,9.5,506.7122667,Simple,no
+534,man,60,ACA,6.4,4.8,5.4,5,67.824,Simple,no
+535,man,60,ACA,6.5,9.4,7.5,8,295.16,Simple,no
+536,woman,63,ICA,6,3.8,6.5,5,64.63166667,Double cathe,no
+537,man,63,ICA,2.3,6.1,3.7,2.5,29.52908333,Simple,no
+539,woman,56,ICA,4.3,6.1,8,5.8,148.1242667,Simple,no
+540,woman,65,BA,4.9,4.8,4.5,4.6,51.9984,BAT,no
+543,man,57,ACA,3.6,4.2,5.1,4.1,45.96018,Simple,no
+545,woman,74,BA,4.5,6.2,4.7,5,76.24966667,Double cathe,no
+549,man,35,ICA,5.8,6.7,7.5,6,157.785,BAT,yes
+553,woman,78,ICA,7.8,12.8,10.9,16.1,1175.549013,Double cathe,no
+554,man,65,ACA,2.7,4.4,4.3,4.2,41.58616,Simple,yes
+555,woman,64,ICA,4,4,4.1,4.1,35.18893333,BAT,no
+556,woman,73,ICA,4.1,4.6,4,3.5,33.70266667,Simple,no
+557,woman,73,ACA,3.3,4.1,3.1,5,33.25783333,Simple,no
+558,woman,56,ICA,5.6,8,5.9,6.8,167.9690667,BAT,no
+560,woman,76,VA,8.3,11.2,10.4,10.8,658.34496,Double cathe,yes
+561,woman,69,ICA,5.7,3.9,3.4,5.6,38.86064,Double cathe,no
+562,woman,68,ICA,4.6,9.1,8.4,8.6,344.03096,Double cathe,no
+564,man,50,ICA,3.1,3.8,3.5,4,27.84133333,Simple,no
+572,woman,66,ICA,7.1,10.7,12,9.3,624.9228,Double cathe,no
+576,woman,62,ICA,4.5,4.7,5.4,4.3,57.11346,Simple,no
+577,woman,66,ICA,5.8,10.3,7.7,7.5,311.29175,Double cathe,no
+578,woman,77,ICA,6.6,12.3,10.4,11.35,759.82348,Double cathe,no
+582,woman,69,VA,4.4,3.8,5.1,4.2,42.59724,Double cathe,no
+583,woman,53,VA,3.5,5.5,4.636,4.3,57.37899933,Simple,no
+588,woman,66,ACA,4.7,4.8,5.2,5,65.312,Double cathe,no
+589,woman,74,ICA,2.4,4,3.5,3.7,27.10866667,Simple,no
+590,man,56,ICA,3.6,4.9,5.4,5,69.237,Simple,no
+592,woman,49,ACA,4.8,5.9,4.6,5.6,79.53829333,Double cathe,yes
+596,woman,51,ICA,4,8.1,4.9,5.5,114.24105,Stent assist,no
+597,man,64,BA,4.9,4.6,6.1,5,73.42366667,BAT,no
+598,woman,50,MCA,4.9,7,5.6,6,123.088,Double cathe,no
+599,woman,51,ICA,5.8,7,4.3,4.9,77.18643333,BAT,no
+600,woman,41,ICA,7.9,10,8.1,6.3,267.057,Stent assist,no
+602,woman,56,BA,3.3,5.9,5,5.1,78.7355,BAT,no
+603,woman,61,ICA,2,5.7,3.3,4,39.3756,Simple,yes
+604,woman,43,ICA,4.5,4.8,4,3.5,35.168,Simple,no
+605,woman,31,ICA,5.1,6.5,4.7,5.2,83.13673333,BAT,no
+607,man,58,ACA,4,4.9,3.8,4,38.97786667,Simple,no
+608,woman,46,ICA,5.4,7,5.7,4.2,87.7002,Stent assist,no
+609,woman,76,ICA,2.5,4.2,4,6.3,55.3896,Simple,no
+611,woman,70,BA,4.3,4.8,6,5.5,82.896,Double cathe,no
+612,man,52,ICA,3,5.1,4,4.5,48.042,Simple,no
+613,woman,62,MCA,4,5.3,5.8,5,80.43633333,Simple,no
+615,woman,63,ICA,4.4,4.5,4,7,65.94,BAT,no
+616,man,51,ICA,2.6,4.5,2.8,4,26.376,BAT,no
+617,woman,56,BA,4.7,5.6,5.9,5,86.45466667,Simple,yes
+619,woman,58,ICA,4,4.5,4.4,7,72.534,Stent assist,no
+621,woman,66,ICA,6.9,16,15.4,18,2321.088,Double cathe,no
+622,man,51,ICA,5.8,4.9,6.8,5,87.18733333,Double cathe,no
+623,woman,72,ICA,5.5,5.9,4.8,5.35,79.29128,Stent assist,yes
+624,man,40,ACA,3.6,3.6,4.2,4,31.6512,Simple,yes
+625,woman,56,ICA,6.4,6.3,7,6.5,150.0135,Double cathe,no
+627,woman,63,ICA,4.4,4.4,4,4.2,38.6848,BAT,no
+628,woman,69,ICA,6.6,18.3,15.7,17,2556.1013,Double cathe,no
+629,man,50,ACA,5.8,5.6,5.4,6,94.9536,Simple,no
+630,man,69,BA,6.3,10.1,10.1,10,533.8523333,Double cathe,no
+634,woman,74,BA,5.1,4.4,4.4,4.5,45.5928,BAT,yes
+635,woman,67,BA,7.3,8.8,9.1,7,293.3597333,Simple,yes
+636,woman,67,ICA,4.4,3.9,4.1,4,33.4724,Double cathe,no
+637,woman,57,BA,6.4,6.7,8,5.5,154.2786667,Double cathe,no
+639,woman,64,MCA,3.7,4.8,3.7,4.5,41.8248,Simple,no
+640,man,56,ACA,5.9,9.4,6.6,12,389.6112,Double cathe,yes
+642,woman,65,ACA,2,4.5,5,5,58.875,Simple,no
+644,woman,39,ICA,4.4,4.7,4.2,4.5,46.4877,Simple,no
+645,woman,70,BA,2.2,3.2,4,2.5,16.74666667,Simple,no
+646,woman,74,ICA,11,17.7,13.5,15,1875.7575,Double cathe,no
+648,woman,71,ICA,3.3,4.4,4.1,3.4,32.09917333,BAT,no
+650,woman,56,ICA,4.6,5.9,3.5,6.3,68.08305,Simple,no
+655,woman,69,ICA,4.8,7.2,5.6,6,126.6048,BAT,no
+656,woman,39,ICA,3.6,3.8,3.9,5,38.779,Simple,no
+657,woman,62,ICA,3.8,8.7,6.9,7,219.9099,Double cathe,yes
+658,woman,64,ICA,3.5,4.4,4.1,5.2,49.09285333,Double cathe,no
+659,woman,40,ICA,3.1,3.7,3.8,4,29.43226667,BAT,no
+660,woman,67,ICA,4.71,5.2,4.3,4.75,55.58323333,BAT,no
+662,man,72,VA,4.3,3.1,4.3,3.7,25.81132333,Simple,no
+664,woman,52,ICA,3.3,4.8,4.3,4.5,48.6072,Simple,yes
+666,woman,57,ICA,4.8,4.1,4.9,4.5,47.31195,Stent assist,no
+667,woman,50,ICA,7.4,7.6,8.2,8,260.9130667,BAT,no
+668,woman,69,ACA,6.6,7.1,6.7,6.8,169.2857733,Double cathe,no
+669,man,72,ICA,3.8,4.9,4.1,4.5,47.31195,BAT,no
+670,man,43,ICA,5.4,4.8,3.6,4.2,37.98144,Stent assist,yes
+671,man,62,BA,6.1,5.9,7.1,6.5,142.4958167,Double cathe,no
+672,woman,62,ICA,4.1,4.1,3.8,4,32.61413333,Double cathe,no
+673,woman,56,ICA,3.9,3.9,4.6,4.2,39.43212,BAT,no
+674,man,49,ACA,3.4,6,4.9,5.5,84.623,Double cathe,no
+675,woman,72,ACA,3.6,4.5,4.5,4.5,47.68875,Double cathe,no
+676,woman,43,ICA,3.6,3.9,4.1,4,33.4724,BAT,yes
+677,woman,43,ICA,5.4,4.4,4.2,4.3,41.58616,BAT,no
+678,woman,44,ICA,3.1,4.6,3.1,3.4,25.37329333,BAT,no
+679,woman,65,ICA,7,9.4,7.8,8.6,329.98888,Double cathe,no
+682,woman,41,ICA,2.8,3.3,3.1,3.2,17.13184,Simple,yes
+683,woman,60,ICA,2.9,5.5,3.7,4.6,48.98923333,Simple,no
+686,woman,63,BA,4.8,4.4,3.5,3.7,29.81953333,Double cathe,yes
+688,man,59,ACA,4.1,5.1,4.4,4.8,56.36928,Double cathe,no
+690,woman,67,ICA,4.7,4.6,4.3,4.5,46.5819,BAT,yes
+691,woman,61,ICA,2.68,4.5,3.7,4.1,35.72535,Simple,no
+692,woman,67,ICA,3.5,3.8,4.9,4.3,41.90120667,BAT,no
+693,woman,56,ICA,5,6.4,5.4,5.9,106.70976,BAT,no
+694,woman,55,ICA,13.5,30.8,25.7,21.3,8823.51932,Double cathe,no
+695,woman,59,BA,9.6,12.6,11.2,11.9,878.84832,Stent assist,no
+696,man,39,BA,3.3,5.5,4.7,5.1,68.99365,BAT,no
+698,woman,73,ICA,2.1,4.4,3.4,3.9,30.53336,Simple,no
+699,woman,73,MCA,3.9,3.5,3.1,3.3,18.73795,Simple,no
+700,man,53,BA,3.1,3.9,3.4,3.7,25.67578,Double cathe,no
+701,woman,52,ICA,6.3,6.4,4.9,5.7,93.54688,BAT,no
+702,woman,69,ICA,4.4,5.8,4.5,5.2,71.0268,Double cathe,no
+703,woman,46,ICA,4.6,4.1,3.8,4,32.61413333,BAT,no
+704,man,51,ICA,3.9,4.8,4.5,4.7,53.1288,Double cathe,no
+707,man,68,ICA,4.5,6.7,4.7,5.7,93.93467,Double cathe,no
+709,man,39,ACA,5.5,9.7,4.6,7.2,168.12816,Simple,yes
+710,woman,63,ICA,4.5,5.1,3.9,4.5,46.84095,Simple,no
+711,man,62,MCA,3.5,5.2,4.8,5,65.312,Double cathe,yes
+712,woman,67,ICA,4.1,5.7,3.9,4.8,55.84176,BAT,no
+713,woman,46,ICA,5.3,5.3,5.1,5.2,73.55764,Simple,no
+714,woman,76,ICA,6.9,7.8,7.5,7.7,235.7355,Double cathe,yes
+716,woman,68,ICA,4.7,5.4,6.4,5.7,103.09248,Double cathe,no
+719,woman,54,ICA,4.5,8.1,7.3,7.7,238.27419,BAT,no
+720,woman,56,ICA,4.8,7.6,7.2,7.4,211.91232,Simple,no
+721,woman,53,MCA,4.9,5.4,4.7,5.1,67.73922,Double cathe,yes
+722,woman,62,ACA,4.2,10.6,9.4,10,521.4493333,Double cathe,yes
+723,man,56,ICA,3.3,5.9,4.6,5.3,75.27731333,Simple,no
+725,woman,64,ICA,5.3,5.9,5.8,5.9,105.6599533,BAT,no
+726,woman,35,ICA,3,3.6,3.3,3.5,21.7602,Simple,no
+727,woman,45,ICA,6.5,8.1,7.1,7.6,228.73644,Double cathe,no
+729,woman,61,ICA,3.3,4.5,3.9,4.2,38.5749,Double cathe,no
+731,man,65,ACA,6.3,7,5.9,6.5,140.4888333,Double cathe,yes
+733,woman,74,ICA,6.2,6.5,5.3,5.9,106.3701167,Double cathe,no
+735,woman,65,ACA,4.9,5.8,4.9,5.4,80.31492,Double cathe,no
+736,woman,49,ICA,4.9,7.8,6.3,7.1,182.58786,Double cathe,no
+737,woman,49,ICA,3.7,4.5,4.4,4.5,46.629,BAT,no
+738,woman,40,ICA,6.5,5.5,4.9,5.2,73.33993333,BAT,no
+743,woman,46,ICA,3.1,3.4,3.1,3.3,18.20258,Simple,no
+744,woman,76,ICA,4.1,6.5,6.3,6.4,137.1552,Simple,yes
+745,woman,40,ICA,4.7,5.5,4.7,5.1,68.99365,BAT,no
+746,man,71,BA,7.4,9.3,9,9.2,402.9876,Stent assist,no
+748,woman,34,ICA,3.2,3.5,3.4,3.5,21.79683333,Simple,no
+749,woman,60,ICA,4.5,4.8,4.5,4.7,53.1288,BAT,yes
+751,woman,72,ICA,10.4,10.7,10.4,10.6,617.3072533,Double cathe,no
+753,man,60,ICA,5.7,10.6,8.3,9.5,437.4072333,Double cathe,no
+756,woman,47,ICA,5.5,5.4,4.6,5,64.998,BAT,yes
+758,woman,63,ICA,4.9,8,5.8,6.9,167.5504,BAT,no
+759,man,62,VA,9.5,9.8,7.9,8.9,360.5965533,Stent assist,no
+761,woman,68,BA,12,16.1,12.4,14.3,1494.039213,Double cathe,no
+762,woman,64,MCA,2.2,2.7,2.6,2.7,9.91926,Simple,no
+763,woman,57,ICA,3,3.9,3.7,3.8,28.69646,Simple,no
+764,man,33,ACA,3.9,6.1,5.6,5.9,105.4746933,Simple,no
+766,woman,67,ACA,2.9,4.8,3.5,4.2,36.9264,Simple,no
+768,woman,63,VA,4,7.3,6.8,7.1,184.4456933,Simple,no
+769,woman,34,ACA,4.1,4.9,4,4.5,46.158,Simple,yes
+772,woman,62,MCA,3.9,3.6,3.5,3.6,23.7384,Simple,no
+773,woman,46,ICA,4.3,3.6,3.5,3.6,23.7384,BAT,no
+775,woman,69,BA,3.1,4.4,4.4,4.4,44.57962667,Simple,no
+777,woman,46,ICA,4.3,3.2,2.1,2.7,9.49536,Simple,no
+778,woman,57,MCA,3.6,3.4,2.7,3.1,14.89302,Double cathe,no
+779,woman,68,ICA,2.7,4.3,3.4,3.9,29.83942,Simple,no
+780,woman,65,ICA,3.4,4.9,3,4,30.772,Simple,yes
+783,woman,67,ICA,4,6,5.9,6,111.156,Double cathe,no
+787,woman,64,ICA,3.5,6.4,5.2,5.8,101.0158933,Simple,no
+788,man,70,ACA,4,5.6,5.2,5.4,82.29312,Simple,no
+790,woman,62,ICA,6.8,7.1,7.1,7.1,187.3067567,Double cathe,no
+791,woman,71,MCA,6.3,5.6,4.7,5.2,71.62549333,Double cathe,no
+792,woman,37,ACA,4.8,4.7,3.8,4.3,40.19095333,Simple,no
+793,woman,58,ACA,3.8,5.6,3.9,4.8,54.86208,Simple,no
+795,woman,63,ICA,3,5.2,3.8,4,41.36426667,Simple,yes
+798,woman,66,ICA,8.8,9.7,6.5,8.1,267.26895,BAT,no
+799,woman,60,ICA,5.1,5.9,5,5.5,84.91083333,Simple,no
+800,woman,65,ICA,2.7,7.3,2.5,4.4,42.02366667,Simple,no
+801,woman,72,ICA,10.1,8.8,7.1,8,261.5829333,Stent assist,no
+805,man,57,MCA,4.2,8.2,5.6,7,168.2202667,Double cathe,no
+806,woman,46,ICA,5.7,6.6,7.2,6.9,171.59472,BAT,no
+808,woman,70,ICA,8.2,6.3,6.1,6.2,124.69254,Simple,no
+809,woman,53,ICA,5.6,6.1,6.9,6.5,143.17615,BAT,no
+817,man,46,ICA,3.5,3.8,3.4,3.6,24.34128,BAT,no
+819,woman,68,MCA,2.6,4.2,4.3,4.3,40.64102,Double cathe,yes
+820,man,32,BA,3.4,5.7,7.4,6.6,145.68972,Stent assist,yes
+821,man,37,ICA,6.3,7.9,7.8,7.9,254.75762,BAT,no
+822,woman,55,ICA,3.8,4.3,4.5,4.4,44.5566,Double cathe,no
+825,man,65,ICA,5.3,5.5,5.2,5.4,80.8236,BAT,no
+830,woman,58,ICA,4.7,5.4,4.9,5.2,72.00648,BAT,yes
+831,woman,60,ICA,7.6,5.8,7.7,6.8,158.9300533,BAT,no
+834,woman,56,ICA,10.8,13.4,11.9,12.6,1051.47924,Stent assist,no
+835,woman,47,MCA,5,6.9,6.4,6.7,154.83968,Double cathe,no
+837,woman,63,BA,11.3,17.3,17.9,17.6,2852.267147,Stent assist,no
+839,woman,69,ICA,6.2,4.9,5.5,5.2,73.33993333,Stent assist,no
+840,woman,35,ICA,4.4,4.8,5.6,5.2,73.14944,BAT,no
+841,woman,38,ICA,4.1,5,5.5,5.3,76.27583333,BAT,no
+844,man,43,ICA,6.2,3.8,4.8,4.3,41.04608,Stent assist,no
+845,woman,43,ICA,6,4,5.1,4.6,49.1096,BAT,no
+848,man,53,VA,6.1,5.5,6.3,5.9,106.98765,Stent assist,no
+851,woman,75,ICA,9.2,9.7,11.7,10.7,635.50617,Double cathe,no
+854,man,49,BA,2.1,2.5,1.3,1.9,3.231583333,BAT,no
+858,woman,73,ICA,7.2,6.5,8.1,7.3,201.14055,Stent assist,no
+861,woman,60,BA,3.1,2.8,1.4,2.1,4.30808,BAT,no
+864,woman,65,MCA,4,3.8,3.4,3.6,24.34128,Double cathe,no
+865,woman,69,ICA,7.4,9.3,10.7,10,520.769,Double cathe,no
+866,woman,60,ICA,4.3,4.3,5.2,4.8,56.16832,BAT,no
+867,woman,58,BA,6.9,5.8,6.2,6,112.9144,Double cathe,no
+868,woman,54,ICA,5.6,5.4,6.5,6,110.214,BAT,no
+869,woman,78,ICA,7.7,5.6,7.3,6.5,139.0601333,Double cathe,no
+870,woman,82,ICA,4.9,4.1,4.5,4.3,41.51865,Simple,no
+871,man,44,ICA,4.1,3.6,3.1,3.4,19.85736,Stent assist,yes
+872,man,55,ACA,4,4,4.2,4.1,36.0472,Double cathe,no
+875,woman,66,ICA,9.8,9.7,12.5,11.1,704.34125,Stent assist,no
+877,woman,73,VA,7.7,5.8,7.3,6.6,146.24236,Simple,no
+878,woman,75,ACA,4.2,5.3,5.6,5.5,85.42893333,Double cathe,no
+879,woman,64,VA,3.6,2.8,3.1,3,13.6276,BAT,no
+880,man,49,ACA,2.8,6.7,5.6,6.2,121.7398933,Simple,no
+881,man,55,ICA,4.6,5.1,5.1,5.1,69.42069,BAT,no
+882,woman,68,ACA,7.4,7,9.4,8.2,282.3697333,Double cathe,no
+884,woman,69,ICA,5.8,3.6,3.2,3.4,20.49792,Stent assist,no
+885,woman,69,MCA,4.1,4.5,5.2,4.9,60.0054,BAT,no
+888,woman,61,MCA,6.1,5.5,7.4,6.5,138.4478333,Double cathe,yes
+889,man,57,ACA,5.3,5.9,6.3,5.6,108.93288,Double cathe,yes
+890,woman,59,ICA,4.4,7.3,5.6,6.5,139.0601333,BAT,no
+891,man,79,ICA,6,7.1,9,8.1,270.8721,BAT,no
+893,woman,37,ICA,9,5.1,5.4,5.3,76.38678,Stent assist,no
+894,woman,77,ICA,4.2,8.4,6.5,7.5,214.305,Simple,no
+897,man,54,ICA,3.4,4.2,3.4,3.8,28.39816,BAT,no
+898,man,61,MCA,6.8,7.2,8.1,7.7,235.01016,Double cathe,no
+901,woman,74,BA,5.8,4.1,5.7,4.9,59.92847,BAT,no
+902,woman,70,ICA,2.4,3.8,3.2,3.5,22.27306667,Simple,no
+905,woman,73,VA,6.4,6.6,5.5,6.1,115.8817,Simple,no
+909,man,50,ICA,3.4,3.4,3.5,3.5,21.79683333,BAT,no
+910,woman,46,ICA,11,8.3,10.2,9.3,412.04022,Stent assist,no
+911,man,39,MCA,5.8,5.1,5.3,5.2,73.55764,Double cathe,no
+912,woman,60,ICA,3.6,3.8,4.2,4,33.4096,Double cathe,no
+914,man,55,ICA,2.5,2.5,2.2,2.4,6.908,Double cathe,no
+915,woman,28,ICA,3.9,11.2,9.7,10.5,596.9768,Double cathe,no
+917,man,69,ACA,3.6,4.2,4.2,4.2,38.77272,Double cathe,no
+921,woman,70,MCA,4.2,4.3,3.9,3.9,34.22757,Double cathe,no
+922,woman,42,ICA,3.6,4.3,5.5,4.9,60.64648333,Double cathe,no
+923,woman,77,ICA,5.8,4.1,5.7,4.9,59.92847,Stent assist,no
+924,man,46,VA,6.1,6.4,7.6,7,178.1845333,Double cathe,no
+926,woman,38,MCA,6.3,9.4,9.2,9.3,420.89816,Double cathe,no
+928,woman,65,ICA,6,7.4,6.3,6.9,168.34482,Stent assist,no
+931,woman,65,ICA,4.5,5.6,5.1,5.4,80.71056,BAT,no
+933,man,53,ACA,5.3,4.4,6.1,5.3,74.44521333,Double cathe,yes
+935,woman,57,MCA,3.9,4.4,4.6,4.5,47.6652,Double cathe,no
+936,woman,48,ICA,4.1,4.9,4.6,4.8,56.62048,Double cathe,no
+938,woman,61,ICA,4.1,5.9,4.5,5.2,72.2514,BAT,no
+939,woman,56,ICA,6,4.9,5.6,5.3,76.10941333,Stent assist,no
+940,woman,69,ICA,8.6,11.9,11.7,11.8,859.79166,Stent assist,yes
+942,man,49,ACA,4.2,6.3,6.2,6.3,128.78082,Simple,no
+943,woman,71,ICA,16.6,11.2,16.2,13.7,1300.86432,Double cathe,no
+944,man,55,ICA,6.3,10.3,13.5,11.9,865.95705,Double cathe,no
+945,woman,53,ICA,6.1,4.3,5,4.7,52.88283333,Stent assist,no
+946,woman,46,ICA,3.7,4.5,3.5,4,32.97,Double cathe,no
+947,woman,65,ICA,6.8,4.4,5.3,4.9,59.80025333,Double cathe,no
+948,man,63,ICA,3.1,4.1,3.2,3.7,25.40469333,Double cathe,no
+949,woman,44,ICA,7,6.4,7.4,6.9,171.01696,Stent assist,no
+950,man,71,VA,4,5.8,5.2,5.5,86.81053333,Double cathe,no
+953,woman,34,ICA,5.3,4.9,5.9,5.4,81.69966,BAT,no
+954,man,64,ACA,2.3,6.3,4.5,5.4,80.1171,Simple,no
+956,woman,32,ACA,4.5,3.9,4.4,4.2,37.71768,Simple,no
+958,man,74,ACA,4.3,4.3,5.1,4.7,53.94049,Double cathe,no
+961,woman,73,ACA,3.6,3.3,4.2,3.7,26.83758,Simple,no
+962,woman,76,ICA,4.1,4.4,4.4,4.4,44.57962667,Double cathe,yes
+963,man,60,BA,4.9,5.8,7.7,6.8,158.9300533,Simple,no
+964,woman,58,ACA,2.4,4.4,3.8,4.1,35.87554667,Double cathe,no
+965,woman,67,ICA,2.8,7.1,4.4,5.8,94.82381333,BAT,no
+966,man,74,MCA,4,6.8,5.5,6.2,121.3505333,Double cathe,no
+967,woman,51,ICA,6,4.8,5,4.9,61.544,Stent assist,no
+968,woman,74,ACA,6.3,5.5,6.3,5.9,106.98765,Double cathe,no
+970,woman,73,ICA,3.4,4.1,4.5,4.3,41.51865,BAT,no
+972,woman,57,ICA,7.1,6,7.7,6.9,166.8282,BAT,no
+974,woman,74,ICA,5.1,5.6,5.7,5.7,95.21736,Double cathe,no
+978,man,69,ICA,9.9,6.9,10,8.5,306.935,Stent assist,no
+981,woman,64,ICA,3.8,4.4,3.5,4,32.23733333,BAT,no
+982,woman,65,BA,4.3,3.8,4.7,4.3,40.19095333,Simple,no
+983,woman,72,ICA,6.3,9.5,6.9,8.2,281.2969,Stent assist,no
+985,man,63,ACA,4.9,7.3,6.4,6.9,168.70592,Double cathe,no
+986,man,77,ACA,5,4.2,5,4.6,50.554,Double cathe,no
+988,woman,57,ICA,5.4,7.2,8.2,7.7,237.91152,BAT,no
+989,woman,65,ICA,4.8,4.4,5.8,4.8,64.10624,Stent assist,yes
+990,woman,43,ICA,5.7,5.9,8.2,7.1,179.7639533,Double cathe,no
+992,man,51,ICA,4,4,4.1,4.1,35.18893333,Double cathe,no
+993,woman,65,ICA,4,4.3,4.7,4.5,47.59455,BAT,no
+994,man,52,MCA,2.6,2.1,1.4,1.8,2.76948,Double cathe,no
+996,woman,68,ICA,4.5,5.2,7.1,6.2,119.7930933,Double cathe,no
+997,woman,75,ICA,4.4,3.8,4.5,4.2,37.5858,Double cathe,no
+1000,man,56,ACA,4.6,4.9,5.9,5.4,81.69966,Double cathe,no
+1001,woman,67,ICA,4.3,3.5,4.4,4,32.23733333,BAT,no
+1002,woman,64,ICA,3.6,4.7,4.9,4.8,57.85136,BAT,no
+1003,woman,71,MCA,5.6,3.8,5.8,4.8,55.36448,Double cathe,no
+1004,woman,76,ICA,6.8,11.8,7.7,9.8,465.9906533,Double cathe,no
+1005,woman,66,ICA,4.6,5.6,5.6,5.6,91.90570667,Double cathe,no
+1007,woman,67,ICA,4.5,4.4,4.8,4.6,50.84288,Double cathe,yes
+1008,man,62,ICA,4.1,4.6,4.8,4.7,54.30944,Double cathe,no
+1017,woman,69,MCA,5.4,3,3.5,3.4,18.683,Double cathe,no
+1022,man,57,MCA,4.1,4.5,3.5,4,32.97,Double cathe,no
+1023,woman,66,BA,4.4,3.6,4.1,3.9,30.12516,Double cathe,no
+1025,woman,58,ICA,7.7,4.9,5.8,5.4,80.31492,BAT,no
+1026,woman,66,ICA,2.9,4.8,4.4,4.6,50.84288,Double cathe,no
+1027,woman,62,ACA,2.9,3.1,3.5,3.3,18.73795,Double cathe,no
+1028,man,39,ICA,4.4,3.8,4.6,4.2,38.42104,BAT,no
+1029,woman,47,ICA,3.4,4.1,4.5,4.3,41.51865,BAT,no
+1031,woman,45,ICA,2.8,3.1,2.8,3,13.6276,Double cathe,no
+1032,woman,59,ICA,3.6,2.9,3.4,3.2,16.51221333,BAT,no
+1033,woman,73,ICA,4.5,5.3,5.2,5.3,76.44225333,Double cathe,no
+1035,woman,75,ICA,9.4,7.5,9.5,8.5,316.94375,Stent assist,no
+1037,woman,50,ICA,3.6,4,4.8,4.4,44.2112,Double cathe,no
+1041,woman,66,MCA,4.1,4.1,3.8,4,32.61413333,Double cathe,no
+1042,woman,61,MCA,7.2,7.8,7.8,7.8,248.34888,Double cathe,no
+1045,woman,71,ICA,4.2,4.9,4.7,4.8,57.85136,BAT,no
+1046,woman,75,BA,8.1,6.1,7.2,6.7,153.99816,Double cathe,yes
+1047,man,57,VA,5.1,4.6,4.7,4.7,53.17799333,Stent assist,no
+1048,woman,45,ICA,3.2,3.1,3,3.1,15.0877,Double cathe,no
+1050,woman,73,ICA,3.6,3.4,2.9,3.2,16.51221333,Double cathe,no
+1051,woman,65,ACA,4.9,5.5,6.1,5.8,101.8354333,Double cathe,no
+1052,woman,54,ICA,3.4,4.3,3.6,4,32.4048,Simple,no
+1053,woman,70,ICA,3.9,2.7,3,2.9,12.2931,Stent assist,no
+1054,man,61,ICA,3.8,3.7,4.4,4.1,34.93145333,BAT,no
+1055,man,48,VA,7.5,7.4,7.8,7.6,229.57168,Stent assist,no
+1056,woman,44,ICA,3.9,3.3,4.4,3.9,29.63532,BAT,no
+1059,woman,54,MCA,4.2,4.3,4.6,4.5,46.5819,Double cathe,no
+1060,woman,57,MCA,4.5,4.6,4.8,4.7,54.30944,Stent assist,no
+1063,woman,59,ICA,4.8,5.4,6.3,5.5,97.9209,Double cathe,no
+1065,man,77,BA,5.7,6.5,7.3,6.9,171.34195,Double cathe,no
+1067,man,54,ICA,3.1,2.8,2.3,2.6,8.762693333,BAT,no
+1068,man,43,ICA,3.5,3.9,3.2,3.6,23.51232,BAT,no
+1069,woman,41,ICA,5.3,4.5,6.1,5.3,76.13715,Stent assist,no
+1072,woman,54,ICA,3.9,10,12.7,11.4,757.682,Double cathe,no
+1074,man,46,ICA,8.8,8.2,11.6,8.5,423.1254667,Stent assist,no
+1076,woman,67,BA,3.9,3,3.4,3.2,17.0816,Double cathe,no
+1077,woman,53,ICA,5.6,7.5,7.5,7.5,220.78125,BAT,no
+1081,woman,65,ICA,3.6,5.6,6.1,5.9,105.4746933,Double cathe,no
+1082,woman,46,ICA,5.1,5.4,4.8,5.1,69.18048,Stent assist,yes
+1083,woman,70,MCA,6.8,4.7,6.7,5.7,93.93467,Double cathe,no
+1086,man,48,MCA,4.2,3.8,4.7,4.3,40.19095333,Double cathe,no
+1087,woman,31,ICA,4,3,3.4,3.2,17.0816,Stent assist,no
+1088,woman,73,BA,8.4,10.3,10,10.2,549.814,Stent assist,yes
+1089,woman,80,MCA,3.5,4.1,4.2,4.2,37.84956,Double cathe,no
+1093,woman,63,MCA,4.8,4.9,5.5,5.3,74.75031667,Double cathe,no
+1094,woman,58,ICA,5.6,5.4,7.3,6.4,132.03072,Stent assist,no
+1097,woman,45,ICA,4.8,3.8,5.4,4.6,49.39848,Stent assist,yes
+1098,woman,70,ICA,3,5.2,3.9,4.6,48.82072,BAT,no
+1099,woman,69,ICA,4.2,4,4.3,4.2,37.8056,Stent assist,no
+1101,man,58,ICA,8.9,10.8,11.7,11.3,747.25092,Stent assist,no
+1102,woman,67,ICA,3.5,5,4.9,5,64.10833333,Double cathe,no
+1105,woman,58,ICA,3.9,4.6,3,3.8,27.4436,BAT,no
+1107,woman,67,ICA,3.3,6.3,4,5.2,68.5776,BAT,no
+1108,woman,55,MCA,4,5.6,5.7,5.7,95.21736,Double cathe,no
+1109,man,59,ACA,4,3.2,4,3.6,24.1152,Double cathe,no
+1110,man,47,ICA,4.6,5.2,7.8,6.5,137.9716,BAT,no
+1113,woman,75,ICA,4.8,6.5,3.8,5.2,67.21693333,Stent assist,yes
+1116,woman,71,ICA,5.3,5.6,6,5.8,101.9872,Double cathe,no
+1118,woman,66,ACA,3.6,3.8,4.7,4.3,40.19095333,Double cathe,no
+1119,man,59,ICA,4.7,3.3,4,3.7,25.5596,Double cathe,no
+1120,woman,63,ICA,3.8,7.7,4.4,6.1,108.1562533,Double cathe,no
+1121,woman,61,ICA,6.2,7.9,7.8,7.9,254.75762,Simple,yes
+1125,woman,69,ICA,3.8,4.7,5.2,5,63.95133333,Simple,yes
+1126,woman,49,ICA,3.1,3.6,3.8,3.7,26.48904,Double cathe,no
+1130,woman,45,ICA,5.5,6.7,7.4,7.1,184.2227533,Double cathe,no
+1133,woman,65,ICA,7,8.1,6.7,7.4,210.16962,Double cathe,no
+1134,woman,42,ICA,4.8,4.5,4.1,4.3,41.51865,BAT,no
+1135,woman,46,ICA,3.5,4.9,4.2,4.6,49.54292,BAT,no
+1136,man,64,ICA,3.9,4,4.3,4.2,37.8056,BAT,no
+1137,man,58,BA,5.3,4.4,5.8,5.1,68.11288,Double cathe,no
+1138,woman,44,BA,3.8,4.1,4.5,4.3,41.51865,Double cathe,no
+1139,woman,66,ICA,3.3,4.7,4.6,4.7,53.17799333,BAT,no
+1140,woman,44,ICA,5,4.4,5.5,5,63.32333333,Double cathe,no
+1141,woman,74,BA,3.8,4.5,5.3,4.9,61.15935,Simple,no
+1143,woman,72,ICA,4.4,6.9,4.9,5.9,104.39401,Double cathe,no
+1145,man,70,ICA,4.8,3.7,5.1,4.4,43.45132,Double cathe,no
+1146,man,75,BA,7.3,8.9,9.7,9.3,420.16811,Double cathe,no
+1147,woman,64,ICA,5.3,7,5.6,6.3,129.2424,Double cathe,no
+1149,woman,60,ICA,3.1,3.9,4.5,4.2,38.5749,Double cathe,no
+1150,woman,67,ICA,7.9,10.5,11.3,10.9,676.81915,BAT,yes
+1151,man,62,ICA,2.9,3.9,2.6,3.3,17.51178,Simple,yes
+1152,woman,60,ICA,2.9,6.9,5,6,108.33,BAT,no
+1154,woman,70,BA,3.8,5.2,3.7,4.5,45.3102,Simple,yes
+1156,man,50,ICA,4.9,8.3,7.9,8.1,277.95123,BAT,no
+1158,woman,76,ICA,3.9,5.7,4.2,5,62.643,Double cathe,yes
+1161,woman,77,ICA,3.6,5,4.5,4.8,56.52,Double cathe,no
+1163,woman,68,ACA,3.8,3.2,3.9,3.6,23.51232,Double cathe,no
+1164,woman,42,ICA,3.5,3,3.2,3.1,15.5744,Double cathe,no
+1165,woman,59,ICA,6,5.7,5.8,5.8,100.34812,BAT,no
+1166,woman,52,ICA,6.2,6,5.5,5.8,100.166,Stent assist,no
+1167,woman,50,ICA,2.3,4.8,4.1,4.5,46.3464,BAT,no
+1168,woman,61,ICA,4,3.8,4.2,4,33.4096,BAT,no
+1169,woman,34,ICA,4.3,4.4,5.8,5.1,68.11288,Double cathe,no
+1170,man,74,ACA,2.3,5.1,6.1,5.6,91.17304,Double cathe,no
+1171,woman,74,ICA,6,4.4,4,4.2,38.6848,BAT,no
+1173,woman,78,ICA,6,4,6.4,5.2,69.66613333,Double cathe,no
+1174,woman,37,ICA,3.2,3.3,3.9,3.6,24.24708,BAT,no
+1176,man,50,ICA,2.7,4.4,3.1,3.9,27.83924,BAT,no
+1178,woman,52,MCA,3.1,4.1,4.3,4.2,38.75074,Double cathe,no
+1179,woman,64,ACA,5.5,9.7,8.1,8.9,365.95287,Double cathe,no
+1180,woman,53,ICA,4.3,4.9,6,5.5,84.623,BAT,no
+1181,man,57,ICA,3.1,3.9,3.9,3.9,31.04361,BAT,no
+1183,woman,71,ICA,3.2,5.1,5.3,5.2,73.55764,BAT,no
+1186,woman,54,ICA,3.4,3.4,3.8,3.6,24.34128,BAT,no
+1187,woman,79,BA,6.7,6.9,8.3,7.6,227.78188,Double cathe,no
+1188,woman,41,ICA,2.4,4.8,3.7,4.3,39.96592,BAT,no
+1192,woman,69,ICA,5.9,7.7,6.4,7.1,183.1080533,Double cathe,no
+1195,man,73,BA,4.5,4.4,5,4.7,54.11266667,Simple,no
+1196,woman,66,ICA,3,3.3,3.8,3.6,23.62536,BAT,yes
+1197,woman,43,ACA,3.1,5.3,3.4,4.4,41.49405333,Simple,no
+1198,man,44,MCA,3.1,5.5,4.6,5,66.20166667,Double cathe,no
+1199,man,52,ICA,4.6,3.7,3.9,3.8,28.69646,Double cathe,no
+1200,man,53,MCA,3.6,4,3.4,3.7,26.33413333,Double cathe,no
+1201,woman,77,ACA,4.9,10.1,7.5,8.8,348.854,Double cathe,no
+1202,woman,50,ICA,3,4.9,4.3,4.6,50.72251333,BAT,no
+1203,woman,70,ICA,5.9,5.6,5.9,5.8,100.2874133,BAT,no
+1204,woman,39,ICA,1.7,3.6,2.6,3.1,15.18504,Simple,yes
+1206,man,59,ICA,7.5,5.5,7.7,6.6,146.2769,Stent assist,no
+1207,woman,44,ICA,3.9,3.9,4.7,4.3,41.24861,BAT,no
+1208,woman,61,ACA,5.9,4.4,6.1,5.3,74.44521333,Simple,yes
+1210,man,68,ICA,3.9,7,6.3,6.7,154.6293,Double cathe,yes
+1212,woman,74,ICA,7.2,7,6.4,6.7,157.0837333,Stent assist,no
+1213,woman,67,ICA,3.6,4.3,4.5,4.5,45.56925,BAT,no
+1214,woman,27,ICA,3.6,6,6.1,6.1,116.8394,Double cathe,no
+1216,woman,74,ICA,4.3,3,2.7,2.9,12.2931,Stent assist,no
+1218,man,48,ICA,3.4,2.5,3.1,2.8,11.35633333,Double cathe,no
+1219,man,74,ACA,4.7,3,3.1,3.1,15.0877,Double cathe,no
+1220,woman,49,MCA,5.6,5.9,7.1,6.5,142.4958167,Double cathe,no
+1221,woman,64,ICA,2.2,5,3.9,4.5,45.9225,Simple,no
+1223,woman,81,ICA,3.7,4.2,3.2,3.7,26.02432,Simple,no
+1224,woman,66,ICA,4.2,5.7,4.7,5.2,72.90452,Double cathe,no
+1225,woman,62,ICA,3.3,5.1,4.7,4.9,61.46707,BAT,no
+1226,man,62,ACA,5.6,4.8,5,4.9,61.544,Double cathe,no
+1227,man,58,ICA,4,3.9,4.4,4.2,37.71768,Double cathe,no
+1228,woman,61,ICA,3.7,2.7,3.5,3.1,15.33105,Double cathe,no
+1233,woman,55,ICA,7.8,6.6,8.1,7.4,207.03276,Double cathe,no
+1234,woman,41,ICA,3.4,4.9,3.6,4.3,39.69588,Stent assist,no
+1235,woman,36,ICA,4,3.9,3.9,3.9,31.04361,Double cathe,no
+1237,woman,41,ACA,4.9,8.2,5.3,6.8,154.6596533,Double cathe,no
+1239,man,63,ICA,2.4,5.1,4.9,5,65.3905,Double cathe,no
+1240,woman,27,ICA,5.8,8.7,6.2,7.5,211.7145,Double cathe,no
+1243,man,59,ICA,2.7,4,3.7,3.9,30.2068,Simple,no
+1246,woman,71,ICA,2.7,6,5.3,5.7,94.8594,Double cathe,no
+1247,woman,57,ICA,4.8,6.1,6.7,6.4,136.8872533,Stent assist,no
+1248,man,49,BA,6.6,5.7,6.7,6.2,123.91382,Stent assist,no
+1249,woman,47,ICA,4.7,5.4,8.1,6.8,155.65608,Double cathe,no
+1250,man,67,ACA,4.4,8.2,6.1,7.1,185.8576467,Double cathe,no
+1252,woman,54,ICA,4.6,4,4.9,4.4,45.13226667,Double cathe,no
+1253,woman,46,ICA,4.4,4.2,4.5,4.4,43.5204,Stent assist,no
+1256,woman,55,ICA,4.2,5.5,3.4,4.4,43.05986667,Stent assist,no
+1257,woman,43,ICA,4.7,4.5,6.2,5.4,78.8454,Double cathe,no
+1259,woman,63,ICA,3.9,5.2,4.5,4.9,60.0054,BAT,no
+1261,man,48,ICA,5.5,4.4,3.7,4.1,34.93145333,Stent assist,no
+1263,woman,50,ICA,4,5.3,5.2,5.2,74.99994667,BAT,no
+1264,woman,72,MCA,9.5,10.5,8.5,9.5,443.72125,Double cathe,no
+1265,woman,73,ICA,4.7,7.2,5.5,6.3,130.5612,Double cathe,no
+1266,woman,79,ICA,3.6,4.1,5,4.6,49.35033333,Simple,no
+1267,woman,49,ICA,4,6.7,6.2,6.5,141.3052333,Double cathe,no
+1269,man,50,MCA,4.7,3.8,5.2,4.5,46.5348,Double cathe,no
+1270,woman,54,ICA,2.3,3.9,3.7,3.8,28.69646,BAT,no
+1271,man,20,ICA,4.6,4.9,4.3,4.6,50.72251333,BAT,no
+1272,woman,74,ICA,4.4,4.3,5,4.7,52.88283333,Double cathe,no
+1273,woman,72,VA,8.7,9.4,11.3,10.4,578.1200533,Double cathe,no
+1275,woman,80,ACA,4.5,4.1,4.8,4.5,46.3464,Double cathe,no
+1277,woman,50,ICA,3.4,5.3,3.9,4.6,49.75958,Simple,no
+1279,woman,55,ICA,3.5,5.1,4.9,5,65.3905,BAT,no
+1280,woman,65,ICA,4.9,4.1,5.3,4.7,53.44855667,Stent assist,no
+1281,woman,75,ICA,5.5,4.7,4.1,4.4,44.37238667,Double cathe,yes
+1283,woman,74,ICA,5.2,3.6,4.5,4,33.912,Stent assist,no
+1284,woman,51,ICA,5.9,4.7,6.7,5.7,93.93467,Double cathe,no
+1286,man,52,ICA,2.5,4.2,4,4.1,36.0472,BAT,no
+1287,woman,47,ICA,3.1,5.2,3.3,4.3,38.61572,Simple,no
+1288,woman,72,ACA,4.3,4.6,5.9,5.3,75.27731333,Double cathe,no
+1289,man,61,BA,5.8,4.1,6.2,5.2,69.17629333,Double cathe,no
+1290,man,68,MCA,4.2,4.2,4.3,4.3,40.64102,Double cathe,yes
+1291,man,68,ACA,5.2,6.6,6.1,6.4,134.84416,Double cathe,no
+1292,woman,74,ICA,6.8,8.5,10.1,9.3,417.83195,Double cathe,yes
+1295,man,67,ICA,3.9,3.7,3.9,3.8,28.69646,Stent assist,no
+1296,woman,62,ICA,3.8,4.2,4.2,4.2,38.77272,BAT,no
+1300,woman,60,MCA,5,5.1,6.4,5.8,99.07328,Double cathe,no
+1301,woman,43,ICA,6.2,5.8,5.3,5.6,90.08869333,Stent assist,no
+1302,woman,81,BA,11,14.8,19,16.9,2487.026533,Double cathe,no
+1304,man,57,ACA,4.1,4.2,4.9,4.5,48.4659,Double cathe,no
+1305,woman,76,ICA,2.2,5.2,5.5,5.6,83.81706667,Simple,no
+1306,woman,66,ICA,5.1,4.6,5.6,5.1,68.75344,Double cathe,no
+1307,woman,52,ICA,2.2,6.2,3.7,5,60.02633333,Simple,no
+1308,woman,67,ICA,5,5.6,5.8,5.7,96.88784,Stent assist,no
+1309,woman,69,ICA,5,6.3,6.3,6.3,130.85793,Double cathe,no
+1310,man,72,ACA,3.2,7.3,4.7,6,107.7334,Double cathe,no
+1311,woman,48,ICA,3,4.8,3.9,4.3,42.12624,Simple,no
+1312,man,53,ICA,4.1,7.4,7.6,7.5,220.742,Double cathe,no
+1313,man,46,ACA,4.2,9.3,7.6,8.4,310.70928,Double cathe,no
+1314,man,54,ICA,5.4,7.1,7.5,7.3,203.43275,Double cathe,no
+1315,woman,66,ICA,3.4,5.8,4.7,5.3,75.61015333,Simple,yes
+1316,woman,76,ICA,7.7,6.2,5.5,5.9,105.2894333,Double cathe,no
+1318,woman,58,ICA,4,4.1,3.2,3.7,25.40469333,Stent assist,no
+1319,woman,34,ICA,2.4,4.2,3.7,4,32.5304,Double cathe,yes
+1321,woman,66,ICA,4.3,5.2,5,5.1,69.394,BAT,no
+1323,woman,73,ICA,6.6,10.8,13.5,12.2,930.8844,Double cathe,no
+1328,woman,28,ICA,4.2,5.6,3.6,4.6,48.53184,BAT,no
+1329,woman,62,ICA,2.2,4.2,3.7,4,32.5304,BAT,no
+1331,woman,60,ICA,5.1,5.2,6.2,5.7,96.17192,Double cathe,no
+1332,woman,66,ICA,8.2,7.8,7.9,7.8,251.53284,Stent assist,no
+1333,woman,37,ICA,4,3.2,4.1,3.7,25.40469333,Double cathe,no
+1334,woman,72,ICA,7.5,6.7,7.9,7.3,202.2102433,Stent assist,no
+1336,woman,62,ACA,3,4.4,5.3,4.9,59.80025333,Double cathe,no
+1337,man,48,ACA,5.1,6.9,5.8,6.4,134.04032,Double cathe,no
+1338,woman,68,ACA,3.7,3.5,3.8,3.7,25.75323333,Double cathe,no
+1340,woman,63,ICA,7.2,6.9,9.1,8,262.8808,Double cathe,no
+1342,woman,66,ICA,4.9,4.1,3.8,4,32.61413333,Stent assist,no
+1343,woman,69,ICA,3,4.3,3,3.6,24.3036,Stent assist,no
+1344,man,54,VA,5.7,3.2,4.6,3.9,30.04352,Stent assist,no
+1345,woman,72,ICA,3.6,3.5,3,3.3,18.1335,Stent assist,no
+1347,man,60,ICA,3.2,3.8,3.7,3.8,27.96065333,Double cathe,no
+1348,man,58,ICA,4.2,5.6,5.1,5.4,80.71056,Double cathe,no
+1349,woman,49,ICA,4.5,6.8,6.7,6.8,162.1328533,BAT,no
+1351,woman,58,BA,2.4,4.4,3.7,4.1,34.93145333,Double cathe,no
+1352,woman,68,MCA,4.1,4.3,4.4,4.4,43.56645333,Double cathe,no
+1353,woman,56,ICA,3.4,5.1,4.8,4.9,62.77488,Double cathe,no
+1354,man,50,ICA,2.9,7.9,4.5,6.2,115.3479,Double cathe,yes
+1355,woman,41,ICA,4.6,4.7,4.7,4.7,54.33403667,BAT,no
+1358,woman,65,ICA,4.6,5.8,4.3,5.6,73.09082667,Stent assist,no
+1362,woman,50,ICA,4.1,4,3.4,3.7,26.33413333,Stent assist,no
+1363,woman,48,ICA,4.3,3.6,4.5,4.1,34.7598,BAT,no
+1364,woman,54,ICA,4.2,4.4,4.6,4.5,47.6652,Stent assist,no
+1367,woman,71,ICA,2.7,3.9,4,3.9,31.8396,Double cathe,no
+1368,woman,76,ICA,4.7,5.8,5.8,5.8,102.1086133,Double cathe,yes
+1369,woman,43,ICA,4.9,3.9,4.9,4.4,44.00396,Stent assist,no
+1370,woman,55,MCA,5.7,4.2,5.1,4.7,52.68606,Stent assist,no
+1371,woman,66,ICA,6.1,4.9,4.7,4.8,57.85136,Double cathe,no
+1372,woman,61,MCA,8.6,6.3,7.9,7.1,184.92873,Stent assist,no
+1373,woman,35,ACA,3.5,5.2,4.9,5.1,68.00612,Double cathe,yes
+1374,man,48,ICA,4.1,6.6,4.5,5.6,87.0408,Double cathe,no
+1375,woman,61,ICA,3.7,5.2,5.5,5.3,79.32686667,Double cathe,no
+1376,woman,66,ICA,3.1,4.9,3.5,3.8,34.10563333,Stent assist,yes
+1377,man,57,ICA,4.4,4.7,5.1,4.9,61.46707,Double cathe,no
+1378,woman,52,ICA,6.7,5.3,6.4,5.9,104.7336533,Stent assist,no
+1381,woman,76,BA,6.3,7,8.1,7.6,225.5148,Double cathe,no
+1382,woman,65,ICA,3.1,3.6,3.6,3.6,24.41664,Double cathe,no
+1384,man,60,ICA,4.6,4,5.4,4.7,53.1288,BAT,yes
+1386,woman,73,MCA,7.1,6.9,6.8,6.8,166.97264,Double cathe,no
+1387,woman,51,ICA,4.1,3.9,5.3,4.6,49.75958,Double cathe,no
+1388,woman,75,MCA,7.4,11.2,8.9,10.1,526.8752533,Double cathe,yes
+1389,woman,48,ICA,3,3.8,3.4,3.6,24.34128,Double cathe,no
+1391,woman,55,ICA,3.9,5.2,4.8,5,65.312,Stent assist,yes
+1396,woman,59,ICA,3.6,4.4,4.7,4.6,49.78365333,Double cathe,yes
+1399,woman,58,ICA,5.6,4.1,3.1,3.6,23.94564,Stent assist,no
+1400,woman,49,ICA,3.9,6.8,6.7,6.8,162.1328533,Double cathe,no
+1401,man,62,BA,6.4,5.5,5.8,5.6,93.48826667,Double cathe,no
+1402,man,58,ACA,5.3,4.3,3.7,4,33.30493333,Double cathe,no
+1404,woman,73,ICA,3.5,5.6,7,6.3,129.2424,Double cathe,no
+1405,woman,62,ICA,4.4,3.8,4.6,4.2,38.42104,Stent assist,no
+1407,man,41,ICA,5.1,7.3,7.9,7.6,229.3728133,Double cathe,yes
+1408,man,55,ACA,4.9,4.6,5,4.8,57.776,Double cathe,no
+1409,woman,36,ICA,4.6,6.1,6.1,6.1,118.7867233,BAT,yes
+1410,woman,67,ACA,4,3.7,4.3,4,33.30493333,Double cathe,no
+1411,woman,47,ICA,5.5,6.2,6.8,6.5,143.4142667,Double cathe,no
+1412,woman,42,ICA,2.5,6.2,3.7,4.9,58.82580667,Simple,no
+1413,woman,62,ICA,12.2,9.5,10.7,10.1,537.2880167,Stent assist,yes
+1414,woman,51,ICA,5,4.2,6.1,5.2,69.72056,Stent assist,no
+1415,man,56,ICA,4,3.7,4.1,3.9,30.96197,Double cathe,no
+1416,woman,71,ICA,4.8,4.2,4.4,4.3,41.58616,Double cathe,no
+1417,woman,79,ICA,6,6.4,7.4,6.9,171.01696,Double cathe,no
+1418,woman,65,BA,4.8,4.9,4.6,4.8,56.62048,Simple,no
+1420,woman,51,ACA,2.6,3.6,2.9,3.2,17.48352,Double cathe,no
+1421,woman,43,ICA,6.1,5.1,5.2,5.2,72.16976,Stent assist,no
+1422,woman,69,ACA,3.6,7.9,4.3,6.1,108.4435633,Double cathe,yes
+1423,woman,48,ICA,3.1,4.7,6,5.4,79.6932,BAT,yes
+1425,man,52,ICA,5.2,4.9,4.9,4.9,61.56964333,Double cathe,no
+1427,woman,85,ICA,8.5,9.8,9.1,9.5,443.3732333,Double cathe,yes
+1428,woman,75,ICA,8.3,5.9,5.7,5.8,102.07826,Stent assist,yes
+1430,woman,57,ICA,4.1,4.2,3.2,3.7,26.02432,Stent assist,no
+1431,woman,47,ICA,4.6,5.9,4.3,5.1,67.71253,Stent assist,no
+1433,woman,60,ICA,5.3,5.4,4.9,5.1,70.62174,BAT,yes
+1434,woman,42,ICA,4.2,7.4,5.7,6.5,143.4823,BAT,no
+1435,woman,71,ICA,4.9,3.3,3.3,3.3,18.80703,Double cathe,no
+1436,woman,74,ICA,3.1,7,3.8,5.4,75.1716,Double cathe,no
+1437,woman,35,ICA,5,4.6,5.8,5.2,72.60517333,Double cathe,no
+1438,woman,61,ACA,1.9,3.6,4.1,3.9,30.12516,Simple,no
+1439,man,66,ICA,4.9,7.2,6.2,6.7,156.52272,Double cathe,yes
+1443,man,63,ICA,6.9,4.5,6.7,5.6,88.3596,Stent assist,no
+1444,man,52,ICA,2.1,3.9,2.1,3,12.8583,Simple,no
+1445,woman,76,ICA,2.9,5.4,4.2,4.8,56.97216,Double cathe,no
+1446,man,78,BA,5.8,5,4.9,5,64.10833333,Double cathe,no
+1447,woman,65,BA,4.2,3,3.9,3.5,21.4305,Double cathe,no
+1449,woman,62,ICA,3.1,3.9,4.7,4.3,41.24861,Double cathe,no
+1450,man,58,MCA,3.6,4.4,4.7,4.6,49.78365333,Double cathe,yes
+1453,woman,42,ICA,3.1,4.8,4.6,4.7,54.30944,Double cathe,no
+1454,woman,47,BA,4,4.7,5.4,5.1,67.73922,Double cathe,yes
+1455,man,67,VA,5.6,6.2,5.5,5.8,103.5048667,Double cathe,no
+1456,man,42,ICA,5.1,4.1,4.8,4.5,46.3464,Stent assist,no
+1458,woman,48,ICA,5.4,6.2,8,7.1,184.2970667,Double cathe,no
+1459,woman,49,ICA,5.6,5.9,7.9,6.9,168.30871,Double cathe,no
+1461,woman,64,ICA,4.4,5.8,6.4,6.1,118.4994133,BAT,no
+1462,woman,70,ICA,5.4,4.8,5.5,5.2,71.8432,Double cathe,no
+1463,woman,64,ICA,2.4,5.6,5.7,5.7,95.21736,Double cathe,yes
+1466,man,46,ICA,3.9,4.8,4.6,4.7,54.30944,Double cathe,no
+1468,woman,57,ICA,4.5,5.3,5.3,5.3,77.91229667,Simple,yes
+1469,man,44,ICA,10.5,25.9,16.9,21.5,4924.967017,Stent assist,no
+1470,woman,52,ICA,6.3,5.4,7,6.2,122.6484,Double cathe,no
+1471,woman,59,ICA,5.7,8.8,9.2,9,381.3216,Double cathe,no
+1475,woman,73,ICA,2.6,4.5,3.2,4.4,33.1584,Double cathe,no
+1476,man,55,BA,10.5,10.1,13.8,11.9,868.01218,Double cathe,no
+1478,woman,72,BA,4.9,5.8,5.6,5.7,96.88784,Double cathe,yes
+1480,woman,62,ACA,6.3,6.9,8.1,7.5,219.36825,Double cathe,yes
+1482,man,55,BA,5.6,4.4,5.1,4.8,56.36928,Double cathe,no
+1483,woman,51,ICA,3.4,3.8,3.6,3.7,26.48904,Double cathe,no
+1484,man,55,ACA,3.8,4.9,5.3,5.1,69.31393,Double cathe,no
+1485,woman,47,ICA,3.2,3.5,3.4,3.5,21.79683333,Double cathe,yes
+1486,woman,54,ICA,4.7,4.8,5.8,5.6,81.58976,Double cathe,no
+1487,woman,35,ICA,6.4,3.8,5.6,4.7,52.34170667,Stent assist,no
+1488,woman,38,ICA,4.7,4,4.9,4.5,46.158,Double cathe,no
+1489,man,69,ICA,6,6.2,5.7,6,110.9676,Double cathe,yes
+1490,man,53,ACA,4.5,5.5,4.5,5,64.7625,Double cathe,no
+1492,woman,66,ICA,3.8,9.1,5.6,7.4,197.3510933,Double cathe,yes
+1493,woman,70,ICA,5.4,11.2,10.2,11.1,663.62016,Double cathe,no
+1494,woman,55,ACA,3.6,2.9,4.3,3.6,23.49348,Double cathe,yes
+1495,woman,63,ICA,4.2,4.1,4.2,4.2,37.84956,Double cathe,no
+1496,woman,53,ICA,4.1,4.9,4.9,4.9,61.56964333,Double cathe,no
+1499,woman,57,ICA,4.2,4.4,4.6,4.5,47.6652,Stent assist,no
+1500,woman,32,ICA,4.7,4,5.8,4.9,59.49253333,Double cathe,no
+1501,woman,76,ACA,3.9,4.9,3.9,4.4,44.00396,Double cathe,no
+1502,man,35,ICA,3.4,3.9,4.1,4,33.4724,BAT,no
+1503,woman,58,ICA,3.6,5.3,5.5,5.4,82.3779,Simple,no
+1504,woman,49,ICA,5.2,7.4,7.4,7.4,212.0672267,Stent assist,no
+1507,man,76,MCA,3.7,3.5,3.6,3.6,23.7384,Double cathe,no
+1509,woman,33,ICA,2.9,3.9,4,3.9,31.8396,Double cathe,no
+1510,woman,69,MCA,3.2,3.1,3.2,3.1,16.09354667,Double cathe,no
+1512,man,63,BA,6.5,8.1,7.4,7.7,241.53822,Stent assist,no
+1513,woman,65,ICA,3.4,6.1,4.3,5.2,71.38057333,Double cathe,no
+1514,man,49,ACA,2.8,5.2,3.8,4.5,46.5348,Double cathe,no
+1516,woman,51,ICA,3.3,4.4,3.9,4.2,37.71768,Double cathe,no
+1517,woman,62,BA,3.2,5,3.8,4.4,43.75066667,Simple,yes
+1518,man,48,ICA,2.5,4.5,4.4,4.5,46.629,Double cathe,no
+1520,woman,26,ICA,5.8,7.1,7.9,7.5,220.15325,Double cathe,no
+1521,woman,66,ACA,4.1,8.9,5.9,7.4,203.3537267,Double cathe,yes
+1523,woman,46,ICA,2.9,5.3,2.7,4,29.9556,Double cathe,yes
+1524,woman,44,ICA,4.6,3.2,3.9,3.6,23.51232,Stent assist,yes
+1525,woman,68,ICA,3.7,6.1,5.3,5.7,96.44039,Stent assist,yes
+1527,woman,75,ICA,2.3,3.4,3.2,3.3,18.78976,Double cathe,no
+1528,woman,74,ICA,4.1,4,4.8,4.4,44.2112,BAT,no
+1529,woman,73,MCA,7.3,7.4,7.3,7.3,206.3744067,Double cathe,no
+1531,woman,62,ICA,4.8,4,5.3,4.7,52.14493333,Stent assist,yes
+1532,woman,46,ICA,4.7,5.1,5.4,5.3,76.38678,Double cathe,no
+1534,man,57,ICA,3.5,6,4.3,5.1,68.8602,BAT,no
+1535,woman,45,BA,7.4,7.8,7.6,7.7,238.87864,Double cathe,no
+1536,woman,63,ICA,6.1,6.8,6,6.4,136.6528,Double cathe,no
+1540,woman,73,ACA,4.9,4.4,5.3,4.9,59.80025333,Double cathe,yes
+1545,woman,78,ICA,4.3,3.4,4,3.6,25.6224,Stent assist,no
+1547,woman,66,ICA,5,5,6.1,5.5,87.78916667,Double cathe,no
+1548,woman,60,ICA,1.8,5.4,3.9,4.6,50.69844,Simple,no
+1550,woman,69,MCA,5.3,3.2,5.4,4.3,38.88576,Double cathe,no
+1552,woman,68,BA,3.4,4.5,3.5,4,32.97,Double cathe,no
+1553,woman,54,ICA,6.3,13.4,10,11.7,820.482,Double cathe,yes
+1554,woman,70,ICA,5.8,4.6,5.2,4.9,61.33885333,Stent assist,no
+1556,woman,81,ICA,8.4,6.3,8.6,7.4,209.82108,Stent assist,yes
+1557,man,65,ACA,4.4,3.4,4,3.7,26.33413333,Stent assist,yes
+1558,woman,82,BA,11.8,7.9,11.4,9.6,452.46144,Double cathe,no
+1559,woman,61,ICA,4.1,4.9,4.2,4.5,48.4659,Stent assist,no
+1560,woman,63,ICA,3.4,6.4,5.8,6.1,118.4994133,Simple,yes
+1564,man,73,ACA,7.3,5.4,6.6,6,111.9096,Stent assist,no
+2426,man,73,ACA,7.3,5.4,6.6,6,111.9096,Stent assist,no
+1564,man,73,ACA,3.3,1.9,2.4,2.1,5.01144,Stent assist,no
+2426,man,73,ACA,3.3,1.9,2.4,2.1,5.01144,Stent assist,no
+1566,man,67,ACA,5.4,4.8,4.7,4.7,55.49008,Double cathe,no
+1567,woman,51,VA,4.4,6.4,4.4,5.4,79.58016,Stent assist,no
+1568,woman,79,ICA,6,8.3,6.3,7.3,199.76523,Stent assist,yes
+1569,woman,74,ICA,2.6,4.6,3.1,3.8,28.35838667,Simple,no
+1570,man,49,BA,6.5,9.9,8.4,9.1,396.03564,Stent assist,no
+1572,woman,69,ACA,5.9,3.9,5.3,4.6,49.75958,Stent assist,yes
+1573,woman,74,MCA,5.5,7.3,6.3,6.8,163.66308,Double cathe,yes
+1575,woman,77,ICA,8.1,6.8,7.8,7.3,202.63048,Stent assist,no
+1576,woman,78,MCA,6.4,6.3,7.4,6.8,165.90504,Stent assist,no
+1577,woman,63,ICA,3.7,4.6,4.3,4.4,45.54674667,Double cathe,yes
+1579,woman,61,ICA,2.5,2.9,2.9,2.9,12.76357667,Simple,no
+1580,man,66,ACA,3,6.2,6.4,6.3,130.82496,Double cathe,yes
+1583,woman,67,ICA,3.5,4.1,3.6,3.8,29.35272,BAT,no
+1584,woman,45,ICA,3.1,5.6,6.5,6,114.296,Double cathe,no
+1585,woman,52,ACA,3.3,4.4,3.6,4,33.1584,Double cathe,no
+1586,woman,35,ICA,4.4,3.1,4.1,3.6,23.94564,Stent assist,no
+1587,woman,38,ICA,5.1,5.2,5.8,5.5,86.81053333,Stent assist,no
+1589,woman,47,ICA,4,3.2,4.4,3.8,28.00042667,BAT,no
+1592,woman,52,MCA,2.6,5.3,3.8,4.5,47.4297,Double cathe,yes
+1594,woman,45,ICA,3.7,4.3,4.8,5.3,57.24848,BAT,no
+1595,woman,53,ICA,4.7,4.8,5.7,5.2,74.45568,Double cathe,yes
+1596,man,57,MCA,3.8,6.4,5.1,5.7,97.36512,Double cathe,no
+1602,woman,53,ACA,5.9,6.3,7.1,6.7,156.83829,Stent assist,yes
+1603,woman,50,ICA,5.4,7.4,6.9,7.1,189.72194,Double cathe,yes
+1604,woman,53,ICA,7.3,5.3,6.7,6,111.5014,Stent assist,no
+1605,woman,43,ICA,3.6,5.5,5.9,5.7,96.79835,Double cathe,no
+1606,man,66,ACA,5.6,5.1,5.5,5.3,77.80135,Stent assist,no
+1607,woman,74,ICA,3.2,5.1,4.7,4.9,61.46707,Double cathe,no
+1608,woman,62,ICA,4.8,4.5,5,4.7,55.3425,Stent assist,no
+1609,man,50,ICA,4.6,4.5,5.4,4.9,62.3133,Stent assist,yes
+1610,woman,58,ICA,3.7,3.6,4.3,3.9,31.59468,BAT,no
+1611,woman,76,ACA,4.6,4.5,4.8,4.6,51.9984,Double cathe,no
+1612,man,57,ACA,3.5,4.7,4.3,4.5,47.59455,Double cathe,yes
+1613,woman,35,ICA,5.6,4.3,4.5,4.4,44.5566,Stent assist,no
+1614,woman,55,ICA,1.8,5.5,4.1,4.8,56.6456,Simple,no
+1615,woman,76,ACA,3.3,4.7,5.1,4.9,61.46707,Double cathe,no
+1616,woman,81,ICA,9.9,8.1,11.3,9.7,464.63679,Stent assist,no
+1617,woman,56,ICA,4.3,4.1,4,4.1,35.18893333,Stent assist,no
+1618,man,61,VA,7.8,5.8,8,6.9,167.5504,Stent assist,no
+1621,man,56,ICA,3.4,6.2,4.7,5.4,82.34964,Double cathe,yes
+1622,woman,40,ICA,5.2,4.9,4.2,4.5,48.4659,Double cathe,yes
+1623,woman,49,ICA,5.8,6.4,6.8,6.6,150.31808,Double cathe,no
+1624,woman,77,BA,7.3,4.4,6.2,5.3,75.66562667,Stent assist,no
+1625,woman,57,ICA,4.2,6.9,5.2,6,112.6632,Stent assist,yes
+1626,man,68,ICA,5.3,9.9,9.7,9.8,492.50586,Double cathe,no
+1627,woman,70,ACA,4.7,5.3,5.6,5.4,83.87568,Double cathe,yes
+1628,woman,43,ICA,2,3.2,2.6,2.9,12.62698667,Simple,no
+1629,woman,62,ICA,4.1,4.2,5.4,4.8,56.97216,Stent assist,no
+1630,man,45,MCA,3.6,3.7,4.1,3.9,30.96197,Double cathe,no
+1634,man,50,ICA,4.8,8.2,7.5,7.8,251.043,Double cathe,no
+1635,man,53,ICA,3.1,3.5,3.6,3.5,23.079,Simple,no
+1638,man,61,ICA,3.4,3.8,3.1,3.4,20.96054667,Stent assist,no
+1639,woman,66,ICA,7.1,7.2,8.8,8,265.2672,Stent assist,no
+1640,woman,42,MCA,3.9,4.1,4.7,4.4,44.37238667,Double cathe,no
+1641,woman,46,ICA,4,6.4,5.4,5.9,106.70976,Double cathe,no
+1642,man,66,ICA,4.7,5.1,5,5,66.725,Double cathe,no
+1643,woman,57,ICA,3.9,5,4.8,4.9,61.544,Double cathe,no
+1645,man,52,ACA,5.3,6.7,5.5,4.4,84.85326667,Double cathe,yes
+1646,woman,59,ACA,7.9,5.7,6.1,5.9,107.35817,Double cathe,no
+1647,man,69,ICA,4.2,4,4,4,33.49333333,Stent assist,no
+1648,woman,72,ICA,4.4,5.5,5.5,5.5,87.06958333,Double cathe,no
+1649,man,57,ICA,3.7,4.7,4.7,4.7,54.33403667,Double cathe,no
+1651,woman,50,ICA,3.1,4.3,3.9,4.1,35.98283,Double cathe,no
+1652,woman,43,ICA,4.8,3.6,4.4,4,33.1584,Stent assist,no
+1653,woman,57,ICA,7.8,5.4,6,5.7,96.6492,Stent assist,no
+1654,woman,64,ICA,3.8,6.5,3.4,4.9,56.67176667,Double cathe,no
+1657,woman,76,ACA,8.5,10.9,11.4,11.1,721.82634,Stent assist,no
+1658,man,50,BA,4.5,6.3,5.8,6,114.7356,Double cathe,no
+1659,woman,62,ACA,3.6,4.7,5.1,4.9,61.46707,Double cathe,no
+1660,man,55,ICA,3.8,6.8,4.5,5.6,89.6784,Double cathe,yes
+1661,woman,73,ICA,3.6,5.5,3.5,4.5,45.33375,Double cathe,no
+1662,woman,70,MCA,4.8,6.4,5.5,5.9,108.6858667,Double cathe,no
+1663,woman,58,ICA,9,9.6,10.9,10.2,558.56832,Double cathe,no
+1665,man,71,ICA,3.2,4.6,3.9,4.2,39.43212,Double cathe,yes
+1666,woman,65,ICA,3.3,6,4.4,5.2,71.8432,Double cathe,yes
+1667,woman,58,ACA,3.5,4.4,5.5,5,63.32333333,Simple,yes
+1669,woman,68,ICA,5.1,5.2,5.5,5.3,79.32686667,Double cathe,no
+1670,man,65,BA,5.8,5.9,7,6.4,138.3274667,Stent assist,no
+1673,woman,75,ICA,5.5,5.2,5.9,5.6,89.91285333,Stent assist,no
+1676,woman,43,ICA,5.5,5.5,7.6,6.1,133.4395333,Stent assist,no
+1677,man,69,ACA,4.3,10,7,8.5,311.3833333,Double cathe,yes
+1678,woman,43,ICA,4.5,4.1,4.2,4.3,38.75074,Stent assist,no
+1679,woman,74,ICA,4.9,5.7,5.1,4.4,66.93852,Stent assist,no
+1681,woman,56,ICA,4.9,5.2,5.5,5.4,80.8236,Double cathe,no
+1682,woman,61,ICA,4.8,5.8,4.3,5,65.25966667,Stent assist,yes
+1684,woman,76,ICA,3.1,6.5,4.5,5.5,84.19125,Double cathe,no
+1685,woman,74,ICA,5.3,4.6,5.7,5.2,71.35336,Stent assist,yes
+1686,woman,38,ICA,4.2,4,4.1,4,34.33066667,Stent assist,yes
+1687,woman,46,ICA,3.5,5.2,3.9,4.5,47.7594,BAT,no
+1689,man,65,VA,6,5.3,5.1,5.2,73.55764,Stent assist,no
+1690,woman,76,MCA,4.4,5.4,4.5,4.8,61.0416,Simple,no
+1691,woman,54,ICA,3.2,6.8,5.3,6.1,115.0516933,Double cathe,yes
+1692,woman,69,MCA,3.8,3.6,4.8,4.2,37.98144,Double cathe,no
+1694,woman,57,ACA,4.2,4,4.9,4.4,45.13226667,BAT,no
+1695,woman,75,ICA,5.5,5.7,5.8,5.8,100.34812,Double cathe,yes
+1698,woman,51,ICA,5.1,6.8,6.1,6.5,141.1011333,Stent assist,yes
+1699,woman,84,ACA,10,17.1,13.9,15.5,1928.06205,Stent assist,no
+1700,man,43,ICA,2.4,5.7,4.3,5,64.1345,Simple,no
+1702,woman,66,ICA,4.2,5.1,4.3,4.7,53.94049,BAT,no
+1703,man,44,ICA,5.1,4.8,5.5,5.2,71.8432,Stent assist,yes
+1707,woman,64,ICA,3.2,4.6,3.5,4.1,34.54523333,BAT,no
+1708,woman,71,ACA,3.9,4.1,3.9,4,33.4724,Double cathe,no
+1710,woman,81,ACA,6.4,8.2,8.9,8.6,328.4586533,Stent assist,no
+1711,woman,60,ACA,3.6,3.7,3.5,3.6,24.3978,Double cathe,yes
+1714,woman,40,ICA,4.6,4.6,5.1,4.9,60.15926,BAT,no
+1715,woman,60,ICA,6.4,5.7,5.8,5.8,100.34812,Double cathe,yes
+1716,man,74,ACA,3.4,4.1,4.9,4.5,47.31195,Double cathe,no
+1717,woman,72,MCA,5,4.8,4.3,4.6,49.68736,Double cathe,no
+1720,woman,47,ICA,5.3,6.2,5.1,5.7,94.32246,BAT,yes
+1721,man,56,ICA,3.8,3.5,3.2,3.4,19.92853333,BAT,no
+1722,woman,75,ACA,5.7,4.2,5.2,4.7,53.71912,Stent assist,no
+1723,woman,45,ICA,4.3,3.9,3.8,3.9,30.24762,Stent assist,no
+1724,woman,66,MCA,4.9,6.2,4.1,5.2,69.17629333,Double cathe,no
+1725,woman,67,ICA,3.8,3.8,3,3.4,20.2844,Stent assist,no
+1726,woman,55,ICA,5.5,5.8,6.9,6.4,134.04032,Stent assist,no
+1727,woman,65,ICA,2.8,4.3,4.2,4.3,40.64102,BAT,yes
+1728,man,70,ACA,5.3,4.2,5.6,4.9,60.31312,Double cathe,no
+1729,man,67,ICA,4.2,4,4.8,4.4,44.2112,Double cathe,no
+1730,woman,62,ICA,4.5,4.2,4.1,4.2,37.84956,Stent assist,no
+1732,man,62,ICA,2.8,4.3,3.8,4.1,35.06019333,Double cathe,yes
+1733,woman,60,ICA,5.2,4.5,5.6,5.1,67.2588,Stent assist,no
+1734,woman,69,ICA,4.8,6,6.1,6.1,116.8394,BAT,no
+1735,woman,82,ACA,5.4,4,5.3,4.7,52.14493333,Double cathe,no
+1736,woman,80,BA,5.7,5.6,5.8,5.7,96.88784,Double cathe,no
+1738,woman,43,ICA,3.9,4.9,4,4.5,46.158,Double cathe,yes
+1739,woman,34,ICA,4.1,3.6,4.6,4.1,35.53224,Stent assist,no
+1740,woman,62,ICA,3.2,4.3,2.4,3.4,18.36272,BAT,no
+1741,man,62,ICA,2.2,4.6,3.3,4,31.7768,Double cathe,no
+1742,woman,57,ICA,4.6,4.6,5.6,6,80.8864,Double cathe,no
+1743,woman,53,ICA,4.7,4.3,4.2,4.3,40.64102,Double cathe,yes
+1744,woman,61,ICA,5.3,8.7,7.9,8.3,298.54021,Double cathe,yes
+1745,woman,62,ICA,4.1,7,6.4,6.7,157.0837333,Double cathe,yes
+1746,woman,53,ICA,3.7,4.3,5.1,4.7,53.94049,Double cathe,yes
+1747,man,75,VA,5,5.7,5.4,5.6,90.20592,Stent assist,no
+1749,woman,46,ICA,4.7,7,7.1,7.1,184.6686333,Double cathe,no
+1750,woman,57,ICA,2.6,3.6,2.8,3.2,16.88064,Double cathe,no
+1751,woman,63,ICA,4.4,6.6,8.6,7.6,225.75344,Stent assist,yes
+1753,woman,63,ICA,7.8,6.2,8,7.1,184.2970667,Stent assist,yes
+1755,woman,78,ACA,4.1,3.5,4,3.8,27.84133333,Double cathe,no
+1757,woman,72,BA,5.4,4.8,6,5.4,81.3888,Stent assist,no
+1758,woman,49,ICA,4.3,10.6,8.9,9.8,483.8384133,Double cathe,no
+1759,woman,55,ICA,3.1,6.5,4,5.3,72.11533333,Double cathe,yes
+1760,woman,73,ICA,4.9,6.2,6.3,6.3,128.78082,Stent assist,yes
+1763,man,51,VA,8.1,7.1,6.4,6.7,159.3277867,Stent assist,no
+1765,woman,62,ICA,3.4,5,5.3,5.2,72.11533333,Double cathe,yes
+1766,man,67,ACA,5.4,3.3,3.8,3.6,23.62536,Stent assist,no
+1767,woman,53,ICA,5.4,5.7,6.4,6.1,116.45632,Stent assist,no
+1768,man,58,ACA,7.1,5.9,8.3,7.1,181.9561967,Double cathe,no
+1769,woman,70,MCA,3.4,5.8,4.5,5.2,71.0268,Double cathe,yes
+1770,woman,60,ICA,4.3,3.9,3.6,3.8,27.92088,Stent assist,yes
+1772,man,56,ACA,4.4,6,4,5,62.8,Simple,yes
+1773,man,55,ACA,3.3,3.7,4.2,4,32.5304,Double cathe,no
+1775,man,59,VA,7.6,4,5.7,4.8,57.2736,Stent assist,no
+1776,man,61,ACA,4.7,6.5,7.7,7.1,185.9691167,Double cathe,yes
+1777,woman,58,MCA,2.6,3.9,3.8,3.9,30.24762,Simple,no
+1778,woman,55,ICA,6.7,4,5.8,4.9,59.49253333,Stent assist,yes
+1779,man,63,ICA,2.3,3.8,2.8,3.3,18.37528,Double cathe,no
+1780,woman,60,ICA,4.7,4.8,4.9,4.9,60.31312,Stent assist,yes
+1781,woman,34,ICA,3.7,4.4,4.2,4.3,41.58616,BAT,no
+1782,woman,63,BA,3.1,4.5,4.1,4.3,41.51865,Double cathe,no
+1783,woman,64,ACA,3.2,5.1,4.1,4.6,50.33734,Simple,no
+1785,woman,63,BA,6.3,4.1,5.7,4.9,59.92847,Stent assist,no
+1786,woman,63,ICA,4,3.8,4.1,3.9,31.79878,Double cathe,no
+1790,man,45,ICA,4.6,3.3,4.3,3.8,28.21918,Stent assist,no
+1791,woman,68,ICA,5.6,6.9,5.6,6.3,127.39608,Stent assist,no
+1792,woman,77,MCA,4.8,6.3,6.6,6.5,141.4413,Stent assist,yes
+1794,woman,77,ICA,6.1,6,7.2,6.6,149.2128,Stent assist,yes
+1795,woman,67,BA,5.8,6.7,7.1,6.9,171.77527,Stent assist,yes
+1799,man,56,ICA,3.2,4.7,4.1,4.4,44.37238667,Double cathe,yes
+1800,woman,66,ICA,2.7,3.8,3.2,3.5,22.27306667,Double cathe,yes
+1801,woman,66,ICA,4.4,4.7,4.4,4.6,49.78365333,Double cathe,yes
+1802,woman,42,ICA,8.6,9.1,11,10.1,529.0952333,Stent assist,no
+1803,woman,70,ICA,3.9,3.5,3.6,3.6,23.7384,Simple,no
+1804,woman,55,ICA,6.1,5.4,7.4,6.8,142.20432,Stent assist,yes
+1807,man,51,ICA,5.4,9.5,6.4,8,254.5493333,Double cathe,no
+1808,woman,51,ICA,5.6,4.6,5.8,5.2,72.60517333,Stent assist,no
+1809,woman,47,ICA,6.7,5.1,7.1,6.1,115.59439,Stent assist,no
+1810,woman,64,BA,5,5.3,5.9,5.6,91.64194667,Stent assist,yes
+1811,woman,60,ICA,4.8,5.2,6.2,5.7,96.17192,Double cathe,no
+1812,man,58,MCA,4.8,4.4,4.5,4.5,46.629,Double cathe,no
+1813,man,40,ICA,4,4.1,3.7,3.9,30.96197,Double cathe,no
+1814,woman,51,ICA,2.8,2.7,3,2.9,12.2931,BAT,no
+1816,man,67,ACA,2.9,4,3.5,3.8,27.84133333,Double cathe,no
+1818,woman,56,ICA,2.1,3.6,1.5,2.6,7.3476,Stent assist,no
+1819,woman,66,BA,3.2,11.8,13.1,12.5,1011.210833,Stent assist,no
+1820,woman,78,ICA,2.7,4.6,3.1,3.6,26.86584,Double cathe,no
+1823,woman,69,ACA,5.4,3.9,3.8,3.9,30.24762,Stent assist,no
+1824,man,59,ICA,3.8,7.1,4.1,5.6,85.31170667,Double cathe,no
+1825,woman,45,ICA,5.5,9.1,8.5,8.8,356.2225333,Double cathe,no
+1826,woman,55,MCA,5.5,5.3,5.7,5.5,86.95445,Stent assist,no
+1827,woman,45,ICA,1.7,3.7,2.2,3,12.7798,Simple,no
+1829,woman,43,ICA,2.9,3.6,2.2,2.8,11.60544,Stent assist,no
+1830,man,64,ACA,3.8,6.1,3.8,5,60.65433333,Double cathe,no
+1832,woman,71,MCA,5.1,4.5,5.1,4.8,57.6504,Stent assist,no
+1833,woman,81,ICA,10,9,9.5,9.3,416.1285,Stent assist,yes
+1834,woman,57,ACA,3.2,5.1,4.9,5,65.3905,Double cathe,no
+1835,woman,59,ICA,6,5.6,6.5,6.1,116.2009333,Stent assist,yes
+1836,man,67,ACA,5.4,4.6,5.8,5.2,72.60517333,Stent assist,yes
+1838,woman,84,BA,7.5,5.3,6.4,5.9,104.7336533,Stent assist,no
+1840,woman,56,ICA,5.1,5.5,5.3,5.4,82.3779,Stent assist,yes
+1841,woman,46,ICA,4.1,4.4,5.2,4.8,57.47456,Stent assist,no
+1842,woman,45,ACA,3.1,4.6,5,4.8,57.776,Simple,no
+1844,woman,50,ICA,5.7,3.5,4.8,4.2,36.9264,Stent assist,no
+1845,woman,45,ICA,5.1,4.6,5,4.8,57.776,Double cathe,yes
+1846,woman,68,VA,5.7,6,7.1,6.6,147.1404,Stent assist,no
+1847,man,65,MCA,3.5,5.3,3.4,4.5,42.4371,Stent assist,yes
+1848,man,57,ACA,5.2,4.4,4.6,4.5,47.6652,Double cathe,yes
+1849,woman,44,ICA,3.8,4.2,5.2,4.7,53.71912,Double cathe,no
+1850,woman,67,ICA,3.6,5.2,4.1,4.7,52.44009333,Double cathe,no
+1851,man,44,ICA,5.2,4.8,5.9,5.4,80.03232,Stent assist,no
+1854,man,57,ICA,4.4,6.2,6.3,6.3,128.78082,Double cathe,no
+1855,woman,59,ICA,3,4.2,4.1,4.2,37.84956,Simple,no
+1856,man,66,VA,4.4,4.6,4.8,4.7,54.30944,Stent assist,no
+1857,woman,72,ICA,2.1,2.8,2.6,2.7,10.28664,Simple,no
+1858,woman,40,ICA,3.3,4.6,4.2,4.4,44.48752,Double cathe,no
+1860,woman,56,MCA,4.2,4.9,5,4.9,62.82616667,Double cathe,yes
+1861,woman,46,ACA,3.5,4.2,4.4,4.3,41.58616,Double cathe,yes
+1862,woman,64,ICA,5.6,4.1,4.9,4.5,47.31195,Stent assist,no
+1863,woman,60,MCA,4.4,3.8,4.2,4,33.4096,Stent assist,no
+1864,man,70,VA,11,8.6,9.5,9.1,389.0826333,Stent assist,no
+1867,woman,45,ICA,3.6,4.4,5.3,4.9,59.80025333,Double cathe,no
+1868,woman,56,MCA,3.3,2.1,3.2,2.7,9.49536,Stent assist,no
+1870,man,37,ICA,4.1,2.6,3.8,3.1,16.02865333,Stent assist,yes
+1871,man,66,MCA,3.2,6.7,6.3,6.5,143.58435,Stent assist,yes
+1872,woman,72,ICA,2.9,4.5,2.4,3.5,19.782,Simple,no
+1873,woman,88,ICA,6.3,8.4,7.6,8,267.2768,Double cathe,yes
+1875,man,50,ACA,5.8,9.7,5.8,7.8,229.65332,Stent assist,yes
+1876,woman,46,ICA,3.4,4.9,4.3,4.6,50.72251333,Simple,yes
+1877,man,59,MCA,3.4,5.2,4.2,4.7,53.71912,Double cathe,no
+1878,woman,38,ICA,6,5.4,7.6,6.5,139.6044,Double cathe,no
+1881,woman,79,ACA,3,6.1,4,5.1,65.1236,Simple,yes
+1885,man,71,ICA,3.7,5,3.8,4.4,43.75066667,Simple,no
+1886,woman,73,ICA,4,8,5.8,6.9,167.5504,Double cathe,yes
+1887,woman,54,ICA,2.4,5.7,3.4,4.1,41.58302,Simple,yes
+1888,woman,59,ACA,4.4,7.3,6.3,6.8,163.66308,Stent assist,yes
+1889,woman,49,ICA,4.8,4.7,5.2,4.9,62.67230667,Stent assist,no
+1891,man,71,ACA,4.1,4,4.7,4.4,43.29013333,Stent assist,yes
+1892,woman,57,ICA,3.7,5.3,4.1,4.7,53.44855667,Double cathe,no
+1894,woman,36,ICA,4.7,5.7,7.9,6.8,160.24676,Stent assist,no
+1895,woman,50,ICA,3.2,4.3,3.1,3.7,25.81132333,Simple,no
+1896,woman,55,BA,4.9,3.7,5.4,4.6,48.09852,Stent assist,no
+1897,woman,44,ICA,4.9,5.5,6.3,5.9,106.98765,Stent assist,no
+1898,woman,55,ICA,4.3,4,6.2,5.1,66.1912,Stent assist,no
+1899,woman,59,ICA,4.2,5.3,4.6,4.9,62.51844667,Double cathe,yes
+1900,woman,40,ICA,5.2,5.6,5.3,5.4,83.87568,Stent assist,no
+1901,woman,79,ICA,3.5,3.8,3.7,3.8,27.96065333,Simple,no
+1902,man,71,MCA,6,4.8,5.3,5.1,67.89936,Double cathe,no
+1903,woman,58,MCA,3.8,4.6,4.5,4.6,49.8318,Stent assist,yes
+1904,woman,45,ICA,5.3,4.3,4.1,4.2,38.75074,Stent assist,no
+1905,woman,79,MCA,5.6,6.3,8.6,8,226.8336,Double cathe,no
+1906,woman,46,ICA,4.2,5.6,6.1,5.9,105.4746933,Stent assist,no
+1907,man,47,ICA,4.9,5.2,3.9,4.6,48.82072,Stent assist,yes
+1908,woman,72,MCA,4.3,5.4,5.8,5.6,91.78848,Double cathe,no
+1909,man,73,MCA,6.4,8.4,8.3,8.4,306.48912,Double cathe,no
+1910,woman,74,ICA,3.9,3.5,4.5,4,32.97,Double cathe,no
+1911,woman,70,BA,4.7,6.6,5.6,6.1,117.98864,Stent assist,yes
+1912,woman,70,ICA,2.9,4.1,3.4,3.8,27.72201333,Double cathe,no
+1913,woman,75,BA,5.6,4.4,5.2,4.8,57.47456,Stent assist,no
+1914,woman,46,ICA,4.1,4.6,3.8,4.2,38.42104,Double cathe,yes
+1915,woman,81,BA,4.3,4.7,5.1,4.9,61.46707,Double cathe,no
+1916,man,66,ICA,3.3,6.6,4.3,5.5,81.6871,Stent assist,no
+1917,man,47,VA,5.7,6.7,4.5,8.08,127.49028,Stent assist,no
+1923,man,45,ICA,3.1,3.2,3,3.1,15.5744,Double cathe,no
+1924,woman,37,ICA,4.3,5.7,4.8,5.3,75.88752,Stent assist,no
+1925,woman,67,ICA,5.9,3.5,5.7,4.6,48.0263,Stent assist,no
+1926,woman,67,ICA,4,9.2,10.2,9.7,476.36312,Double cathe,no
+1927,woman,69,ICA,3.5,6.4,5.5,6,110.528,Simple,yes
+1928,man,65,ICA,5.1,4.6,5.6,5.1,68.75344,Stent assist,yes
+1929,woman,67,ICA,6.2,6.1,7.3,6.7,156.1370233,Stent assist,yes
+1930,woman,58,ICA,3.8,4.3,5,4.7,52.88283333,Stent assist,no
+1931,woman,55,MCA,5.4,5.7,6.9,6.3,129.67101,Stent assist,no
+1932,woman,66,BA,5.4,3.3,4.8,4.1,33.98736,Stent assist,no
+1934,woman,45,ICA,3.6,5.6,5.7,5.7,95.21736,Double cathe,no
+1935,woman,49,ICA,3.7,2.7,3.6,3.2,16.27776,Stent assist,no
+1936,woman,49,ICA,4.4,4,5.1,4.6,49.1096,Double cathe,no
+1938,woman,53,ICA,3.9,3.8,4.6,4.2,38.42104,Stent assist,no
+1939,woman,37,ICA,6.8,4,4.7,4.4,43.29013333,Stent assist,yes
+1942,woman,47,ICA,4.4,3,4.3,3.7,24.9787,Stent assist,no
+1943,woman,65,ICA,3,4.9,4.5,4.7,54.23565,Double cathe,no
+1945,woman,84,ACA,4.1,3.7,4.1,3.9,30.96197,Stent assist,no
+1948,woman,47,ICA,3.9,5.5,6,5.8,100.166,Double cathe,no
+1953,woman,76,ICA,6,5.2,7.6,6.4,132.3656533,Stent assist,no
+1954,woman,79,ACA,6.7,5.8,6.4,6.1,118.4994133,Stent assist,no
+1956,woman,76,ICA,3.1,3.5,4.2,3.9,30.0027,Double cathe,no
+1958,woman,48,ICA,2.9,5.1,2.8,4,29.8928,Simple,no
+1960,woman,60,ICA,3.4,4.6,4.2,4.4,44.48752,BAT,no
+1961,woman,63,ICA,3.4,7.1,7.1,7.1,187.3067567,BAT,yes
+1962,woman,63,ICA,4.1,4,3.7,3.9,30.2068,Stent assist,no
+1964,woman,54,ICA,4.1,7.4,6.8,7.1,186.9723467,Double cathe,no
+1965,woman,46,ICA,3.1,3.8,4.1,4,32.61413333,Double cathe,no
+1966,man,58,ICA,5,4.9,5.4,5.2,72.00648,Stent assist,no
+1967,woman,65,ICA,3,4.9,4.5,4.7,54.23565,Double cathe,yes
+1970,man,63,ICA,3.2,6.8,5.9,6.4,134.3752533,Double cathe,no
+1971,man,73,ACA,6.7,6.4,6.9,6.7,154.83968,Stent assist,yes
+1972,woman,57,ICA,3.9,4.1,4.3,4.2,38.75074,Stent assist,no
+1973,woman,39,ICA,3.6,3.8,3.5,3.7,25.75323333,Double cathe,no
+1974,man,63,ACA,4.8,7.3,8,7.7,235.3325333,Double cathe,yes
+1975,woman,51,ICA,5,5.9,5.4,5.6,93.37104,Double cathe,no
+1976,woman,67,ICA,2.4,2,2.3,2.2,5.296133333,Stent assist,no
+1977,woman,76,ICA,7.4,5.5,7.6,6.6,144.3772,Stent assist,no
+1978,woman,72,ICA,3,5.7,3.9,4.8,55.84176,Simple,no
+1979,woman,67,ICA,4.2,5,3.4,4.2,37.366,BAT,no
+1982,woman,51,ICA,3.7,4.6,4.4,4.5,47.6652,Simple,no
+1986,woman,81,ICA,3,2.5,2.9,2.7,10.24425,Stent assist,no
+1987,woman,49,ICA,3,4.7,3.3,4,32.4676,BAT,yes
+1988,woman,16,ICA,4.4,3.1,4.6,3.9,29.10466,Double cathe,no
+1989,woman,75,ICA,3.8,4.5,4.7,4.6,50.9151,Stent assist,no
+1991,man,63,MCA,5.6,7.6,5.8,6.7,154.5591733,Stent assist,no
+1992,woman,31,ICA,2.8,2.9,2.2,2.6,8.681053333,BAT,no
+1993,woman,38,ICA,6.1,7.5,8.5,8,266.9,Stent assist,no
+1995,woman,49,ICA,6.5,5.4,5.8,5.6,91.78848,Stent assist,no
+1996,woman,63,VA,6.5,7.3,7.3,7.3,203.5855633,Stent assist,no
+1997,woman,51,ICA,4.5,6.5,6.4,6.5,141.5093333,Stent assist,no
+1998,woman,74,ACA,4.4,5,4.8,4.9,61.544,Stent assist,no
+2001,man,56,ICA,3.6,3.9,4.3,4.1,35.98283,Stent assist,no
+2002,man,51,ACA,3.3,4.7,4.3,4.5,47.59455,Stent assist,yes
+2004,woman,71,ACA,5.4,4.6,6.6,5.6,88.97504,Stent assist,yes
+2005,woman,70,BA,7.9,6.9,9,8,259.992,Stent assist,no
+2006,man,71,BA,4.4,11.8,5.4,8.6,286.78248,Stent assist,no
+2008,woman,55,ICA,4.1,5.2,7.2,6.2,121.48032,Double cathe,yes
+2009,man,47,ICA,5,7.6,6.3,7,175.4004,Double cathe,no
+2012,woman,51,ICA,6.2,3.4,2.6,3,13.8788,Stent assist,no
+2013,woman,70,BA,6.7,5.6,7.5,6.5,142.87,Stent assist,yes
+2014,woman,45,ICA,3.7,3.4,4.5,4,32.028,Stent assist,no
+2015,woman,72,MCA,3.3,4.1,2.6,3.4,18.96769333,Stent assist,no
+2016,woman,68,ACA,4.3,4.9,4.9,4.9,61.56964333,Double cathe,no
+2017,woman,71,ICA,3.7,5.5,4.5,7,90.6675,Stent assist,yes
+2018,woman,66,ICA,3.4,4,4,4,33.49333333,Stent assist,no
+2020,woman,51,ICA,3.6,6.2,4.9,5.6,89.03365333,Double cathe,no
+2021,woman,73,ICA,4.4,10,8.9,9.5,442.4783333,Double cathe,yes
+2022,man,55,ICA,4.5,4.1,4.8,4.5,46.3464,Double cathe,no
+2023,man,73,MCA,3.7,7.3,6.3,6.8,163.66308,Stent assist,yes
+2025,man,80,ACA,6.9,7.5,5.9,6.7,155.15525,Stent assist,yes
+2026,man,58,ACA,5.5,5.8,7.7,6.8,158.9300533,Stent assist,yes
+2027,woman,70,ICA,4.1,3.7,4,3.9,30.2068,Stent assist,no
+2028,woman,38,ICA,3.9,4.6,5.4,5,64.998,BAT,no
+2029,woman,44,ICA,4.1,8.6,5.6,7.2,181.46688,Double cathe,yes
+2030,woman,57,ICA,3.4,3.4,3.7,3.6,23.70072,Stent assist,no
+2033,woman,69,ICA,4.5,7,8.6,7.8,245.7364,BAT,yes
+2035,man,47,ICA,4.3,4.2,3.9,4.1,35.14602,Stent assist,no
+2036,man,72,ICA,5,4.9,5.2,5.1,68.00612,Stent assist,yes
+2038,woman,60,ICA,5.5,4.8,5.4,5.1,69.18048,Double cathe,no
+2039,woman,49,VA,5.3,4.8,5.4,5.1,69.18048,Stent assist,no
+2040,woman,54,ICA,4.1,4.2,3.8,4,33.4096,BAT,no
+2042,woman,67,ICA,4.3,6.3,5.3,5.8,101.34978,Stent assist,yes
+2045,man,61,MCA,4.2,3.1,3.5,3.4,19.30576667,Stent assist,no
+2046,man,54,BA,7.5,6.1,7.1,6.6,149.59274,Stent assist,no
+2047,woman,49,ICA,3.9,5.3,4.8,5.1,67.89936,Double cathe,no
+2048,woman,39,ICA,3.2,5.9,2.7,4.3,35.84781,Stent assist,yes
+2049,woman,46,ICA,4.9,4,3.7,3.9,30.2068,Stent assist,no
+2050,woman,50,ICA,3.3,4.3,4,4.2,37.8056,Stent assist,no
+2051,woman,64,ACA,4,3.5,3.9,3.7,26.43095,Stent assist,yes
+2053,man,66,ACA,2.8,3.7,2.6,3.2,16.11029333,Double cathe,no
+2054,man,61,ICA,3,3.8,3.6,3.7,26.48904,Simple,no
+2055,woman,64,MCA,3.7,5.3,5.6,5.5,85.42893333,Double cathe,yes
+2056,woman,47,ICA,6.9,5.6,7.8,6.7,153.15664,Stent assist,yes
+2057,woman,70,ACA,4,5.2,5,5.1,69.394,Stent assist,no
+2060,woman,58,ICA,3.2,4.6,3.6,4.1,35.53224,Double cathe,no
+2062,woman,67,ICA,3.6,3.7,3.1,3.4,20.40895333,Stent assist,no
+2063,woman,65,BA,3.7,3.6,3.9,3.8,27.92088,Stent assist,no
+2064,woman,50,ICA,5.2,4.6,4,4.3,41.40613333,Stent assist,no
+2065,woman,71,MCA,6.2,6.2,6.8,6.5,143.4142667,Double cathe,no
+2066,woman,55,ICA,4.5,5,4.7,4.9,60.26183333,Stent assist,yes
+2068,woman,73,ICA,4.3,5.7,4.4,5.2,68.25104,Double cathe,no
+2069,woman,40,ICA,5,5.7,6.1,5.9,107.35817,Stent assist,yes
+2070,woman,52,ICA,7,4.7,5.9,5.3,76.91377667,Stent assist,yes
+2071,woman,64,ICA,4.3,6.4,6,6.2,124.5952,Stent assist,no
+2072,woman,51,ICA,5.7,4.5,5,4.8,56.52,Stent assist,no
+2074,man,64,BA,4.16,5.2,6,5.6,91.4368,Stent assist,yes
+2075,woman,46,ICA,5,4.3,5.7,5,64.1345,Stent assist,no
+2076,man,71,ACA,3.8,5.1,4,4.6,49.1096,Stent assist,yes
+2078,woman,64,ICA,3.7,4.4,4.4,4.4,44.57962667,Double cathe,no
+2081,woman,63,ICA,2.7,4.8,3.1,4,31.1488,Double cathe,no
+2082,man,38,ICA,5.1,4.8,5.8,5.3,77.21888,Stent assist,no
+2083,woman,48,ICA,5.1,3.5,4.2,3.9,30.0027,Stent assist,no
+2087,woman,51,ICA,2.9,4.9,4.5,4.7,54.23565,Double cathe,no
+2088,woman,48,ICA,6.5,7.1,6.6,6.9,169.21146,Stent assist,no
+2089,man,53,ACA,5.7,4.8,5.2,5,65.312,Stent assist,no
+2091,man,49,ACA,3.4,4.2,3.6,3.9,30.85992,Double cathe,no
+2095,man,60,ACA,5.2,4.7,7.5,6.1,112.52975,Stent assist,no
+2097,woman,72,MCA,5.3,6.2,6.3,6.3,128.78082,Double cathe,no
+2099,woman,81,MCA,3.3,5.1,4.4,5,58.718,Double cathe,no
+2101,woman,46,ICA,5,5.8,7,6.4,135.9829333,Double cathe,no
+2102,woman,53,ICA,2.6,4,3.1,3.6,23.3616,Double cathe,yes
+2105,man,55,ACA,4.6,3.9,5.3,4.6,49.75958,Stent assist,no
+2108,woman,79,ICA,3,4.1,3.6,3.9,30.12516,Stent assist,no
+2109,woman,50,MCA,3.1,7.3,5.1,6.2,120.79894,Double cathe,no
+2110,woman,72,ACA,4,4.7,4.2,4.5,46.4877,Stent assist,no
+2111,woman,74,ICA,10.9,14.8,14.3,14.5,1605.994867,Stent assist,no
+2112,woman,53,ACA,3.4,4.7,3.7,4.2,38.22322,Stent assist,no
+2114,woman,85,BA,4.8,4.5,5.5,5,64.7625,Stent assist,no
+2115,woman,52,ICA,4.6,5.8,6.7,6.3,128.12142,Double cathe,yes
+2116,woman,56,ICA,4.7,4.4,4.2,4.3,41.58616,Stent assist,yes
+2117,man,73,MCA,4.1,3,3.4,3.2,17.0816,Stent assist,no
+2118,woman,70,ICA,3.2,5.2,4.3,4.8,56.16832,Double cathe,no
+2119,woman,67,ICA,4.2,3.6,4.9,4.3,39.69588,Stent assist,no
+2120,woman,64,ICA,3.3,3.9,3.3,3.6,24.24708,Stent assist,yes
+2121,man,49,ICA,4.2,3.9,3.1,3.5,22.14485,Stent assist,yes
+2123,woman,49,BA,3.9,5.1,4.2,4.7,52.68606,Stent assist,no
+2124,woman,41,ICA,5,5.6,5.8,5.7,96.88784,Double cathe,no
+2126,woman,43,ICA,4.4,3.2,4.3,3.8,27.36405333,BAT,no
+2127,man,67,MCA,5.9,7.8,9.1,8.5,315.7427,Stent assist,no
+2129,woman,69,ACA,4.2,4.3,4.2,4.3,40.64102,Double cathe,no
+2130,woman,57,BA,3.4,3.8,3.4,3.6,24.34128,Double cathe,no
+2131,man,29,ICA,4,4.4,5,4.7,54.11266667,Stent assist,no
+2132,man,46,ACA,3,4,3.7,3.9,30.2068,Stent assist,no
+2134,woman,38,ICA,4.6,4.5,5.5,5,64.7625,Stent assist,no
+2135,woman,62,MCA,5.5,3.7,4.8,4.3,39.96592,Stent assist,no
+2136,woman,70,MCA,3.5,4.9,3.7,4.3,40.79854333,Double cathe,no
+2137,woman,71,ICA,4.9,3.9,4.3,4.1,35.98283,Stent assist,no
+2138,woman,55,ICA,4.8,5.4,6.2,5.8,101.62296,Stent assist,no
+2139,woman,57,ICA,4.5,5.4,4.4,4.9,60.92856,Stent assist,no
+2140,woman,59,ICA,4,4.3,4.7,4.5,47.59455,Double cathe,no
+2141,woman,43,ICA,5.4,5.2,4.2,4.7,53.71912,Stent assist,yes
+2142,man,50,ICA,3.7,5.1,5.4,5.3,76.38678,Double cathe,no
+2143,man,67,ICA,4.5,8,5.8,6.9,167.5504,Stent assist,yes
+2144,man,45,ICA,3.8,3.9,4.1,4,33.4724,Double cathe,no
+2145,woman,62,ICA,3.1,4.8,3.5,4.2,36.9264,BAT,yes
+2146,woman,58,ACA,3.6,3.5,4.3,3.9,30.71705,Stent assist,yes
+2147,woman,45,ICA,3.5,3.9,4,4,32.656,Stent assist,yes
+2148,man,41,ICA,5.8,5.4,6.4,5.9,106.70976,Stent assist,no
+2151,man,45,ACA,4.8,5.3,5.9,5.6,91.64194667,Double cathe,yes
+2152,woman,72,ACA,6.4,9.6,8.1,8.9,362.18016,Double cathe,yes
+2153,woman,56,ICA,4,5,3.9,4.5,45.9225,Double cathe,no
+2154,woman,65,ICA,3.5,6.8,5.2,6,111.0304,Double cathe,no
+2155,woman,47,ICA,4.1,5.7,5.3,5.5,86.95445,BAT,no
+2156,woman,50,ICA,5.2,8.4,5.9,7.1,184.14844,Stent assist,no
+2157,woman,54,ICA,5.2,3.2,5.3,4.3,38.16565333,Stent assist,no
+2158,woman,53,ICA,3.7,6.3,6.5,6.4,137.1552,Stent assist,yes
+2159,woman,42,ICA,3.5,5.4,6.3,5.9,105.04242,Stent assist,yes
+2161,woman,53,ACA,2.5,4.2,3,3.6,23.7384,Double cathe,no
+2162,woman,72,ICA,6,9.7,6.6,8.2,274.73116,Stent assist,no
+2163,man,65,ICA,5.6,5,4.4,4.7,54.11266667,Stent assist,yes
+2164,woman,80,VA,4.3,8.8,8.7,8.8,352.58432,Stent assist,no
+2165,woman,80,ICA,4.3,3.8,3.9,3.9,30.24762,Stent assist,no
+2166,man,64,ACA,3.2,4,3.3,3.7,25.5596,Double cathe,no
+2169,woman,43,ICA,7,4.6,4.7,4.7,53.17799333,Stent assist,no
+2170,woman,35,ICA,6.2,6.1,6.9,6.5,143.17615,Stent assist,no
+2171,woman,59,ICA,5.2,4.2,6.3,5.2,72.00648,Stent assist,no
+2173,man,45,VA,7.2,5.2,5.7,5.5,85.3138,Stent assist,no
+2174,woman,58,ICA,7.3,4.5,6.6,5.6,87.0408,Stent assist,no
+2176,woman,72,ACA,4.9,4.2,4.6,4.4,44.48752,Stent assist,no
+2177,man,56,ICA,4,4.8,4,4.4,44.2112,Stent assist,no
+2178,woman,76,ACA,2.7,5.2,5.2,5.2,73.58485333,Simple,no
+2180,man,65,BA,9.9,5.9,8.2,7.2,182.29584,Stent assist,no
+2181,woman,44,ICA,4.8,4.7,5.7,5.2,72.90452,Stent assist,yes
+2182,woman,51,ICA,4.5,5.1,5.9,5.5,86.60905,Stent assist,no
+2183,woman,51,ICA,3.3,4.4,4.2,4.3,41.58616,Double cathe,no
+2186,woman,61,ICA,4.3,7.6,6.4,7,178.1845333,Stent assist,no
+2187,man,49,ICA,3.7,4.5,4.1,4.3,41.51865,Double cathe,no
+2189,woman,61,ACA,3.5,4.9,5,5,64.10833333,Stent assist,yes
+2190,woman,55,ICA,6.6,4.8,5,4.9,61.544,Stent assist,no
+2191,woman,80,ICA,3.3,7.2,6.4,6.8,163.98336,Double cathe,yes
+2194,woman,39,ICA,3.1,4.7,2.1,3.4,17.56202,Stent assist,no
+2195,woman,55,MCA,5.3,4.6,5.6,5.1,68.75344,Stent assist,no
+2196,man,38,ICA,3.6,5.3,4.4,4.9,59.80025333,Stent assist,no
+2197,man,77,ICA,4.9,5.1,5,5.1,68.0595,Stent assist,yes
+2198,woman,55,ICA,4.5,3.7,3.1,3.4,20.40895333,Stent assist,yes
+2199,woman,47,BA,6,5,6.4,5.7,95.456,Double cathe,no
+2200,man,54,ICA,3.5,4.2,4.2,4.2,38.77272,Stent assist,no
+2201,man,63,ACA,3.2,4,3.4,3.7,26.33413333,Stent assist,no
+2202,woman,44,ICA,6.5,7.8,8.6,8.2,287.86264,Stent assist,no
+2204,woman,73,ACA,6.2,5.7,5.4,5.6,90.20592,Stent assist,no
+2206,man,35,ICA,5.1,4.3,5,4.7,52.88283333,Stent assist,no
+2207,woman,64,ICA,3,3.5,3.5,3.5,22.43791667,Stent assist,yes
+2208,woman,53,ICA,3.2,3.6,3.2,3.4,20.49792,Double cathe,no
+2209,woman,50,ICA,4.4,6.3,6.3,6.3,130.85793,Stent assist,no
+2210,woman,66,MCA,4.4,3.9,4.4,4.2,37.71768,Double cathe,no
+2211,man,70,ACA,3.3,8.1,7.5,7.8,247.9815,Stent assist,yes
+2212,woman,74,MCA,4.6,3.2,4.2,3.7,26.02432,Double cathe,no
+2214,woman,68,BA,6.7,9.8,8.9,9.4,429.0642533,Stent assist,no
+2215,woman,69,ICA,3.2,3.4,3.3,3.4,19.96412,Simple,no
+2216,man,58,ACA,4.7,4.3,4.3,4.3,41.60866333,Simple,no
+2217,woman,78,MCA,4.5,7.8,5.6,6.7,153.15664,Stent assist,yes
+2218,woman,53,ICA,2.3,7.4,7.1,7.2,197.97072,Stent assist,yes
+2219,woman,64,ICA,3.8,4.6,4.5,4.6,49.8318,Double cathe,yes
+2221,woman,87,MCA,5.9,5.4,5.9,5.7,95.03838,Stent assist,yes
+2223,man,43,ACA,4.1,5.6,5.6,5.6,91.90570667,Stent assist,yes
+2224,woman,65,ICA,7.8,4.9,4.9,4.9,61.56964333,Stent assist,yes
+2225,woman,52,ICA,4.8,6.1,7.7,6.9,169.60867,Double cathe,no
+2226,woman,67,BA,6.4,3.5,3.3,3.4,20.5513,Stent assist,yes
+2227,woman,72,ACA,4.5,3.6,3.5,3.6,23.7384,Stent assist,yes
+2228,woman,51,ICA,3.2,5.2,5.5,5.4,80.8236,Stent assist,yes
+2229,woman,52,ICA,3.2,4.2,4.3,4.3,40.64102,Stent assist,no
+2231,woman,55,ICA,3.5,4.4,4.9,4.7,53.03041333,Double cathe,no
+2232,woman,31,ICA,4.5,3.6,4.7,4.2,37.19016,Stent assist,no
+2233,woman,61,ICA,7,7.1,8.6,7.9,252.4423933,Stent assist,no
+2234,woman,57,ICA,6.4,4.4,5.7,5.1,66.93852,Stent assist,no
+2235,woman,75,BA,5.1,5.9,5.3,5.6,91.64194667,Stent assist,yes
+2236,man,67,ACA,5.3,4.5,4,4.3,40.506,Stent assist,no
+2238,woman,58,ICA,4.4,3.5,4.4,4,32.23733333,Stent assist,no
+2240,woman,75,BA,6.8,5.8,5.7,5.8,100.34812,Stent assist,yes
+2241,woman,63,ICA,4.2,4.5,4.2,4.4,43.5204,Double cathe,yes
+2244,man,64,ACA,2.5,3.2,2.7,3,13.5648,Simple,no
+2245,man,58,ICA,3.8,3.4,4.4,3.9,30.53336,Stent assist,no
+2246,woman,67,ICA,3.4,3.5,3.5,3.5,22.43791667,Simple,no
+2247,woman,66,ICA,2.1,4.4,3.3,3.9,29.63532,Double cathe,yes
+2248,woman,52,ICA,4.3,5.1,5,5.1,68.0595,Double cathe,no
+2249,woman,59,ICA,2.8,4.7,3.5,4.1,35.29621667,Double cathe,no
+2253,man,40,ICA,3.2,3.8,4.1,4,32.61413333,Double cathe,no
+2254,man,63,ICA,3.7,4.7,4.4,4.6,49.78365333,Stent assist,no
+2255,woman,82,VA,5.6,4.6,5.5,5.1,67.5257,Stent assist,no
+2256,woman,58,ICA,2.6,5.2,3,4.1,33.4724,Double cathe,no
+2257,woman,61,ICA,5.4,3.2,5,4.1,34.33066667,Stent assist,no
+2259,man,51,ICA,4.1,4.2,3.8,4,33.4096,Stent assist,no
+2260,woman,65,ICA,4.2,3.4,4.3,3.9,29.83942,Stent assist,yes
+2261,man,75,ACA,4.8,8.8,9.1,9,377.1768,Stent assist,no
+2262,man,50,ACA,5.6,4.1,4.9,4.5,47.31195,Stent assist,yes
+2264,woman,61,ICA,3,4.6,3.1,3.9,29.10466,Stent assist,no
+2268,woman,68,ICA,3.1,2.8,3,2.9,12.7484,Stent assist,no
+2269,man,75,ICA,4.3,4.2,5.6,4.9,60.31312,Double cathe,no
+2270,man,63,ICA,4.5,6.1,4.9,5.5,86.03338333,Stent assist,no
+2271,woman,61,ICA,3.3,3.6,3.8,3.7,26.48904,Stent assist,no
+2273,woman,52,BA,4.2,5.2,5.1,5.2,72.16976,Stent assist,yes
+2274,woman,73,ICA,5.8,3,5,4,31.4,Stent assist,no
+2277,woman,68,ICA,3.7,6.7,4.5,5.6,88.3596,Stent assist,no
+2279,woman,68,ICA,5.9,4.4,5.2,4.8,57.47456,Stent assist,no
+2281,woman,76,ACA,3.3,3.1,3,3.1,15.0877,Stent assist,no
+2283,woman,71,ICA,5.8,6.1,5.7,5.9,107.35817,Stent assist,yes
+2286,woman,41,ICA,7.9,7.9,9.5,8.7,341.70265,Stent assist,no
+2289,woman,55,ACA,4.1,4.1,4.1,4.1,36.06865667,Stent assist,yes
+2290,man,40,ICA,3.3,4.7,3.6,4.2,37.19016,Stent assist,no
+2293,woman,61,ICA,5,7.4,5.5,6.5,138.4478333,Stent assist,no
+2294,man,44,ICA,4.5,4.9,5.4,5.2,72.00648,Stent assist,no
+2295,man,64,ICA,4.4,3.4,3.5,3.5,21.79683333,Stent assist,no
+2314,man,44,VA,5.3,5.2,5,4.6,62.59066667,Stent assist,no
+2320,woman,43,ICA,4.5,4.3,3.3,3.8,28.21918,Stent assist,no
+2323,woman,58,ICA,4.2,4.1,4.8,4.5,46.3464,Simple,no
+2326,woman,65,ICA,2.6,3.3,3.2,3.3,18.23712,Unknown,yes
+2327,man,56,BA,3.5,3.5,3.1,2.3,13.05978333,Stent assist,no
+2328,man,56,BA,3.5,3.5,3.1,2.3,13.05978333,Stent assist,no
+2329,woman,45,MCA,2,4.2,3.5,5.8,44.6194,Stent assist,no
+2332,man,49,ICA,3.4,1.9,1.8,1.9,3.40062,BAT,no
+2335,woman,53,ICA,4.7,6.6,5,5.8,100.166,BAT,no
+2336,woman,72,ICA,5.8,4.4,4.8,4.6,50.84288,Stent assist,no
+2337,woman,67,ICA,3.5,3.1,2.9,3,14.1143,Stent assist,yes
+2338,woman,41,ICA,2.8,4.1,4,4.1,35.18893333,BAT,no
+2340,woman,64,ICA,3.6,3.9,4.5,4.3,39.49335,Simple,no
+2341,woman,57,ICA,3.1,3.3,3.2,3.3,18.23712,Stent assist,yes
+2342,man,58,ICA,2,3.5,2,2.8,10.25733333,Simple,no
+2343,woman,66,ICA,4,3.4,4.4,3.9,30.53336,Double cathe,no
+2345,woman,60,ICA,3.4,2.7,3.2,3,13.5648,Stent assist,no
+2346,man,56,ACA,2.3,2.9,5.1,3.3,25.54233,Stent assist,no
+2348,woman,74,ICA,3.4,6.8,5.7,5.9,119.67796,Stent assist,no
+2350,woman,61,ICA,3.2,4.2,3.7,3.9,31.71714,Stent assist,no
+2351,woman,53,ICA,3.1,4,5,4.5,47.1,Stent assist,no
+2352,woman,57,ICA,2.4,3.4,3.1,3.3,18.20258,Double cathe,no
+2355,woman,66,ICA,2.3,3.5,2.9,3.2,16.99786667,BAT,no
+2356,woman,60,ICA,4.8,3.8,3.5,3.7,25.75323333,Stent assist,no
+2361,woman,44,ICA,2.2,1.9,2,2,3.977333333,Stent assist,no
+2363,woman,56,MCA,2.9,2.4,2.5,2.5,7.85,Stent assist,no
+2368,woman,81,ICA,6,4.7,5.5,5.2,70.34646667,Stent assist,no
+2370,woman,49,ICA,2.3,2.5,2,2.3,6.018333333,Stent assist,no
+2371,woman,29,ICA,5,6.5,6,7.4,151.034,Stent assist,yes
+2372,woman,43,ICA,6.5,4.6,4.1,4.4,43.42829333,Stent assist,yes
+2374,man,47,ICA,6,5.8,4.8,5.3,77.21888,Stent assist,no
+2375,woman,71,ACA,5.7,10.7,9,5.8,292.3026,Double cathe,yes
+2376,man,60,ACA,6.8,6,4.5,7.5,105.975,Stent assist,no
+2377,woman,77,MCA,2.8,4.4,4,4.7,43.29013333,Double cathe,no
+2378,woman,45,ICA,4,5.1,3,4.3,34.4301,Stent assist,no
+2379,woman,66,BA,6.2,3.5,5.7,4.6,48.0263,Stent assist,no
+2380,man,54,ICA,3.2,4.4,3.4,3.9,30.53336,Stent assist,no
+2381,woman,42,ICA,3.9,5.5,5.8,5.7,95.1577,Stent assist,no
+2382,woman,69,MCA,5.1,3,3.6,3.3,18.6516,Stent assist,no
+2384,woman,74,VA,5.6,3.5,4.7,4.1,35.29621667,Stent assist,no
+2385,woman,72,ICA,3.9,4,3.8,3.9,31.0232,Stent assist,no
+2388,man,46,ICA,4.2,6.3,4.6,5.1,77.34762,Double cathe,no
+2389,man,73,ICA,3.1,3.3,2.8,3.1,14.99036,Stent assist,no
+2390,man,36,ACA,3,4.4,3.2,3.8,28.00042667,Double cathe,no
+2391,man,47,VA,8,7.4,8,7.7,238.5562667,Stent assist,no
+2392,woman,73,ICA,3.2,5.9,5.2,5.6,89.91285333,Stent assist,no
+2396,woman,57,MCA,5,5.7,5.3,5.5,86.95445,Double cathe,no
+2397,woman,63,ACA,5.8,7.3,7.8,7.6,226.46936,Double cathe,no
+2398,woman,61,MCA,3.9,4.2,4.9,4.6,49.54292,Double cathe,no
+2399,man,56,ICA,3.7,4.3,4.1,4.2,38.75074,Double cathe,no
+2401,woman,75,VA,4.3,6.8,4.3,5.6,85.69269333,Double cathe,no
+2402,woman,62,ACA,3,5.4,4.4,4.9,60.92856,Stent assist,no
+2403,man,52,MCA,3.6,3.9,4,4,32.656,Double cathe,no
+2405,woman,68,ICA,3.9,4.3,4.1,4.9,45.20919667,Double cathe,no
+2407,man,59,MCA,5.5,5,4.5,4.8,56.52,Double cathe,yes
+2410,woman,63,ICA,2.6,4.2,3.5,3.9,30.0027,Stent assist,no
+2411,woman,54,ICA,4.7,5.5,5.9,5.7,96.79835,Double cathe,no
+2412,woman,62,ICA,4,4.7,3.7,4.2,38.22322,Stent assist,no
+2413,woman,66,ACA,3.6,8.2,8.5,8.4,306.4012,Stent assist,yes
+2415,woman,53,ICA,6.5,7.6,8.1,7.9,254.50956,Stent assist,yes
+2416,woman,52,ICA,3.1,4.4,4.6,4.5,47.6652,Double cathe,no
+2417,woman,67,ACA,4.8,7.4,5.5,6.5,138.4478333,Stent assist,no
+2419,woman,64,MCA,9.6,10.3,11.4,10.9,669.80282,Stent assist,no
+2420,woman,63,MCA,4.7,6.9,4,5.5,79.442,Double cathe,no
+2421,woman,58,ICA,5.1,3.7,4.1,3.9,30.96197,Stent assist,no
+2423,woman,72,ICA,4,5.1,4,4.6,49.1096,Stent assist,no
+2424,woman,63,VA,4.7,3.5,4.5,4,32.97,Stent assist,no
+2425,woman,49,ACA,3.3,3.5,4.4,4,32.23733333,Stent assist,no
+2427,woman,54,ICA,4.2,5.7,5.6,5.7,95.21736,Double cathe,no
+2429,woman,44,ICA,3,4.5,5.1,4.8,57.6504,Double cathe,no
+2431,man,87,ICA,3.2,4.3,4.5,4.4,44.5566,Double cathe,no
+2433,woman,58,MCA,2.9,2.7,2.5,2.6,9.1845,Simple,no
+2434,man,66,ACA,7,7.3,7.1,7.2,195.29544,Stent assist,no
+2435,man,50,ICA,4.4,3.4,3.4,3.4,20.56909333,Stent assist,yes
+2436,woman,46,BA,6.6,4.4,4.8,4.6,50.84288,Stent assist,no
+2437,man,62,ICA,4,5.1,3.9,4.5,46.84095,Stent assist,no
+2438,woman,51,ICA,4,3.8,4.1,4,32.61413333,Stent assist,no
+2444,woman,57,MCA,3.6,3.5,3.4,3.5,21.79683333,Double cathe,yes
+2445,woman,41,ICA,3.2,4.9,3.8,4.4,42.87565333,Double cathe,no
+2446,woman,52,ICA,6.7,5.5,5.9,5.7,96.79835,Stent assist,no
+2447,woman,62,ICA,3.4,4.3,3.4,3.9,29.83942,Stent assist,no
+2449,man,64,ICA,2.1,5.5,4.4,5,63.32333333,Simple,no
+2450,man,62,ICA,3.4,3.3,3.7,3.5,22.36465,Double cathe,no
+2451,woman,44,ICA,3.5,3.5,3.9,3.7,26.43095,Stent assist,no
+2452,woman,70,MCA,6.7,4.7,6.8,5.8,97.00925333,Stent assist,no
+2455,woman,53,ICA,3.5,5.2,3.4,4.4,40.71114667,Stent assist,no
+2459,woman,30,ICA,5.1,4.3,5.6,5.1,64.26952,Stent assist,no
+2460,woman,53,ICA,2.5,3.6,3.3,3.4,21.13848,Double cathe,no
+2463,woman,76,ACA,4.2,3.5,4,3.8,27.84133333,Stent assist,no
+2464,man,46,ICA,3.6,4.7,3.8,4.3,40.19095333,Double cathe,no
+2465,woman,53,ICA,2.7,4.9,3.4,4.2,36.61868,Stent assist,no
+2466,man,54,ICA,3.5,3.4,4.7,4,33.45146667,Stent assist,no
+2471,woman,60,ICA,4,3.6,4.2,3.9,30.85992,Stent assist,no
+2472,man,70,ACA,4,3.4,3.9,3.7,25.67578,Stent assist,yes
+2473,man,58,ACA,2.2,3.7,2.5,3.1,15.00658333,Stent assist,no
+2474,woman,65,MCA,4.1,3.8,4.6,4.2,38.42104,Stent assist,no
+2475,woman,38,ICA,3.8,4,4.4,4.2,38.6848,Stent assist,yes
+2479,woman,57,ICA,3.9,5.2,5.8,5.5,86.81053333,Stent assist,no
+2480,woman,73,ICA,8.1,9.1,8.9,9,381.4629,Double cathe,no
+2485,woman,62,ICA,3.9,4.1,4.1,4.1,36.06865667,Stent assist,no
+2487,man,53,ACA,4.2,3.3,2.8,3.1,14.99036,Stent assist,yes
+2489,woman,50,ICA,4.2,3.5,3.4,3.5,21.79683333,Stent assist,no
+2492,woman,64,MCA,3.7,4.5,3.7,4.3,37.46805,Stent assist,no
+2494,man,55,VA,5.3,5.1,5.8,5.5,85.1411,Stent assist,no
+2495,woman,48,ICA,4.3,5.7,4.6,5.2,71.35336,Stent assist,no
+2496,man,66,BA,5.6,3.5,4.6,4.1,34.54523333,Stent assist,no
+2497,man,45,ICA,3.6,3.8,3.9,3.9,30.24762,Stent assist,no
+2498,woman,66,VA,6,6,5.7,5.9,105.5982,Stent assist,no
+2499,woman,59,ICA,3.6,3.8,4.3,4.1,35.06019333,Stent assist,no
+2501,man,73,ACA,4.3,4,3.8,3.9,31.0232,Stent assist,no
+2502,woman,70,ICA,4.5,4.2,5,4.6,50.554,Stent assist,no
+2503,woman,47,ICA,8,7,7.7,7.4,208.7367333,Stent assist,no
+2504,woman,57,ICA,5,5.5,6.2,5.8,103.5048667,Stent assist,no
+2506,woman,54,ACA,3.9,3.3,3.7,3.5,22.36465,Stent assist,yes
+2509,woman,45,ICA,5,4.4,4.5,4.5,46.629,Stent assist,no
+2510,woman,78,ICA,4.5,6.3,4.9,5.6,90.46968,Stent assist,no
+2511,woman,46,ICA,4.2,3.9,4.7,4.3,41.24861,Stent assist,no
+2514,woman,87,ICA,5.3,5.5,6.5,6,112.255,Stent assist,no
+2515,man,54,VA,5.8,7.3,8.1,7.7,238.27419,Stent assist,no
+3026,woman,47,ICA,4,8,8,8,267.9466667,BAT,no
+3027,woman,79,BA,3,10,7,8.5,311.3833333,Simple,no
+3030,woman,54,ICA,3,5,5,5,65.41666667,BAT,no
+3031,man,60,ACA,2.5,5,4.5,4.75,55.93125,Simple,no
+3032,woman,70,ICA,3.5,13.5,12,12.75,1080.945,Simple,no
+3034,woman,50,ICA,3,5.5,4.5,5,64.7625,Simple,no
+3035,woman,63,ICA,3.5,5.5,3.5,4.5,45.33375,Simple,no
+3037,woman,82,ACA,3.6,5.6,6,5.8,101.9872,Simple,no
+3038,woman,72,ICA,2.5,4,3,3.5,21.98,Simple,no
+3039,woman,72,ICA,4,7,5,6,109.9,Simple,no
+3040,man,54,ICA,2,3,3,3,14.13,Simple,no
+3041,woman,71,MCA,2,4,3.8,3.9,31.0232,Simple,no
+3042,man,65,ACA,2.6,4.2,4.3,4.25,40.16845,Simple,no
+3044,woman,70,ACA,1.8,5.9,4.4,5.15,69.96652667,Simple,no
+3045,woman,70,VA,3.3,4.2,5.2,4.7,53.71912,Simple,no
+3047,woman,64,ACA,2.4,3.5,4.2,3.85,29.61805,Simple,no
+3048,woman,62,MCA,2,3.5,3.5,3.5,22.43791667,Simple,no
+3049,man,72,BA,5.2,4.5,7,5.75,94.78875,Double cathe,no
+3050,man,60,ACA,2.4,5.1,3.4,4.25,38.56705,Simple,yes
+3051,woman,58,MCA,3,4.3,4,4.15,37.35553333,Simple,no
+3053,woman,61,ACA,3.5,3.9,3.6,3.75,27.5535,Simple,no
+3055,woman,60,ICA,2.4,5.7,2.7,4.2,33.82722,Simple,no
+3056,man,46,ACA,2.5,4.4,3.2,3.8,28.00042667,Simple,no
+3057,man,58,MCA,3.7,5.4,5.5,5.45,84.70935,Simple,no
+3058,woman,53,BA,3.8,8.6,5.1,6.85,157.23079,Simple,no
+3059,woman,53,ICA,1.9,2.9,3.5,3.2,16.99786667,Simple,yes
+3060,woman,45,ICA,3,3.1,2.8,2.95,13.40047333,Simple,no
+3061,woman,45,ICA,1.6,3.1,2.2,2.65,9.458203333,Simple,no
+3062,woman,66,BA,4.9,5.5,6.2,5.85,104.39715,BAT,no
+3063,woman,52,ICA,1,3.3,1.7,2.5,7.33975,Simple,no
+3064,woman,66,ACA,3.7,4.5,6.5,5.5,84.19125,Simple,no
+3065,woman,60,ACA,3.7,4.4,4.8,4.6,50.84288,BAT,no
+3067,woman,66,ICA,4.1,6.1,8.2,7.15,187.1665033,BAT,no
+3068,woman,57,ICA,3.4,3.2,2.9,3.05,14.81242667,Simple,no
+3069,woman,66,ICA,3.4,4.9,5.2,5.05,67.33939333,Simple,no
+3070,woman,57,ACA,3,6.9,4,5.45,78.7198,Simple,no
+3071,man,62,ACA,4.1,7,5.4,6.2,122.6484,Double cathe,no
+3072,man,74,ACA,3,4.9,3.8,4.35,42.38843,Simple,no
+3073,man,61,ICA,2.2,3.6,3,3.3,18.6516,Simple,no
+3074,man,61,MCA,3,4.7,4.3,4.5,47.59455,Simple,no
+3075,woman,51,ICA,3.3,4.3,4.2,4.25,40.16845,Simple,no
+3076,man,45,ACA,3,6.1,6.2,6.15,121.72367,Simple,no
+3077,woman,66,ICA,3,5.5,3.8,4.65,50.86015,Simple,no
+3078,woman,62,ICA,2.4,4.5,5.3,4.9,61.15935,Simple,no
+3079,woman,54,ACA,1.7,5,4.1,4.55,48.81391667,Simple,no
+3080,woman,63,ICA,5.7,7.8,7.5,7.65,234.20475,BAT,no
+3081,woman,61,ICA,2.2,2.3,3,2.65,9.56915,Simple,no
+3083,woman,77,ICA,1.1,3.3,2.3,2.8,11.12188,Simple,no
+3084,woman,77,ICA,3.5,11.5,13.3,12.4,992.5435333,BAT,no
+3085,woman,59,ICA,3,5,3.5,4.25,38.92291667,BAT,no
+3086,man,71,ACA,4,7,7,7,179.5033333,Simple,no
+3087,woman,53,ICA,5,5.5,5,5.25,75.55625,BAT,no
+3088,man,71,MCA,3,6,4.5,5.25,74.1825,Simple,no
+3089,man,65,ICA,2.9,3.8,3.4,3.6,24.34128,Simple,no
+3090,woman,55,ICA,2.9,4.8,6.8,5.8,99.07328,Simple,no
+3091,woman,40,BA,3.1,3.7,4.1,3.9,30.96197,BAT,no
+3092,man,76,ICA,3.3,3.1,3.5,3.3,18.73795,BAT,no
+3093,man,55,ICA,2.7,5.1,4.1,4.6,50.33734,BAT,no
+3094,woman,61,MCA,3,5,4,4.5,47.1,Simple,no
+3095,woman,72,BA,2,4,3,3.5,21.98,Simple,no
+3096,woman,66,MCA,5,11,8,9.5,437.5066667,Simple,no
+3097,woman,70,ICA,4,9,6,7.5,211.95,BAT,no
+3098,woman,64,ACA,3,4,5,4.5,47.1,Simple,no
+3099,man,72,BA,2,4,3,3.5,21.98,Simple,no
+3100,man,72,ICA,2,3,3,3,14.13,Double cathe,no
+3101,woman,56,ICA,2,4,3,3.5,21.98,BAT,no
+3102,woman,46,ICA,5,8,7,7.5,219.8,BAT,no
+3103,woman,45,ICA,1.94,5.15,3.65,4.4,43.28437667,BAT,no
+3104,woman,67,ACA,3.51,6.6,5.11,5.855,103.3403987,Simple,no
+3105,man,68,ACA,2.95,5.71,5.52,5.615,92.61969452,BAT,no
+3106,woman,57,ICA,1.47,2.43,2,2.215,5.633631,Simple,no
+3107,woman,57,ICA,3.2,6.16,5.2,5.68,95.21618773,BAT,no
+3108,woman,70,ICA,3,7.5,4.5,6,105.975,Simple,no
+3109,woman,59,ICA,2.28,3.33,2.84,3.085,15.26849178,Simple,no
+3110,woman,64,ICA,3.34,8.69,6.35,7.52,217.1649539,BAT,no
+3111,woman,57,ICA,3.5,5,6,5.5,86.35,Simple,no
+3112,woman,79,BA,3.5,6,4,5,62.8,Simple,no
+3113,man,64,ACA,2.5,5.5,4,4.75,54.68833333,Simple,no
+3114,woman,70,ICA,3.58,6.3,5.5,5.9,106.98765,BAT,no
+3115,woman,76,ICA,5.28,6.5,8.57,7.535,219.6624549,BAT,no
+3116,woman,76,ACA,1.5,2.5,2,2.25,5.8875,Simple,no
+3117,man,64,ICA,3.5,5.08,4.41,4.745,55.63100634,Simple,no
+3118,man,62,ICA,2.42,4.26,2.18,3.22,15.64949624,Simple,no
+3119,man,62,ICA,5.48,9.81,6.98,8.395,300.8316517,Double cathe,no
+3120,woman,42,ICA,4,7.5,7,7.25,199.19375,BAT,no
+3121,woman,42,ICA,2.56,3.77,2.91,3.34,19.17605222,Double cathe,no
+3122,woman,56,ICA,3.13,4.47,2.96,3.715,25.72387852,Double cathe,no
+3123,woman,37,ICA,2,3,3,3,14.13,Simple,no
+3124,man,47,ICA,1.86,2.96,2.59,2.775,11.1335294,Simple,no
+3125,woman,49,ICA,2,4.5,2,3.25,15.3075,Double cathe,no
+3126,woman,67,ICA,5.54,12.22,9.23,10.725,633.0654402,BAT,no
+3127,woman,67,ICA,2.26,6.45,3.94,5.195,69.09074665,Simple,no
+3128,woman,67,ICA,4.5,5,9,7,164.85,BAT,no
+3129,woman,54,ICA,2.26,4.08,4.53,4.305,41.63992308,Simple,no
+3131,man,58,ICA,3.56,8.84,7.92,8.38,307.0434682,BAT,no
+3132,woman,42,ICA,2.48,3.17,3.81,3.49,22.05911387,Simple,no
+3133,woman,60,ICA,3.62,7.46,5.96,6.71,156.1298725,BAT,no
+3134,woman,65,MCA,1.91,3.27,2.92,3.095,15.46570262,Simple,no
+3135,woman,68,ICA,4,7,6,6.5,142.87,BAT,no
+3136,woman,58,ICA,1.67,2.93,2.71,2.82,11.71829474,Simple,no
+3137,woman,49,ICA,2.5,4,3.5,3.75,27.475,BAT,no
+3138,woman,76,ACA,3,5,5,5,65.41666667,Simple,no
+3140,man,68,ACA,2.5,5,4.5,4.75,55.93125,Simple,no
+3141,woman,65,ICA,4.38,6.35,7.39,6.87,168.7148455,BAT,no
+3142,woman,78,MCA,3,7,5,6,109.9,BAT,no
+3144,woman,65,ICA,4.15,5.1,5.15,5.125,70.44491875,BAT,no
+3146,woman,79,BA,3.77,10.9,10,10.45,596.1028333,BAT,no
+3147,woman,59,MCA,1.94,3.54,3.73,3.635,25.11856973,Simple,no
+3148,woman,57,ACA,2.84,4.76,3.96,4.36,43.00976064,BAT,no
+3149,woman,64,ICA,4,7,6.5,6.75,160.72875,Simple,no
+3150,woman,41,ICA,2.5,4.5,4,4.25,40.035,BAT,no
+3152,woman,62,ICA,2.12,3.56,3.05,3.305,18.78017777,Simple,no
+3153,man,57,ICA,3.29,4.26,2.94,3.6,23.5959696,Simple,no

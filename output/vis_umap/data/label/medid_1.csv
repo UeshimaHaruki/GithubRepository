@@ -1,0 +1,1561 @@
+ID,Sex,Age,Aneu_location,Aneu_neck,Aneu_width,Aneu_depth,Aneu_height,Aneu_volume,Adj_tech,Is_bleb,VER,coil_length1,coil_size1,coil_kind1,coil_length2,coil_size2,coil_kind2,coil_length3,coil_size3,coil_kind3,coil_count,Aneu_width_label
+1,woman,69,ICA,3.8,5,6.9,5.95,107.42725,Unknown,no,,15,6,GDC 10 3D,6,3,GDC 10 soft,6,3,GDC 10 soft,8,1
+2,woman,49,ICA,2.7,10.9,8.2,9.55,446.7063433,Unknown,no,,30,8,GDC 18 2D,20,6,GDC 18 2D,20,5,GDC 18 2D,9,2
+3,woman,54,ICA,6,5.5,6.5,6,112.255,Unknown,no,,15,7,GDC 10 SR 2D,10,5,GDC 10 SR 2D,10,4,GDC 10 2D,4,1
+8,woman,63,ICA,5,11,11,11,696.5566667,Unknown,no,,30,10,GDC 18 3D,30,8,GDC 18 2D,20,8,GDC 18 ST,15,2
+11,woman,58,MCA,4.4,7.5,7.9,7.7,238.75775,Unknown,no,,12,7,GDC 10 3D,20,6,GDC 10 2D,20,8,GDC 10 ST,12,2
+16,woman,78,ICA,5,11,11,11,696.5566667,Simple,no,,30,10,GDC 18 3D,30,10,GDC 18 3D,20,8,GDC 18 ST,15,2
+17,woman,69,MCA,2.4,3.2,3.3,3.25,17.9608,Unknown,no,,2,2.5,GDC US,1,2,GDC US,,,,2,0
+20,woman,61,ICA,1.3,4.3,2.8,3.55,22.36831333,Unknown,no,,6,3,GDC 10 3D,3,2,GDC 10 soft,,,,2,0
+27,woman,64,ACA,1.8,3.5,5,4.25,38.92291667,Simple,no,,6,4,GDC 10 soft,2,2,GDC 10 soft,2,2,GDC 10 soft,3,0
+30,woman,55,ICA,8.4,8.4,9.8,9.1,392.03528,Simple,no,,30,10,GDC 10 3D,8,4,GDC 10 soft,8,4,GDC 10 soft,11,2
+32,woman,57,ICA,4.4,9.3,4.4,6.85,146.69138,Unknown,no,,8,4,GDC SR,4,4,GDC 10 soft,6,3,GDC 10 soft,5,2
+33,woman,44,ICA,4.43,5.84,4.64,4.6,65.23295573,BAT,no,,8,5,GDC 10 3D,6,3,GDC 10 soft,4,3,GDC 10 soft,6,1
+35,woman,67,ICA,3.2,5.9,4,4.95,61.1358,Unknown,no,,6,5,GDC 10 SR 2D,6,3,GDC US,6,3,GDC US,4,1
+36,woman,64,ICA,5.8,7.8,6.7,7.25,198.28315,BAT,no,,20,8,GDC 10 ST,10,4,GDC 10 2D,8,3,GDC 10 soft,8,2
+37,woman,59,ICA,4.5,6.3,6.3,6.3,130.85793,Unknown,no,,15,6,GDC 10 3D,8,3,GDC 10 soft,8,3,GDC 10 soft,7,1
+39,woman,71,ICA,4.55,7.19,12.06,9.62,436.5456529,Unknown,no,,30,10,GDC 10 3D,20,8,GDC 10 ST,15,5,GDC 10 2D,12,2
+41,woman,57,ICA,3.5,5.8,5.7,5.75,99.48305,Unknown,no,,10,5,GDC 10 3D,8,4,GDC 10 soft,6,4,GDC 10 soft,6,1
+42,woman,64,ICA,4.2,6.3,6.4,6.35,133.99008,Unknown,no,,20,6,GDC 10 2D,8,4,GDC 10 soft,8,3,GDC US,6,1
+46,woman,64,ICA,3,4.1,3.9,4,33.4724,Unknown,no,,20,6,GDC 10 2D,15,5,GDC 10 2D,10,4,GDC 10 2D,5,0
+47,woman,64,ICA,5,13,10,11.5,782.3833333,Unknown,no,,30,10,GDC 18 3D,20,8,GDC 18 ST,12,5,GDC 18 soft,14,2
+57,woman,65,ICA,2.97,3.65,3.88,3.765,27.9040967,Unknown,no,,6,4,GDC 10 soft,6,3,GDC US,6,2,GDC US,5,0
+62,man,58,ACA,3,4,3,3.5,21.98,Unknown,no,,6,4,GDC 10 3D,6,3,GDC US,6,3,GDC US,4,0
+65,man,55,ACA,3.5,3.5,5.2,4.35,41.4323,Unknown,no,,4,2.5,GDC US,6,3,GDC 10 soft,,,,2,0
+66,woman,39,ICA,4.3,6.6,5.9,6.25,127.36625,Unknown,no,,15,6,GDC 10 3D,8,4,GDC 10 soft,10,3,GDC 10 soft,10,1
+68,man,48,ICA,3.6,3.6,3.9,3.75,27.5535,Unknown,no,,10,5,GDC 10 3D,8,4,GDC US,8,3,GDC US,5,0
+69,woman,56,ICA,2.8,3,4.9,3.95,30.38735,Unknown,no,,6,3,GDC 10 3D,4,2,GDC 10 soft,2,2,GDC 10 soft,3,0
+72,woman,70,ICA,3.8,4.1,4.2,4.15,37.39897,BAT,no,,15,7,GDC 10 SR 2D,10,5,GDC 10 SR 2D,10,4,GDC 10 2D,7,0
+73,woman,55,ICA,4.3,5.3,4,4.65,51.5902,Unknown,no,,10,5,GDC 10 3D,4,3,GDC US,6,2,GDC US,4,1
+75,man,51,ICA,3.9,7.1,6.3,6.7,156.83829,Unknown,yes,,15,6,GDC 10 3D,8,5,GDC 10 SR,8,3,GDC US,9,2
+76,woman,61,ICA,5,7,6,6.5,142.87,BAT,yes,,10,7,GDC 10 SR 2D,15,5,GDC 10 2D,10,3,GDC 10 soft,6,2
+77,man,51,ICA,3.8,7.8,8.9,8.35,303.35383,BAT,no,,25,8,GDC 18 3D,15,6,GDC 18 soft,10,3,GDC 10 soft,8,2
+83,woman,66,ICA,1.6,2.7,2.5,2.6,9.1845,Unknown,no,,3,2.5,GDC US,,,,,,,1,0
+84,woman,58,ICA,5,6,14,10,439.6,Unknown,no,,30,8,GDC 18 2D,20,6,GDC 10 2D,15,5,GDC 10 2D,10,1
+85,woman,69,ICA,3,6,4,5,62.8,Unknown,no,,8,4,GDC 10 SR 2D,6,3,GDC US,3,2,GDC US,4,1
+89,woman,46,ICA,6.7,8.3,8,8.15,283.2070667,Unknown,no,,25,8,GDC 18 3D,12,5,GDC 18 soft,15,5,GDC 10 2D,7,2
+90,man,46,BA,3,4,4,4,33.49333333,Unknown,no,,3,3,GDC US,3,2.5,GDC US,2,2,GDC 10 soft,9,0
+91,woman,42,ICA,4.7,7.9,6.4,7.15,189.1870933,BAT,no,,15,7,GDC 10 3D,10,6,GDC 10 ST,10,4,GDC 10 2D,14,2
+94,woman,67,ICA,5.4,6.7,5.1,5.9,105.50557,BAT,no,,10,6,GDC 10 3D,8,4,GDC US,8,3,GDC US,8,1
+95,woman,57,ICA,5,12.1,15.3,13.7,1327.32039,BAT,no,,30,16,GDC 18 3D,30,14,GDC 18 2D,30,10,GDC 18 2D,13,2
+96,woman,69,ICA,3.4,8.4,4.7,6.55,135.33086,Unknown,no,,10,6,GDC 10 SR 2D,8,4,GDC US,8,3,GDC US,9,2
+97,man,19,ICA,3,6.5,4.5,5.5,84.19125,Unknown,no,,6,4,GDC 10 soft,6,4,GDC 10 soft,8,3,GDC US,6,1
+100,woman,49,ICA,6,15,10,12.5,981.25,BAT,no,,15,7,GDC 10 SR 2D,10,6,GDC 10 SR 2D,15,5,GDC 10 2D,8,2
+104,woman,61,BA,5.1,6,6,6,113.04,Unknown,no,,10,6,GDC 10 SR 2D,8,4,GDC 10 soft,8,3,GDC US,9,1
+105,man,39,ICA,1.7,4.1,2.6,3.35,18.68875667,Unknown,yes,,4,3,GDC 10 soft,3,2,GDC 10 soft,,,,2,0
+106,woman,65,ICA,1.5,5.6,5,5.3,77.66266667,BAT,no,,10,6,GDC 10 3D,8,4,GDC 10 soft,8,8,GDC US,6,1
+107,man,65,ACA,1.9,5.1,3.3,4.2,36.99234,Unknown,no,,6,3,GDC 10 soft,4,2,GDC 10 soft,4,2,GDC US,6,1
+112,man,49,ICA,2.5,9.6,4.8,7.2,173.62944,Unknown,yes,,10,5,GDC 10 SR 2D,10,4,GDC 10 2D,8,3,GDC US,8,2
+116,woman,63,ICA,3.9,7.4,8.8,8.1,276.04368,BAT,no,,15,7,GDC 10 3D,20,6,GDC 10 2D,20,6,GDC 10 2D,8,2
+118,man,57,MCA,5,8.5,10,9.25,411.4708333,BAT,no,,20,8,GDC 10 3D,15,7,GDC 10 SR 2D,10,6,GDC 10 ST,16,2
+121,woman,59,ICA,3.7,9.1,9.5,9.3,420.75215,BAT,no,,30,10,GDC 18 3D,30,8,GDC 18 2D,15,6,GDC 18 soft,14,2
+130,woman,54,BA,5.5,6.3,6.8,6.55,146.84838,BAT,no,,15,6,GDC 10 3D,10,4,GDC 10 2D,6,2,GDC US,12,1
+131,woman,59,ICA,4.6,24,17.7,20.85,4635.2052,Unknown,no,,30,20,GDC 18 2D,30,20,GDC 18 2D,20,26,IDC 18,18,2
+132,woman,58,ICA,3.4,6.4,4.8,5.6,90.03008,Unknown,no,,8,5,GDC 10 SR 2D,10,4,GDC 10 2D,8,3,GDC 10 soft,6,1
+138,woman,65,ICA,3.9,5.1,6,5.55,88.8777,Unknown,no,,10,5,GDC 10 3D,8,4,GDC 10 soft,8,4,GDC 10 soft,7,1
+142,woman,42,ICA,4.1,5.4,5,5.2,73.476,BAT,no,,10,6,GDC 10 3D,8,3,GDC US,6,2,GDC US,6,1
+143,woman,69,ACA,2.9,2.6,3.3,2.95,13.24609,Unknown,no,,3,3,GDC 10 soft,2,2,GDC 10 soft,,,,2,0
+150,woman,50,ACA,3,6,10,8,251.2,Unknown,no,,20,6,GDC 18 2D,10,5,GDC 10 ST,10,4,GDC 10 2D,9,1
+152,woman,60,ICA,6,9.17,7.86,17.03,642.3695223,Unknown,no,,25,8,GDC 18 3D,20,6,GDC 18 2D,10,4,GDC 18 soft,17,2
+153,man,56,ACA,4.5,8.4,6.8,7.6,227.18528,Unknown,yes,,30,7,GDC 18 2D,8,3,GDC 10 soft,4,2,GDC 10 soft,3,2
+154,woman,68,ICA,3.3,8.4,7.2,7.8,246.87936,BAT,yes,,30,8,GDC 18 2D,20,6,GDC 18 2D,8,3,GDC 10 soft,10,2
+158,woman,56,MCA,3.1,6,5,5.5,86.35,BAT,no,,8,4,GDC 10 soft,10,4,GDC 10 2D,8,4,GDC 10 soft,9,1
+162,woman,54,ICA,4.7,15.1,7.3,11.2,646.0947733,BAT,no,,30,10,GDC 18 2D,20,8,GDC 18 ST,10,4,GDC 18 soft,22,2
+164,woman,61,ICA,9.3,13.9,19.8,16.85,2426.93583,Unknown,no,,30,20,GDC 18 2D,30,20,GDC 18 2D,30,18,GDC 18 2D,11,2
+168,woman,66,ICA,7.7,13.5,12.8,13.15,1189.1808,Simple,no,,30,18,GDC 18 2D,30,16,GDC 18 2D,30,16,GDC 18 2D,15,2
+171,man,53,ACA,4.83,6.19,9.4,7.795,237.3629986,Simple,no,,15,6,GDC 10 3D,8,2,GDC 10 soft,10,3,GDC 10 soft,12,1
+173,woman,68,ICA,8.3,20,23,21.5,5175.766667,Simple,no,,30,20,GDC 18 2D,30,20,GDC 18 2D,30,20,GDC 18 2D,14,2
+175,woman,58,ACA,2.9,5.8,3.8,4.8,55.36448,Simple,yes,,8,4,GDC 10 SR 2D,4,2,GDC 10 soft,4,2,GDC 10 soft,5,1
+178,man,71,ACA,4.2,7.2,6.6,6.9,171.59472,Unknown,yes,,8,5,GDC 10 3D,10,3,GDC 10 soft,8,2,GDC 10 soft,12,2
+179,man,37,MCA,2.8,5.3,4.4,4.85,59.19004667,Simple,yes,,6,4,GDC 10 soft,4,3,GDC 10 soft,3,2,GDC 10 soft,6,1
+180,woman,66,BA,3.3,4.2,6.9,5.55,84.17241,BAT,no,,8,5,GDC 10 3D,8,3,GDC 10 soft,6,2,GDC 10 soft,8,0
+181,woman,60,ICA,4.4,5.3,6.1,5.7,96.44039,Simple,no,,10,6,GDC 10 3D,10,5,GDC 10 SR 2D,10,4,GDC 10 2D,6,1
+183,woman,64,BA,4.8,6,5.8,5.9,107.4508,BAT,no,,15,6,GDC 10 3D,10,3,GDC 10 soft,8,2,GDC 10 soft,11,1
+184,woman,62,BA,5.3,6.3,6.6,6.45,140.35329,BAT,no,,10,6,GDC 10 SR 2D,10,5,GDC 10 SR 2D,10,4,GDC 10 2D,12,1
+186,woman,69,ICA,3,5.8,5,5.4,81.954,Simple,no,,10,6,GDC 10 SR 2D,10,4,GDC 10 2D,4,2,GDC US,5,1
+187,woman,63,ICA,3.9,7.4,7.3,7.35,207.78793,BAT,no,,30,7,GDC 18 2D,10,4,GDC 18 soft,10,3,GDC 10 soft,5,2
+189,woman,66,MCA,3.4,5.2,4.7,4.95,63.31182,Simple,no,,8,5,GDC 10 3D,6,2,GDC US,6,2,GDC US,6,1
+191,woman,63,ICA,6.6,9,10.6,9.8,489.2748,BAT,no,,30,10,GDC 18 3D,20,6,GDC 18 2D,20,5,GDC 18 2D,12,2
+192,woman,37,ICA,3.5,3.7,2.1,2.9,11.79227,Simple,no,,8,3,GDC 10 soft,6,2.5,GDC US,3,2.5,GDC US,3,0
+193,man,48,VA,4.4,5.6,7.3,6.45,137.99044,Simple,no,,12,7,GDC 10 3D,8,5,GDC 10 SR 2D,8,4,GDC 10 soft,8,1
+194,woman,73,ICA,3.6,7,4,3,43.96,BAT,yes,,10,4,GDC 10 2D,10,3,GDC 10 soft,6,2,GDC US,3,2
+195,man,59,ACA,2.7,4.8,5.2,5,65.312,Simple,no,,8,5,GDC 10 3D,6,3,GDC 10 soft,8,3,GDC 10 soft,7,0
+196,woman,68,ICA,3.6,5.9,4.7,5.3,76.91377667,BAT,no,,10,5,GDC 10 3D,8,3,GDC 10 soft,10,3,GDC 10 soft,4,1
+197,woman,64,ICA,2.7,8.3,5.2,6.75,152.4627,Unknown,no,,25,7,GDC 10 2D,11.9,6,Micrusphere 10,11.9,6,Micrusphere 10,6,2
+199,woman,37,ICA,3.7,5.3,3.6,4.45,44.43414,BAT,no,,10,3,GDC 10 soft,4,2,GDC 10 soft,4,3,GDC 10 soft,4,1
+203,woman,37,ICA,3.5,3.6,2.9,3.25,17.7567,BAT,no,,8,5,GDC 10 3D,6,3,GDC 10 soft,6,2,GDC US,5,0
+208,man,41,ICA,6.3,11.6,9.5,10.55,608.4325667,BAT,no,,30,10,GDC 18 2D,30,9,GDC 18 2D,30,8,GDC 18 2D,19,2
+209,woman,62,BA,4,6,5,5.5,86.35,BAT,no,,11.9,6,Micrusphere 10,7.5,4,Micrusphere 10,10,3,GDC 10 soft,10,1
+211,man,39,ICA,3.9,9.1,9.9,9.5,447.89745,BAT,no,,30,9,GDC 18 2D,12,5,GDC 18 soft,10,4,GDC 10 2D,17,2
+213,man,48,ICA,2,3.7,2.4,3.05,14.17396,Simple,no,,6,3,GDC 10 soft,3,2,GDC 10 soft,,,,2,0
+214,woman,65,ICA,3.5,7.9,8,7.95,262.9436,BAT,no,,20,8,GDC 18 ST,15,5,GDC 10 2D,15,5,GDC 10 2D,11,2
+219,woman,62,ICA,4.5,3.8,4.7,4.25,39.72361667,BAT,no,,10,5,GDC 10 3D,12,3,GDC 10 ST,12,3,GDC 10 ST,7,0
+220,woman,47,ACA,2.2,4.9,2.8,3.85,27.64351333,Simple,yes,,6,3,GDC 10 soft,3,2,GDC US,2,2,GDC US,4,0
+221,man,55,ACA,1.6,4.2,3.2,3.7,26.02432,Simple,yes,,8,4,GDC 10 3D,6,2,GDC US,6,2,GDC US,3,0
+223,woman,64,ICA,6,6.4,5.7,6.05,115.50176,BAT,no,,15,6,GDC 10 3D,8,3,GDC 10 soft,10,3,GDC 10 soft,11,1
+227,man,62,ICA,2.5,6,4.1,5.05,65.0137,Simple,no,,6,3,GDC 10 soft,6,3,GDC 10 soft,4,2,GDC US,3,1
+232,woman,64,ICA,4.2,7.5,9.4,8.45,311.76275,BAT,no,,20,8,GDC 18 ST,15,5,GDC 10 2D,10,4,GDC 10 2D,5,2
+233,woman,61,ACA,4.3,5.1,3.6,4.35,41.79654,Simple,no,,6,4,GDC 10 3D,6,2,GDC 10 soft,3,2,GDC US,4,1
+234,woman,76,ICA,6.7,10.3,10.1,10.2,555.31214,BAT,no,,30,10,GDC 18 2D,20,8,GDC 18 ST,20,8,GDC 18 ST,11,2
+237,woman,54,MCA,4,6.5,4.4,5.45,81.57196667,Double cathe,yes,,15,5,GDC 10 2D,8,3,GDC US,6,2,GDC US,6,1
+238,woman,64,ICA,5.9,9.4,8.9,9.15,400.60591,BAT,no,,25,8,GDC 18 3D,20,6,GDC 10 2D,10,4,GDC 10 2D,26,2
+242,man,63,ACA,2.6,4.9,3.1,4,31.79773333,BAT,no,,6,4,GDC 10 soft,4,3,GDC 10 soft,4,2,GDC 10 soft,4,0
+246,woman,64,ICA,4,9,7,8,263.76,BAT,no,,25,8,GDC 18 3D,20,6,GDC 18 2D,10,4,GDC 10 2D,9,2
+248,woman,58,ICA,3.9,5.8,5.6,6,101.9872,BAT,no,,15,5,GDC 10 2D,8,3,GDC US,8,3,GDC US,8,1
+249,man,50,ICA,3.6,4.4,5.4,4,49.7376,Simple,no,,10,5,GDC 10 ST,8,3,GDC 10 soft,6,2,GDC US,5,0
+251,woman,40,ICA,3.5,6.8,6,4.8,102.4896,BAT,no,,15,6,GDC 10 3D,8,4,GDC 10 soft,8,3,GDC US,7,1
+253,woman,60,BA,5,6,8,6,150.72,Simple,no,,20,6,GDC 10 2D,10,6,GDC 10 ST,6,3,GDC US,6,1
+255,woman,56,ICA,4,6,5,4,62.8,BAT,no,,10,6,GDC 10 3D,10,4,GDC 10 2D,6,3,GDC US,7,1
+258,man,42,BA,6.8,12.2,11.1,16.3,1155.17774,Simple,no,,30,10,GDC 18 3D,12,5,GDC 18 soft,12,5,GDC 18 soft,23,2
+260,woman,34,MCA,3,2.5,3,2.7,10.5975,Simple,no,,6,2,GDC 10 soft,2,2,GDC 10 soft,3,2,GDC 10 soft,4,0
+262,woman,67,ICA,4.8,9.2,8.3,8,319.6938667,BAT,no,,25,8,GDC 18 3D,10,4,GDC 10 2D,15,5,GDC 10 2D,7,2
+266,woman,65,ICA,3.4,11.5,9.4,10.8,610.9812,BAT,no,,30,12,GDC 18 2D,30,10,GDC 10 2D,15,9,GDC 10 ST,12,2
+268,woman,68,ICA,3,4,3,2.5,15.7,Simple,yes,,6,2.5,GDC US,3,2,GDC US,2,2,GDC US,3,0
+271,man,69,ACA,4.3,5.4,5.5,5.5,85.4865,Simple,yes,,8,5,GDC 10 3D,6,3,GDC 10 soft,6,2,GDC US,6,1
+272,woman,57,ICA,4,5.5,6.9,5.5,109.23275,BAT,no,,10,4,GDC 10 2D,10,4,GDC 10 2D,8,3,GDC US,8,1
+274,woman,52,ICA,6.6,5.1,10,5.1,136.119,BAT,no,,20,6,HELIPAQ 10,10,3,HELIPAQ 10,10,4,HELIPAQ 10,12,1
+275,woman,66,MCA,4.7,5.3,6.8,5.3,99.96294667,Simple,no,,11.9,6,Micrusphere 10,10,3,HELIPAQ 10,10,3,GDC 10 soft,11,1
+276,woman,40,ICA,5.8,7.8,5.7,6,139.6044,BAT,no,,15,6,GDC 10 3D,8,5,GDC 10 SR 2D,10,5,GDC 10 SR 2D,13,2
+279,woman,56,ACA,4.2,5.7,6.8,6,121.7064,Simple,no,,8,5,GDC 10 SR 2D,4,3,GDC 10 soft,4,2,HELIPAQ 10,8,1
+281,man,57,ICA,5.5,12.1,11.6,12,881.4608,BAT,no,,30,10,GDC 18 3D,30,10,GDC 18 2D,30,10,GDC 18 2D,18,2
+282,woman,65,ACA,6.3,6.9,6.1,6.5,143.17615,Double cathe,no,,10,6,GDC 10 3D,8,3,GDC US,10,3,GDC 10 soft,12,1
+283,woman,62,BA,6.2,8.3,8.8,9.8,374.5978133,BAT,yes,,15,7,GDC 10 3D,10,6,GDC 10 ST,15,5,GDC 10 2D,20,2
+286,woman,62,ICA,5.4,6.9,8.4,7,212.3268,BAT,no,,25,7,GDC 10 2D,8,4,GDC 10 soft,8,4,GDC 10 soft,8,1
+287,woman,55,MCA,5,9.9,8.8,9,410.3352,Simple,no,,17.1,10,Micrusphere 18,13.6,8,Micrusphere 18,12.2,6,Micrusphere 18,13,2
+289,woman,74,ICA,3.5,4,6,4,50.24,Simple,no,,10,5,HELIPAQ 10,8,3,HELIPAQ 10,8,2,HELIPAQ 10,5,0
+290,woman,72,ICA,2.8,3.6,3.2,3.5,21.1008,BAT,no,,6,3,GDC 10 3D,4,2.5,GDC US,3,2,GDC US,4,0
+291,man,44,ICA,3.8,4.9,4.5,4.7,54.23565,BAT,no,,8,4,GDC 10 3D,6,3,GDC US,4,2,GDC US,10,0
+293,woman,56,ICA,4.8,8.8,11.2,9.9,510.63936,BAT,no,,30,10,GDC 18 360° ,15,6,GDC 18 360° ,20,8,GDC 10 360°SR Soft,10,2
+295,man,66,BA,6.8,8.2,12.8,9,494.3616,BAT,no,,20,8,GDC 18 360° ,10,4,GDC 10 2D,10,4,GDC 10 2D,23,2
+296,man,53,BA,5.9,13,12.8,11.9,1036.283733,BAT,no,,30,12,GDC 18 360° ,30,12,GDC 18 360° ,30,10,GDC 18 360° ,17,2
+297,man,60,ICA,3.9,4.1,4.3,5.9,54.43556333,BAT,no,,8,3,GDC 10 360°SR,2,2,GDC US,2,2,GDC US,4,0
+301,woman,52,BA,4.9,3.2,4,5.3,35.50293333,Simple,yes,,7,4,GDC 10 360°SR,6,2,HELIPAQ 10,4,2,HELIPAQ 10,7,0
+302,woman,56,ICA,4.1,6.7,6.4,6.5,145.8634667,BAT,no,,15,6,GDC 10 360°SR,10,4,GDC 10 2D,12,3,GDC 10 ST,10,1
+303,woman,66,BA,3.9,5.2,4,4.2,45.7184,BAT,no,,7,4,GDC 10 360°SR,4,3,HELIPAQ 10,6,3,HELIPAQ 10,10,1
+305,man,75,ICA,2.6,9.55,7.19,9.11,327.3625814,Simple,no,,20,9,GDC 18 360° ,30,9,GDC 10 360°SR,9,5,GDC 10 360°SR Soft,17,2
+308,woman,50,ICA,3.8,5.5,5,3.8,54.68833333,BAT,no,,10,5,GDC 10 SR 2D,6,3,GDC 10 soft,6,3,GDC 10 soft,6,1
+311,woman,58,ICA,4.2,7.2,8.6,8.5,275.4408,BAT,no,,25,7,GDC 10 2D,15,6,Orbit,15,5,Orbit,9,2
+312,woman,28,ICA,3.6,8.5,4.7,5,104.5358333,BAT,no,,20,6,HELIPAQ 10,10,4,HELIPAQ 10,9,5,GDC 10 360°SR,12,2
+316,woman,76,ICA,22.4,26.9,20.9,28.5,8385.36215,Double cathe,yes,,40,24,GDC 18 360° ,40,22,GDC 18 360° ,30,20,GDC 18 2D,60,2
+318,woman,54,ICA,3.4,7.2,9,8.5,288.252,BAT,no,,15,7,GDC 18 360° ,20,6,GDC 18 2D,11,6,GDC 10 360°SR Soft,22,2
+319,woman,64,ICA,3.6,5.7,5.8,5,86.507,BAT,no,,15,5,GDC 10 360°SR,8,4,GDC 10 soft,6,3,GDC 10 soft,5,1
+324,woman,76,ICA,3.6,9.3,6.3,6.4,196.23744,Simple,yes,,15,5,GDC 10 360°SR,8,4,GDC 10 360°SR Soft,8,4,GDC 10 360°SR Soft,9,2
+325,woman,62,ICA,3.8,5.2,6.4,5.5,95.79093333,Simple,no,,15,5,GDC 10 360°SR,8,3,GDC US,6,3,GDC 10 360°SR Soft,9,1
+326,man,58,ICA,3.3,4.4,4.6,5,52.96133333,Simple,no,,8,4,GDC 10 360°SR Soft,6,2,GDC US,6,2,HELIPAQ 10,6,0
+327,woman,53,ICA,5,6.8,5.2,6.3,116.58192,BAT,no,,15,5,GDC 10 360°SR,10,3,HELIPAQ 10,6,2,HELIPAQ 10,10,1
+328,woman,65,ICA,4.03,5.27,5.96,5.615,92.29645769,BAT,yes,,9,5,GDC(10)360SR soft,,,,,,,1,1
+329,man,46,ACA,4.1,5.4,4.6,4.7,61.09812,Double cathe,yes,,8,4,GDC 10 3D,4,2,GDC US,6,2,GDC US,8,1
+332,woman,45,ICA,3.4,3.9,3.3,3.6,24.24708,Unknown,no,,6,3,GDC 10 3D,2,2,GDC US,2,2,GDC US,4,0
+333,man,54,ACA,3.6,5.1,4.4,4.8,56.36928,Simple,yes,,10,4,GDC 10 2D,8,3,GDC 10 soft,4,3,GDC 10 soft,5,1
+337,woman,73,ICA,5.2,9.4,9,8.5,376.329,Double cathe,no,,10,5,GDC 10 3D,15,5,GDC 10 2D,8,4,Cashmere 14,17,2
+339,woman,54,ICA,2.52,3,4,3.5,21.98,BAT,yes,,6,3,GDC 10 soft,4,2,GDC 10 soft,3,2,GDC 10 soft,3,0
+340,woman,69,ACA,2.3,7.1,4.7,5.6,97.79634667,Simple,yes,,6,3,GDC 10 3D,6,3,GDC 10 3D,3,2,GDC US,8,2
+341,woman,38,ICA,4.7,7.3,5.3,6,121.4866,Simple,no,,15,6,GDC 10 3D,9,5,GDC 10 360°SR Soft,9,5,GDC 10 360°SR Soft,14,2
+342,woman,69,ACA,4.3,7.4,5.5,5,106.4983333,Double cathe,no,,8,4,GDC 10 360°SR Soft,6,3,GDC 10 3D,6,2,ULTIPAQ 10,6,2
+344,man,50,ICA,2.27,5.98,2.66,2.6,21.64385253,Simple,no,,8,4,GDC 10 360°SR Soft,6,2,GDC US,,,,2,1
+345,woman,69,ICA,3,5.3,4.7,4.5,58.66305,BAT,no,,8,4,GDC 10 360°SR Soft,8,3,GDC 10 soft,6,3,ULTIPAQ 10,5,1
+346,woman,64,MCA,2.9,4.9,4.7,4.7,56.64612333,Simple,no,,8,4,GDC 10 3D,6,3,GDC US,6,3,GDC US,7,0
+347,woman,65,ICA,9.7,20,20,14.3,2993.466667,Double cathe,no,,30,20,GDC 18 3D,30,20,GDC 18 2D,30,20,GDC 18 2D,11,2
+350,woman,58,ICA,1.9,5.3,4.3,4,47.70706667,Simple,no,,8,4,GDC 10 3D,4,2.5,GDC US,3,2.5,GDC US,5,1
+351,woman,64,ICA,2.5,3.5,3.1,3,17.0345,Simple,no,,4,3,GDC 10 3D,2,2,ULTIPAQ 10,2,2,ULTIPAQ 10,3,0
+352,woman,77,ICA,3.1,8.5,6,6.5,173.485,Simple,no,,9,5,GDC 10 360°SR Soft,9,5,GDC 10 360°SR Soft,4,2,GDC US,7,2
+353,woman,71,ICA,6.8,11.1,7.2,8.3,347.14584,BAT,no,,20,8,GDC 18 360° ,15,5,GDC 10 360°SR,15,6,GDC 10 360°SR,10,2
+357,woman,49,ICA,4.6,6,4.9,5.1,78.4686,BAT,no,,8,4,GDC 10 360°SR Soft,6,3,GDC 10 SR 2D,6,3,GDC 10 SR 2D,8,1
+359,woman,60,ACA,3.9,5.1,4.6,2.9,35.60446,Simple,no,,6,4,GDC 10 soft,3,2,GDC US,3,2,ULTIPAQ 10,4,1
+361,woman,60,BA,4.2,10.7,9.3,7.6,395.78444,BAT,no,,20,8,GDC 10 360°SR,15,7,GDC 10 360°SR,10,5,HELIPAQ 10,15,2
+363,woman,71,ICA,7.7,15.4,15.9,15.9,2037.48006,BAT,no,,30,14,GDC 18 360° ,30,12,HELIPAQ 18,30,12,HELIPAQ 18,24,2
+364,woman,61,ICA,6.9,8.1,7.2,6.6,201.43728,Double cathe,no,,9,5,GDC 10 360°SR,10,4,GDC 10 2D,12,3,GDC 10 ST,14,2
+368,man,58,ICA,2.6,8.5,7,7.2,224.196,Simple,no,,20,8,GDC 18 360° ,15,6,GDC 10 360°SR,8,3,GDC 10 SR 2D,18,2
+369,woman,58,ICA,4.3,14,10.3,7.4,558.4385333,Simple,no,,20,9,GDC 18 360° ,25,7,GDC 10 2D,15,6,GDC 18 soft,20,2
+370,woman,68,ICA,2.9,3.9,3.7,3.3,24.92061,Simple,no,,6,3,GDC 10 3D,2,2,GDC US,2,2,GDC US,3,0
+374,woman,65,ICA,2.6,4.9,4.2,3.8,40.92676,Simple,no,,8,4,GDC 10 3D,4,2,GDC 10 soft,4,2,GDC 10 soft,5,0
+375,woman,66,ICA,2.8,5.8,5.9,6.8,121.7775733,Simple,yes,,10,5,GDC 10 3D,6,3,GDC 10 soft,8,3,GDC 10 soft,5,1
+377,woman,57,MCA,4.4,6.5,5.5,4.7,87.93308333,Double cathe,no,,8,3,GDC 10 360°SR,6,3,GDC 10 3D,4,2,GDC US,13,1
+378,woman,72,ICA,3.2,4.9,4.3,5.3,58.44115667,Simple,no,,8,4,GDC 10 360°SR Soft,6,3,GDC 10 soft,6,2.5,GDC US,4,0
+380,man,78,MCA,4.5,10.1,9.9,9.5,497.11695,Simple,no,,20,8,GDC 18 360° ,20,6,GDC 10 2D,20,6,GDC 10 2D,15,2
+382,woman,48,ICA,3.84,5.01,4.49,5.2,61.2161212,Simple,no,,7,4,GDC 10 360°SR,6,3,GDC 10 soft,6,2,GDC 10 soft,10,1
+383,man,42,BA,3.1,5.7,5,3.8,56.677,Simple,no,,8,4,GDC 10 3D,6,3,GDC 10 soft,8,3,GDC 10 soft,8,1
+384,woman,74,MCA,5.6,8.8,5.2,7,167.6341333,Double cathe,no,,8,4,GDC 10 360°SR Soft,8,3,GDC 10 SR,4,2,GDC 10 360°SR Soft,13,2
+386,woman,65,ICA,3.8,6.5,6.1,4.4,91.30073333,Simple,no,,8,4,GDC 10 360°SR Soft,3,2,Ultipaq,3,2,Ultipaq,5,1
+388,man,53,ICA,3.2,4.6,5.2,4.8,60.08704,Double cathe,no,,8,4,GDC 10 360°SR Soft,10,3,GDC 10 soft,4,2,GDC US,10,0
+389,woman,47,ICA,4.3,8.6,9.6,8.1,349.97184,BAT,no,,9,5,GDC 10 360°SR Soft,9,5,GDC 10 360°SR Soft,9,5,GDC 10 360°SR Soft,14,2
+390,man,62,ICA,3.3,8.56,6.37,5.7,162.6546376,BAT,no,,15,6,GDC 18 360° ,12,5,GDC 18 soft,10,4,GDC 18 soft,15,2
+392,woman,43,ICA,2,4.4,3.5,3,24.178,Simple,no,,4,3,GDC 10 3D,3,3,GDC 10 soft,6,2,GDC 10 soft,6,0
+393,woman,70,ICA,5,7.2,5.9,6.4,142.27968,Double cathe,no,,10,5,GDC 10 3D,8,3,GDC 10 soft,12,3,GDC 10 ST,15,2
+394,woman,50,BA,3.6,6.1,3.4,4.6,49.92809333,Double cathe,no,,6,3,GDC 10 soft,3,2,GDC US,2,2,GDC US,9,1
+396,woman,60,MCA,2.6,4.5,4.4,4.3,44.5566,Simple,no,,6,4,GDC 10 3D,4,2,GDC US,3,2,GDC 10 soft,6,0
+397,man,58,ACA,2.78,4.16,3.66,3.75,29.88024,Simple,no,,6,3,GDC 10 360°SR Soft,6,2,GDC 10 soft,3,2,GDC US,4,0
+399,woman,62,MCA,3.6,5.5,5.3,6.3,96.10755,BAT,yes,,6,3,GDC 10 360°SR Soft,8,4,GDC 10 soft,6,2.5,GDC US,10,1
+400,woman,64,BA,5,7.3,6.6,6.8,171.45656,Simple,no,,15,6,GDC 10 3D,8,4,GDC 10 soft,8,3,GDC US,17,2
+402,man,50,MCA,2.9,6.3,6.1,6,120.6702,Double cathe,no,,10,5,GDC 10 3D,8,4,GDC 10 SR 2D,6,2,GDC US,17,1
+403,woman,64,ICA,5.3,7.3,4.6,5,87.86766667,BAT,no,,8,4,Matrix2 360 Std ,8,4,Matrix2 360 Std ,6,2,Matrix2 Helical US ,9,2
+404,woman,56,VA,2,4.9,2.7,2.9,20.07873,Simple,yes,,6,3,Matrix2 360 Soft,6,3,Matrix2 360 Soft,3,2,GDC US,3,0
+406,woman,37,ICA,3.6,6.2,6.6,6.1,130.63028,BAT,no,,15,6,Matrix2 360 Std ,10,6,GDC 18 soft,8,4,Matrix2 360 Std ,9,1
+407,man,41,ACA,2.9,5.09,2.98,3.44,27.30680485,Simple,no,,4,3,GDC 10 SR 2D,3,2,GDC US,2,2,GDC US,4,1
+408,man,64,ACA,3.5,9.1,10.3,8.8,431.6578933,Double cathe,no,,25,8,GDC 18 3D,8,4,Matrix2 360 US ,8,4,Matrix2 Helical US ,18,2
+409,woman,50,ICA,1.8,3.4,3.35,3.1,18.47837667,Simple,no,,4,2,Matrix2 360 US ,2,2,Matrix2 Helical US ,1,2,GDC US,4,0
+410,man,53,MCA,3.9,4.1,6.3,5.7,77.05089,BAT,no,,10,4,GDC 18 soft,4,2,Matrix2 360 US ,4,2,Matrix2 360 US ,6,0
+411,woman,64,ICA,4,6.1,9.2,7.3,214.3971067,Simple,no,,15,6,GDC 18 360° ,15,5,Matrix2 360 Std ,6,3,Matrix2 360 US ,6,1
+412,woman,46,ICA,4.5,8.6,5.9,6.5,172.6005667,BAT,no,,15,6,GDC 18 3D,8,4,Matrix2 360 Soft,10,4,Matrix2 2D Std,9,2
+413,man,58,BA,4.2,5,4.9,4.4,56.41533333,BAT,no,,8,4,Matrix2 360 Std ,8,3,Matrix2 360 Soft,2,2,Matrix2 Helical US ,4,1
+416,woman,55,ICA,2.3,5.6,4.7,5,68.87066667,BAT,no,,8,4,Matrix2 360 Std ,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,6,1
+417,woman,72,ICA,3.8,6.6,4.3,5,74.261,BAT,yes,,15,5,Matrix2 360 Std ,6,2,Matrix2 Helical US ,6,2,Matrix2 Helical US ,9,1
+418,woman,54,ICA,2,5,3,4,31.4,Simple,no,,4,3,Matrix2 360 US ,4,2,Matrix2 360 US ,3,2,Matrix2 Helical US ,3,1
+419,woman,64,MCA,2.9,4.3,4.4,3.8,37.62557333,Simple,yes,,6,3,Matrix2 360 Soft,4,2,Matrix2 Helical US ,4,2,Matrix2 Helical US ,9,0
+420,man,61,ICA,7.1,7.6,7,6.8,189.3210667,BAT,no,,15,6,GDC 18 3D,10,5,Matrix2 360 Soft,8,4,Matrix2 360 Soft,10,2
+421,woman,58,ICA,7.41,17.7,12.5,14,1621.025,BAT,yes,,30,14,GDC 18 360° ,30,13,GDC 18 360° ,30,12,GDC 18 360° ,54,2
+423,woman,73,ICA,3.8,5.6,5.1,5.3,79.21592,BAT,yes,,15,5,Matrix2 360 Std ,8,3,Matrix2 360 Soft,6,3,Matrix2 360 US ,8,1
+424,woman,69,ACA,3.4,5.2,4.5,6,73.476,Simple,yes,,6,4,GDC 10 3D,6,3,GDC 10 soft,4,3,GDC 10 soft,7,1
+429,woman,58,ICA,3.9,6.7,4.2,5.2,76.57832,BAT,no,,8,4,Matrix2 360 Std ,8,3,Matrix2 360 Soft,8,3,Matrix2 360 Soft,9,1
+435,woman,55,MCA,5.9,6.9,6.8,6.5,159.6062,Simple,yes,,15,6,GDC 18 3D,6,3,Matrix2 360 US ,8,4,Matrix2 360 US ,19,1
+437,man,68,BA,6.27,8.1,8.33,8.215,290.0787971,Double cathe,no,,15,5,Matrix2 360 Std ,8,4,Matrix2 360 Soft,6,2,Matrix2 Helical US ,17,2
+438,man,66,ACA,3.4,5.6,4.2,4.8,59.08224,Simple,no,,6,4,GDC 10 3D,6,3,Matrix2 360 US ,3,2,Matrix2 Helical US ,8,1
+440,woman,71,ICA,3.1,3.6,3.9,3.5,25.7166,BAT,no,,6,3,GDC 10 3D,6,2,GDC US,4,2,GDC US,6,0
+441,man,72,ACA,3.6,5.8,4.7,5,71.33033333,Double cathe,yes,,10,5,GDC 10 3D,8,4,GDC 10 3D,6,2,GDC US,7,1
+445,woman,72,ACA,5.1,8.8,5.9,6.1,165.7459467,Simple,no,,15,6,Matrix2 360 Std ,6,3,Matrix2 360 Soft,6,2,Matrix2 Helical US ,18,2
+448,woman,72,ICA,3.6,5.1,4.5,4.2,50.4441,Simple,yes,,6,4,Matrix2 360 Soft,4,3,Matrix2 360 US ,4,3,Matrix2 360 US ,11,1
+449,woman,43,ICA,1.8,3.1,1.8,2,5.8404,Simple,no,,3,2,Matrix2 Helical US ,,,,,,,1,0
+451,woman,73,ICA,4.5,10.8,9.9,10,559.548,BAT,yes,25,20,8,GDC 18 360° ,20,7,Matrix2 360 Std ,20,7,Matrix2 360 Std ,16,2
+453,woman,64,ICA,4.6,6.5,6.3,6.4,137.1552,BAT,no,25.6,15,6,Matrix2 360 Std ,8,4,Matrix2 360 Soft,6,4,Matrix2 360 US ,11,1
+454,woman,65,ICA,4.6,5.8,5.6,7.8,132.58336,BAT,no,,15,6,GDC 18 360° ,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,5,1
+455,woman,72,ICA,5.7,6.9,7.2,10,259.992,Simple,yes,30.3,15,6,Matrix2 360 Std ,8,4,Matrix2 360 Soft,8,4,Matrix2 360 Soft,19,1
+456,woman,61,MCA,4.669,6.672,6.211,6.441,139.6848365,Simple,no,26.9,8,5,GDC 10 3D,8,3,Matrix2 360 Soft,6,2,Matrix2 Helical US ,10,1
+457,woman,73,ICA,3.8,4.8,6.5,5.2,84.9056,Simple,no,,10,5,Matrix2 360 Soft,4,3,Matrix2 360 US ,4,3,Matrix2 360 US ,8,0
+458,woman,73,ICA,3.1,4.5,5.1,4.3,51.64515,BAT,no,,8,4,Matrix2 360 Std ,4,2,Matrix2 360 US ,4,2,Matrix2 360 US ,11,0
+460,woman,59,VA,2.8,7.9,5.6,6,138.9136,Simple,no,23.8,8,4,Matrix2 360 Std ,6,4,Matrix2 360 Soft,8,3,Matrix2 360 Soft,7,2
+463,woman,57,ICA,4.4,9.3,11.8,10.5,603.0213,Simple,no,,20,9,GDC 18 360° ,20,8,GDC 18 360° ,30,8,Matrix2 360 Std ,26,2
+464,woman,60,BA,7.8,11,9.7,10.7,597.4844333,Simple,yes,29.1,20,8,GDC 18 360° ,10,6,Matrix2 360 Soft,15,6,Matrix2 360 Soft,50,2
+465,woman,50,ICA,4.4,7.9,5.5,5.6,127.3374667,Simple,no,20.9,15,5,Matrix2 360 Soft,6,3,Matrix2 360 Soft,6,3,Matrix2 360 US ,10,2
+466,woman,66,ICA,3.5,5.2,5.2,4.4,62.26410667,BAT,no,25.9,8,4,Matrix2 360 Std ,4,3,Matrix2 360 US ,3,2,Matrix2 Helical US ,10,1
+469,woman,71,ACA,3.2,7.1,5.1,6.1,115.59439,Simple,yes,,8,4,GDC 10 360°SR Soft,6,3,GDC 10 soft,6,3,GDC 10 soft,5,2
+470,man,47,ACA,4.7,5.2,4.6,4.9,61.33885333,Double cathe,no,15.2,8,3,GDC 10 360°SR,6,2,GDC US,3,2,GDC US,6,1
+471,man,33,BA,3.4,4.9,5.9,5.2,78.67374667,Simple,yes,28.6,8,4,Matrix2 360 Std ,4,3,Matrix2 360 US ,4,2,Matrix2 Helical US ,8,0
+475,woman,71,ICA,5.2,8,10.1,8.7,367.8824,BAT,no,17.7,20,8,GDC 18 360° ,15,6,GDC 18 360° ,15,6,Matrix2 360 Std ,9,2
+476,woman,73,ICA,3,5.1,4.8,4.95,63.41544,Simple,no,21.5,8,4,Matrix2 360 Std ,3,2,Matrix2 Helical US ,3,2,Matrix2 Helical US ,6,1
+477,woman,59,ICA,3.2,12.9,10.27,14.3,991.458611,Double cathe,no,,30,12,GDC 18 360° ,30,10,GDC 18 360° ,30,12,Matrix2 360 Std ,33,2
+478,woman,66,ACA,4.2,8.3,7.7,7.5,250.84675,Simple,no,25.3,20,8,GDC 18 360° ,15,6,Matrix2 360 Std ,15,6,Matrix2 360 Soft,16,2
+479,woman,46,MCA,3.5,4.2,3.6,4,31.6512,Simple,no,,6,3,GDC 10 3D,3,2,GDC US,1,2,GDC US,7,0
+481,man,50,BA,4.7,5.3,5.4,5.3,79.38234,BAT,no,27.7,15,5,Matrix2 360 Std ,6,2,Matrix2 Helical US ,6,3,Matrix2 360 Soft,11,1
+482,woman,55,ICA,4.8,4.9,5.6,5.5,78.98146667,Simple,yes,25.7,15,6,Matrix2 360 Std ,6,3,Matrix2 360 US ,4,2,Matrix2 Helical US ,9,0
+487,woman,70,ICA,4.8,13.8,11.5,12,996.636,BAT,yes,,30,11,GDC 18 360° ,20,9,GDC 18 360° ,30,10,Matrix2 360 Std ,18,2
+488,woman,51,ICA,9.85,11.2,13.6,12.4,988.4552533,Double cathe,no,,20,9,GDC 18 360° ,30,10,GDC 18 2D,20,9,GDC 18 360° ,32,2
+493,man,72,BA,4.83,4.16,5.07,4.615,50.93911472,BAT,no,,8,4,Matrix2 360 Soft,6,2,GDC US,3,2,GDC US,4,0
+495,woman,52,ICA,3.1,3.95,3.78,3.865,30.20068485,Simple,no,,6,3,Matrix2 360 Soft,3,2,Matrix2 Helical US ,4,2,Matrix2 360 US ,5,0
+496,woman,62,ICA,4.1,9.6,7,7.6,267.2768,BAT,no,,20,8,GDC 18 360° ,15,6,Matrix2 360 Soft,10,6,GDC 18 soft,8,2
+497,woman,59,ICA,3.5,3.9,3.06,3.48,21.7342008,Double cathe,no,8.1,6,3,Matrix2 360 Soft,2,2,Matrix2 Helical US ,,,,2,0
+501,woman,73,MCA,3,3.1,4,3.7,24.01053333,Simple,no,15.8,4,3,Matrix2 Helical US ,3,2,Matrix2 Helical US ,2,2,Matrix2 Helical US ,4,0
+508,man,58,VA,6.7,10,5.7,6.5,193.895,Stent assist,no,,15,6,Matrix2 360 Soft,6,3,Matrix2 360 US ,8,4,Matrix2 Helical US ,16,2
+510,woman,54,ICA,9,6,10.1,8.05,255.2977,Stent assist,no,,15,6,Matrix2 360 Soft,15,6,Matrix2 360 Soft,8,4,Matrix2 2D Soft,9,1
+511,woman,64,MCA,4.3,7.3,3.3,5,63.0355,Double cathe,yes,,6,3,Matrix2 360 Soft,4,2,Matrix2 Helical US ,3,2,GDC US,7,2
+513,man,78,ACA,1.6,2.5,4.5,2.8,16.485,Simple,yes,,3,2.5,ED10 ES,2,2,ED10 ES,2,2,ED10 ES,4,0
+514,woman,70,ICA,4.6,6.3,5.6,6,110.7792,Simple,yes,,10,5,Matrix2 360 Soft,6,4,Matrix2 360 Soft,4,2,Matrix2 360 US ,9,1
+515,man,62,ICA,3.4,4.7,4.1,6,60.5078,Double cathe,no,18.7,8,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,6,2.5,GDC US,8,0
+516,woman,65,ICA,3.53,5.38,4.91,5.145,71.12586229,Simple,no,,15,5,Matrix2 360 Std ,8,4,Matrix2 360 Std ,8,3,Matrix2 360 Soft,8,1
+519,man,61,ICA,4.4,5.4,4.7,5,66.411,Double cathe,no,21.9,8,4,Matrix2 360 Std ,8,3,GDC 10 soft,4,2,Matrix2 360 US ,11,1
+520,man,71,ACA,2.8,4.5,4,5.5,51.81,Simple,yes,,8,4,GDC 10 360°SR Soft,4,2,GDC 10 360°SR Soft,4,3,Matrix2 360 US ,6,0
+522,man,57,BA,5.1,5.7,5.5,5.5,90.23575,Double cathe,no,,15,5,Matrix2 360 Std ,8,4,Matrix2 360 Soft,6,2,Matrix2 Helical US ,14,1
+523,woman,62,ACA,3,7,3.4,5.2,64.76773333,Simple,no,,6,3,Matrix2 360 Soft,3,2,Matrix2 Helical US ,2,2,Matrix2 Helical US ,5,2
+524,woman,47,ICA,2.4,3.5,3.1,3.5,19.87358333,Simple,yes,,4,2,Matrix2 360 US ,2,2,GDC US,2,2,GDC US,3,0
+525,woman,60,ICA,3,4.9,4,4.3,44.10653333,BAT,no,16.7,8,4,Matrix2 360 Std ,4,3,Matrix2 360 US ,6,3,Matrix2 360 US ,4,0
+526,man,73,BA,5.1,6.2,5.4,7.3,127.90476,Double cathe,no,26.1,15,6,GDC 18 360° ,8,4,Matrix2 2D Soft,6,3,Matrix2 Helical US ,16,1
+528,woman,64,ICA,4.5,4.6,5.1,3.4,41.74316,Simple,no,23,8,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,4,3,Matrix2 360 US ,8,0
+529,woman,54,ICA,10,15,15,15,1766.25,Double cathe,no,,30,13,GDC 18 360° ,30,12,GDC 18 360° ,30,8,GDC 18 2D,25,2
+532,woman,69,ICA,3.2,4.8,3.8,3.8,36.27328,Double cathe,no,,6,4,Matrix2 360 Soft,3,2,Matrix2 Helical US ,3,2,Matrix2 Helical US ,8,0
+533,man,60,ACA,3.9,10.4,9.8,9.5,506.7122667,Simple,no,25.1,20,9,GDC 18 360° ,10,6,GDC 18 soft,10,6,GDC 18 soft,21,2
+534,man,60,ACA,6.4,4.8,5.4,5,67.824,Simple,no,25.7,8,4,Matrix2 360 Std ,4,3,Matrix2 Helical US ,4,2,Matrix2 360 US ,13,0
+535,man,60,ACA,6.5,9.4,7.5,8,295.16,Simple,no,19.8,15,7,GDC 18 360° ,15,5,Matrix2 360 Soft,10,5,Matrix2 360 Soft,11,2
+536,woman,63,ICA,6,3.8,6.5,5,64.63166667,Double cathe,no,21.2,8,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,3,2,GDC US,10,0
+537,man,63,ICA,2.3,6.1,3.7,2.5,29.52908333,Simple,no,27,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,4,2,Matrix2 360 US ,5,1
+539,woman,56,ICA,4.3,6.1,8,5.8,148.1242667,Simple,no,17.7,15,6,Matrix2 360 Soft,6,4,Matrix2 360 Soft,6,4,Matrix2 360 Soft,7,1
+540,woman,65,BA,4.9,4.8,4.5,4.6,51.9984,BAT,no,26,8,4,Matrix2 360 Std ,6,3,Matrix2 360 Soft,4,2,Matrix2 Helical US ,9,0
+543,man,57,ACA,3.6,4.2,5.1,4.1,45.96018,Simple,no,19.1,6,4,Matrix2 360 Soft,4,3,Matrix2 360 US ,4,2,GDC US,6,0
+545,woman,74,BA,4.5,6.2,4.7,5,76.24966667,Double cathe,no,20.4,6,4,Matrix2 360 Soft,8,4,Matrix2 360 Std ,4,2,Matrix2 360 US ,8,1
+549,man,35,ICA,5.8,6.7,7.5,6,157.785,BAT,yes,25.5,15,6,Matrix2 360 Soft,10,5,Matrix2 2D Soft,6,2,Matrix2 Helical US ,13,1
+553,woman,78,ICA,7.8,12.8,10.9,16.1,1175.549013,Double cathe,no,18.4,30,10,GDC 18 3D,20,8,GDC 18 360° ,30,8,GDC 18 2D,28,2
+554,man,65,ACA,2.7,4.4,4.3,4.2,41.58616,Simple,yes,,4,3,GDC 10 soft,4,3,ED10 soft,3,2,ED10 ES,6,0
+555,woman,64,ICA,4,4,4.1,4.1,35.18893333,BAT,no,23,8,4,Matrix2 360 Std ,4,2,GDC 10 soft,3,2,Matrix2 Helical US ,5,0
+556,woman,73,ICA,4.1,4.6,4,3.5,33.70266667,Simple,no,14,6,3,Matrix2 360 US ,4,2,GDC 10 US,2,2,GDC 10 US,3,0
+557,woman,73,ACA,3.3,4.1,3.1,5,33.25783333,Simple,no,19,6,3,Matrix2 360 Soft,3,2,Matrix2 Helical US ,2,2,GDC 10 US,3,0
+558,woman,56,ICA,5.6,8,5.9,6.8,167.9690667,BAT,no,15.5,15,5,Matrix2 360 Std ,6,4,Matrix2 360 Soft,6,3,GDC 10 US,7,2
+560,woman,76,VA,8.3,11.2,10.4,10.8,658.34496,Double cathe,yes,18,15,7,GDC 18 360° ,15,6,GDC 18 360° ,8,4,Matrix2 360 Soft,25,2
+561,woman,69,ICA,5.7,3.9,3.4,5.6,38.86064,Double cathe,no,,6,3,Matrix2 3D ,3,2,GDC 10 US,3,2,GDC 10 US,7,0
+562,woman,68,ICA,4.6,9.1,8.4,8.6,344.03096,Double cathe,no,28.3,20,9,GDC 18 360° ,15,7,GDC 18 360° ,15,6,Matrix2 360 Std ,25,2
+564,man,50,ICA,3.1,3.8,3.5,4,27.84133333,Simple,no,26.5,6,3,Matrix2 360 Soft,4,3,GDC 10 SR 2D,2,2,GDC 10 US,5,0
+572,woman,66,ICA,7.1,10.7,12,9.3,624.9228,Double cathe,no,18,30,12,GDC 18 2D,20,9,GDC 18 360° ,20,8,GDC 18 360° ,11,2
+576,woman,62,ICA,4.5,4.7,5.4,4.3,57.11346,Simple,no,23.5,10,5,Matrix2 2D Soft,4,2,Matrix2 Helical US ,3,2,ED10 ES,6,0
+577,woman,66,ICA,5.8,10.3,7.7,7.5,311.29175,Double cathe,no,,15,5,Matrix2 360 Std ,8,3,Matrix2 360 Soft,8,4,Matrix2 2D Soft,8,2
+578,woman,77,ICA,6.6,12.3,10.4,11.35,759.82348,Double cathe,no,,30,12,GDC 18 360° ,20,8,GDC 18 360° ,30,10,Matrix2 360 Std ,17,2
+582,woman,69,VA,4.4,3.8,5.1,4.2,42.59724,Double cathe,no,16,6,3,Matrix2 360 Soft,3,2,GDC 10 US,3,2,ED10 ES,7,0
+583,woman,53,VA,3.5,5.5,4.636,4.3,57.37899933,Simple,no,26.4,8,4,Matrix2 3D ,4,3,Matrix2 Helical US ,4,3,Matrix2 Helical US ,9,1
+588,woman,66,ACA,4.7,4.8,5.2,5,65.312,Double cathe,no,18.4,8,3,Matrix2 360 Soft,6,2,Matrix2 Helical US ,4,2,Matrix2 360 US ,11,0
+589,woman,74,ICA,2.4,4,3.5,3.7,27.10866667,Simple,no,23.2,8,4,Matrix2 2D Soft,3,2,Matrix2 Helical US ,2,2,Matrix2 Helical US ,4,0
+590,man,56,ICA,3.6,4.9,5.4,5,69.237,Simple,no,27.9,15,5,Matrix2 2D Std,8,4,Matrix2 2D Soft,6,2,GDC 10 US,5,0
+592,woman,49,ACA,4.8,5.9,4.6,5.6,79.53829333,Double cathe,yes,17.7,8,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,3,2,GDC 10 US,7,1
+596,woman,51,ICA,4,8.1,4.9,5.5,114.24105,Stent assist,no,,15,5,Matrix2 360 Std ,8,4,Matrix2 2D Soft,6,4,Matrix2 360 Soft,5,2
+597,man,64,BA,4.9,4.6,6.1,5,73.42366667,BAT,no,23.4,6,4,Matrix2 360 Soft,6,4,Matrix2 Helical US ,4,3,Matrix2 Helical US ,10,0
+598,woman,50,MCA,4.9,7,5.6,6,123.088,Double cathe,no,23.2,15,5,Matrix2 2D Std,10,4,Matrix2 2D Std,6,3,GDC 10 360°SR Soft,10,2
+599,woman,51,ICA,5.8,7,4.3,4.9,77.18643333,BAT,no,19.8,8,4,Matrix2 360 Soft,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,5,2
+600,woman,41,ICA,7.9,10,8.1,6.3,267.057,Stent assist,no,23.2,20,8,GDC 18 360° ,30,8,Matrix2 2D Std,11,6,GDC 10 360°SR Soft,15,2
+602,woman,56,BA,3.3,5.9,5,5.1,78.7355,BAT,no,26.1,15,5,Matrix2 360 Std ,6,3,Matrix2 360 Soft,6,3,Matrix2 360 US ,6,1
+603,woman,61,ICA,2,5.7,3.3,4,39.3756,Simple,yes,31.9,8,3,Matrix2 360 Soft,4,2,Matrix2 Helical US ,3,2,GDC 10 US,7,1
+604,woman,43,ICA,4.5,4.8,4,3.5,35.168,Simple,no,24.9,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,4,2,Matrix2 360 US ,7,0
+605,woman,31,ICA,5.1,6.5,4.7,5.2,83.13673333,BAT,no,30,15,5,Matrix2 360 Std ,4,3,GDC 10 SR 2D,4,3,GDC 10 SR 2D,7,1
+607,man,58,ACA,4,4.9,3.8,4,38.97786667,Simple,no,17.6,6,3,Matrix2 360 Soft,2,2,Matrix2 Helical US ,3,2,GDC 10 US,5,0
+608,woman,46,ICA,5.4,7,5.7,4.2,87.7002,Stent assist,no,26,15,5,Matrix2 360 Std ,8,3,GDC 10 SR 2D,6,3,Matrix2 Helical US ,6,2
+609,woman,76,ICA,2.5,4.2,4,6.3,55.3896,Simple,no,32,8,4,Matrix2 2D Soft,8,4,Matrix2 2D Soft,6,2,GDC 10 US,5,0
+611,woman,70,BA,4.3,4.8,6,5.5,82.896,Double cathe,no,24.6,8,4,Matrix2 360 Std ,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,11,0
+612,man,52,ICA,3,5.1,4,4.5,48.042,Simple,no,22,10,5,Matrix2 3D ,4,3,Matrix2 Helical US ,4,3,Matrix2 360 US ,5,1
+613,woman,62,MCA,4,5.3,5.8,5,80.43633333,Simple,no,27.1,15,5,Matrix2 360 Std ,8,4,Matrix2 360 Soft,8,4,GDC 10 SR 2D,7,1
+615,woman,63,ICA,4.4,4.5,4,7,65.94,BAT,no,25.4,10,5,Matrix2 360 Soft,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,6,0
+616,man,51,ICA,2.6,4.5,2.8,4,26.376,BAT,no,17.5,6,3,Matrix2 360 US ,3,2,GDC 10 US,,,,2,0
+617,woman,56,BA,4.7,5.6,5.9,5,86.45466667,Simple,yes,20,8,4,Matrix2 360 Soft,8,4,Matrix2 2D Soft,6,3,Matrix2 Helical US ,9,1
+619,woman,58,ICA,4,4.5,4.4,7,72.534,Stent assist,no,24,8,4,Matrix2 2D Soft,6,3,GDC 10 SR 2D,4,3,GDC 10 SR 2D,6,0
+621,woman,66,ICA,6.9,16,15.4,18,2321.088,Double cathe,no,23.1,30,16,GDC 18 360° ,30,16,GDC 18 2D,30,14,GDC 18 2D,60,2
+622,man,51,ICA,5.8,4.9,6.8,5,87.18733333,Double cathe,no,20.7,8,4,Matrix2 360 Std ,6,3,Matrix2 360 US ,4,2,GDC 10 US,13,0
+623,woman,72,ICA,5.5,5.9,4.8,5.35,79.29128,Stent assist,yes,16.9,8,3,Matrix2 360 Soft,4,2,GDC 10 US,3,2,GDC 10 US,4,1
+624,man,40,ACA,3.6,3.6,4.2,4,31.6512,Simple,yes,24.7,8,4,Matrix2 2D Soft,2,2,Matrix2 Helical US ,1,2,GDC 10 US,7,0
+625,woman,56,ICA,6.4,6.3,7,6.5,150.0135,Double cathe,no,28.3,15,6,GDC 18 360° ,8,4,Matrix2 360 Std ,15,6,Matrix2 360 Std ,10,1
+627,woman,63,ICA,4.4,4.4,4,4.2,38.6848,BAT,no,24,8,3,Matrix2 360 Soft,6,3,GDC 10 US,6,2,GDC 10 US,6,0
+628,woman,69,ICA,6.6,18.3,15.7,17,2556.1013,Double cathe,no,,30,16,GDC 18 360° ,30,12,GDC 18 2D,30,12,GDC 18 2D,49,2
+629,man,50,ACA,5.8,5.6,5.4,6,94.9536,Simple,no,,15,5,Matrix2 360 Std ,6,3,GDC 10 soft,4,2,Matrix2 Helical US ,11,1
+630,man,69,BA,6.3,10.1,10.1,10,533.8523333,Double cathe,no,27.8,20,8,GDC 18 360° ,30,8,GDC 18 2D,15,6,GDC 18 soft,19,2
+634,woman,74,BA,5.1,4.4,4.4,4.5,45.5928,BAT,yes,32.7,8,4,Matrix2 360 Soft,6,2,GDC 10 US,4,2,GDC 10 360°SR Soft,10,0
+635,woman,67,BA,7.3,8.8,9.1,7,293.3597333,Simple,yes,26.4,15,6,GDC 18 360° ,15,5,Matrix2 360 Soft,10,5,Matrix2 360 Soft,22,2
+636,woman,67,ICA,4.4,3.9,4.1,4,33.4724,Double cathe,no,23.9,8,4,Matrix2 360 Std ,4,3,Matrix2 Helical US ,4,2,Matrix2 360 US ,4,0
+637,woman,57,BA,6.4,6.7,8,5.5,154.2786667,Double cathe,no,21,15,5,Matrix2 360 Std ,8,4,Matrix2 360 Soft,6,3,Matrix2 360 US ,12,1
+639,woman,64,MCA,3.7,4.8,3.7,4.5,41.8248,Simple,no,22.2,8,4,GDC 10 360°SR Soft,4,2,GDC 10 360°SR Soft,4,2,GDC 10 360°SR Soft,6,0
+640,man,56,ACA,5.9,9.4,6.6,12,389.6112,Double cathe,yes,21.8,15,7,GDC 18 360° ,12,5,GDC 18 soft,10,4,GDC 18 soft,11,2
+642,woman,65,ACA,2,4.5,5,5,58.875,Simple,no,24,6,4,Matrix2 3D ,6,3,Matrix2 Helical US ,6,2,Matrix2 Helical US ,5,0
+644,woman,39,ICA,4.4,4.7,4.2,4.5,46.4877,Simple,no,22.3,8,4,Matrix2 360 Soft,4,3,Matrix2 Helical US ,4,2,GDC 10 US,5,0
+645,woman,70,BA,2.2,3.2,4,2.5,16.74666667,Simple,no,25.8,4,2,Matrix2 360 US ,4,2,Matrix2 Helical US ,,,,2,0
+646,woman,74,ICA,11,17.7,13.5,15,1875.7575,Double cathe,no,19,30,12,GDC 18 360° ,30,10,GDC 18 360° ,30,8,GDC 18 2D,35,2
+648,woman,71,ICA,3.3,4.4,4.1,3.4,32.09917333,BAT,no,27.2,8,4,Matrix2 360 Soft,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,3,0
+650,woman,56,ICA,4.6,5.9,3.5,6.3,68.08305,Simple,no,24.6,8,4,Matrix2 360 Std ,6,3,Matrix2 360 Soft,6,3,GDC 10 360°SR Soft,7,1
+655,woman,69,ICA,4.8,7.2,5.6,6,126.6048,BAT,no,20.7,15,6,Matrix2 360 Std ,10,6,GDC 10 SR 2D,10,5,Matrix2 2D Soft,8,2
+656,woman,39,ICA,3.6,3.8,3.9,5,38.779,Simple,no,21.9,8,3,Matrix2 360 Soft,3,2,GDC 10 US,2,2,GDC 10 US,5,0
+657,woman,62,ICA,3.8,8.7,6.9,7,219.9099,Double cathe,yes,35.9,20,8,GDC 18 360° ,15,7,GDC 18 360° ,15,6,Matrix2 360 Std ,10,2
+658,woman,64,ICA,3.5,4.4,4.1,5.2,49.09285333,Double cathe,no,21.8,8,3,Matrix2 360 Soft,4,2,Matrix2 Helical US ,3,2,Matrix2 Helical US ,4,0
+659,woman,40,ICA,3.1,3.7,3.8,4,29.43226667,BAT,no,23.6,8,4,Matrix2 360 Std ,6,3,GDC 10 US,2,2,Matrix2 Helical US ,3,0
+660,woman,67,ICA,4.71,5.2,4.3,4.75,55.58323333,BAT,no,,8,4,Matrix2 360 Soft,6,3,Matrix2 360 Soft,2,2,GDC 10 US,4,1
+662,man,72,VA,4.3,3.1,4.3,3.7,25.81132333,Simple,no,,6,3,Matrix2 360 US ,3,2,ED10 ES,,,,2,0
+664,woman,52,ICA,3.3,4.8,4.3,4.5,48.6072,Simple,yes,20.4,8,4,Matrix2 360 Soft,4,2,Matrix2 Helical US ,4,2,Matrix2 Helical US ,6,0
+666,woman,57,ICA,4.8,4.1,4.9,4.5,47.31195,Stent assist,no,20.9,6,3,Matrix2 360 Soft,4,3,GDC 10 US,4,3,Matrix2 Helical US ,4,0
+667,woman,50,ICA,7.4,7.6,8.2,8,260.9130667,BAT,no,30.1,15,7,GDC 18 360° ,10,6,GDC 18 soft,15,6,Matrix2 360 Std ,25,2
+668,woman,69,ACA,6.6,7.1,6.7,6.8,169.2857733,Double cathe,no,,15,6,GDC 18 360° ,10,5,Matrix2 360 Soft,10,5,Matrix2 2D Soft,12,2
+669,man,72,ICA,3.8,4.9,4.1,4.5,47.31195,BAT,no,27.9,6,3,GDC 10 US,4,3,Matrix2 Helical US ,4,2,GDC 10 360°SR Soft,6,0
+670,man,43,ICA,5.4,4.8,3.6,4.2,37.98144,Stent assist,yes,5.9,6,3,GDC 10 3D,,,,,,,1,0
+671,man,62,BA,6.1,5.9,7.1,6.5,142.4958167,Double cathe,no,26.7,15,7,GDC 18 360° ,15,5,Matrix2 360 Std ,15,5,Matrix2 360 Std ,14,1
+672,woman,62,ICA,4.1,4.1,3.8,4,32.61413333,Double cathe,no,32,8,4,Matrix2 360 Soft,4,3,Matrix2 360 US ,4,3,GDC 10 US,6,0
+673,woman,56,ICA,3.9,3.9,4.6,4.2,39.43212,BAT,no,31.9,8,4,Matrix2 360 Std ,6,3,GDC 10 SR 2D,6,3,Matrix2 360 Soft,4,0
+674,man,49,ACA,3.4,6,4.9,5.5,84.623,Double cathe,no,32,8,4,Matrix2 360 Soft,6,3,Matrix2 360 US ,6,3,Matrix2 360 US ,6,1
+675,woman,72,ACA,3.6,4.5,4.5,4.5,47.68875,Double cathe,no,26.2,8,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,4,2,GDC 10 US,7,0
+676,woman,43,ICA,3.6,3.9,4.1,4,33.4724,BAT,yes,29.7,8,4,Matrix2 360 Soft,6,3,GDC 10 SR 2D,4,2,Matrix2 Helical US ,6,0
+677,woman,43,ICA,5.4,4.4,4.2,4.3,41.58616,BAT,no,21.8,8,4,Matrix2 360 Soft,6,3,GDC 10 US,4,2,Matrix2 Helical US ,4,0
+678,woman,44,ICA,3.1,4.6,3.1,3.4,25.37329333,BAT,no,31.7,8,4,Matrix2 360 Soft,4,3,Matrix2 360 US ,3,2,GDC 10 US,5,0
+679,woman,65,ICA,7,9.4,7.8,8.6,329.98888,Double cathe,no,23,20,8,GDC 18 360° ,12,5,GDC 18 soft,10,4,GDC 18 soft,14,2
+682,woman,41,ICA,2.8,3.3,3.1,3.2,17.13184,Simple,yes,23.5,6,3,Matrix2 Helical US ,4,2,Matrix2 360 US ,2,2,Kaneka ES,3,0
+683,woman,60,ICA,2.9,5.5,3.7,4.6,48.98923333,Simple,no,27.6,8,4,Matrix2 360 Std ,6,4,Matrix2 360 Soft,6,3,Matrix2 360 US ,8,1
+686,woman,63,BA,4.8,4.4,3.5,3.7,29.81953333,Double cathe,yes,25.5,8,4,Matrix2 360 Soft,4,3,Matrix2 360 US ,4,2,GDC 10 US,5,0
+688,man,59,ACA,4.1,5.1,4.4,4.8,56.36928,Double cathe,no,21.8,8,4,Matrix2 2D Soft,4,3,Matrix2 360 US ,4,2,GDC 10 US,6,1
+690,woman,67,ICA,4.7,4.6,4.3,4.5,46.5819,BAT,yes,24.1,8,4,Matrix2 360 Soft,6,3,GDC 10 US,4,2,Matrix2 360 US ,7,0
+691,woman,61,ICA,2.68,4.5,3.7,4.1,35.72535,Simple,no,30.4,6,4,Matrix2 360 Soft,6,3,Matrix2 360 US ,4,3,Matrix2 Helical US ,5,0
+692,woman,67,ICA,3.5,3.8,4.9,4.3,41.90120667,BAT,no,22.8,8,4,Matrix2 2D Soft,6,3,Matrix2 Helical US ,6,3,Matrix2 Helical US ,4,0
+693,woman,56,ICA,5,6.4,5.4,5.9,106.70976,BAT,no,25.2,15,6,Matrix2 360 Std ,10,5,Matrix2 2D Soft,8,3,Matrix2 360 Soft,7,1
+694,woman,55,ICA,13.5,30.8,25.7,21.3,8823.51932,Double cathe,no,,40,22,GDC 18 360° ,40,24,GDC 18 360° ,40,24,GDC 18 360° ,13,2
+695,woman,59,BA,9.6,12.6,11.2,11.9,878.84832,Stent assist,no,22.2,30,10,GDC 18 360° ,30,8,GDC 18 2D,30,8,Matrix2 360 Std ,14,2
+696,man,39,BA,3.3,5.5,4.7,5.1,68.99365,BAT,no,22.9,8,4,Matrix2 360 Std ,6,4,Matrix2 360 Soft,6,3,Matrix2 360 Soft,4,1
+698,woman,73,ICA,2.1,4.4,3.4,3.9,30.53336,Simple,no,26.8,10,5,Matrix2 360 Soft,6,4,Matrix2 360 US ,6,4,Matrix2 360 US ,4,0
+699,woman,73,MCA,3.9,3.5,3.1,3.3,18.73795,Simple,no,26.6,4,3,Matrix2 360 US ,4,3,Matrix2 Helical US ,3,2,Matrix2 Helical US ,4,0
+700,man,53,BA,3.1,3.9,3.4,3.7,25.67578,Double cathe,no,31.8,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,3,2,Kaneka ES,4,0
+701,woman,52,ICA,6.3,6.4,4.9,5.7,93.54688,BAT,no,21.6,10,5,Matrix2 360 Soft,10,5,Matrix2 2D Soft,8,4,Matrix2 360 Std ,7,1
+702,woman,69,ICA,4.4,5.8,4.5,5.2,71.0268,Double cathe,no,27.9,15,5,Matrix2 360 Soft,8,4,Matrix2 360 Soft,6,3,Matrix2 360 Soft,5,1
+703,woman,46,ICA,4.6,4.1,3.8,4,32.61413333,BAT,no,25.3,6,3,Matrix2 360 Soft,4,2,Matrix2 Helical US ,3,2,GDC 10 US,7,0
+704,man,51,ICA,3.9,4.8,4.5,4.7,53.1288,Double cathe,no,26.9,10,4,Matrix2 2D Std,6,3,Matrix2 360 Soft,4,2,GDC 10 US,3,0
+707,man,68,ICA,4.5,6.7,4.7,5.7,93.93467,Double cathe,no,22.4,15,5,Matrix2 360 Std ,6,4,GDC 10 SR 2D,6,4,Matrix2 360 US ,5,1
+709,man,39,ACA,5.5,9.7,4.6,7.2,168.12816,Simple,yes,32.8,10,6,Matrix2 2D Soft,10,6,Matrix2 2D Soft,10,5,Matrix2 2D Soft,11,2
+710,woman,63,ICA,4.5,5.1,3.9,4.5,46.84095,Simple,no,26.9,8,4,Matrix2 360 Soft,6,3,Matrix2 Helical US ,4,3,Matrix2 Helical US ,6,1
+711,man,62,MCA,3.5,5.2,4.8,5,65.312,Double cathe,yes,31.8,10,5,Matrix2 2D Soft,8,4,GDC 10 SR 2D,6,3,Matrix2 360 Soft,9,1
+712,woman,67,ICA,4.1,5.7,3.9,4.8,55.84176,BAT,no,24,8,4,Matrix2 360 Std ,6,3,Matrix2 360 Soft,4,3,Matrix2 Helical US ,5,1
+713,woman,46,ICA,5.3,5.3,5.1,5.2,73.55764,Simple,no,29.6,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,6,4,GDC 10 US,11,1
+714,woman,76,ICA,6.9,7.8,7.5,7.7,235.7355,Double cathe,yes,21.1,20,6,Matrix2 2D Std,4,2,GDC 10 US,4,2,GDC 10 US,9,2
+716,woman,68,ICA,4.7,5.4,6.4,5.7,103.09248,Double cathe,no,24.6,9,5,GDC 10 360°SR Soft,8,4,GDC 10 360°SR Soft,6,4,GDC 10 US,10,1
+719,woman,54,ICA,4.5,8.1,7.3,7.7,238.27419,BAT,no,26.5,20,8,GDC 18 360° ,15,6,GDC 18 soft,15,6,GDC 18 soft,17,2
+720,woman,56,ICA,4.8,7.6,7.2,7.4,211.91232,Simple,no,29.8,15,7,GDC 18 360° ,10,6,GDC 18 soft,10,5,Matrix2 2D Soft,13,2
+721,woman,53,MCA,4.9,5.4,4.7,5.1,67.73922,Double cathe,yes,17.9,8,3,Matrix2 360 Soft,6,2,GDC 10 US,4,2,GDC 10 US,10,1
+722,woman,62,ACA,4.2,10.6,9.4,10,521.4493333,Double cathe,yes,18.1,15,6,Matrix2 360 Std ,15,5,Matrix2 360 Std ,8,4,Matrix2 2D Soft,18,2
+723,man,56,ICA,3.3,5.9,4.6,5.3,75.27731333,Simple,no,23,8,4,Matrix2 360 Soft,8,4,Matrix2 2D Soft,4,2,GDC 10 US,4,1
+725,woman,64,ICA,5.3,5.9,5.8,5.9,105.6599533,BAT,no,23.8,10,5,Matrix2 2D Soft,8,4,GDC 10 SR 2D,8,4,Matrix2 360 US ,7,1
+726,woman,35,ICA,3,3.6,3.3,3.5,21.7602,Simple,no,30,8,4,Matrix2 360 Soft,4,3,Matrix2 Helical US ,3,2,GDC 10 US,3,0
+727,woman,45,ICA,6.5,8.1,7.1,7.6,228.73644,Double cathe,no,25,15,6,GDC 18 360° ,15,6,GDC 18 soft,15,5,Matrix2 360 Soft,10,2
+729,woman,61,ICA,3.3,4.5,3.9,4.2,38.5749,Double cathe,no,26.9,8,4,Matrix2 2D Soft,4,3,GDC 10 US,4,3,GDC 10 US,4,0
+731,man,65,ACA,6.3,7,5.9,6.5,140.4888333,Double cathe,yes,17.5,4,2,Matrix2 360 US ,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,11,2
+733,woman,74,ICA,6.2,6.5,5.3,5.9,106.3701167,Double cathe,no,22.4,8,4,Matrix2 360 Soft,8,4,GDC 10 US,6,4,GDC 10 US,17,1
+735,woman,65,ACA,4.9,5.8,4.9,5.4,80.31492,Double cathe,no,25.1,10,5,Matrix2 3D ,8,4,Matrix2 2D Soft,6,3,Matrix2 360 US ,8,1
+736,woman,49,ICA,4.9,7.8,6.3,7.1,182.58786,Double cathe,no,32.8,20,8,GDC 18 360° ,15,6,Matrix2 360 Soft,15,6,Matrix2 360 Soft,11,2
+737,woman,49,ICA,3.7,4.5,4.4,4.5,46.629,BAT,no,31.6,8,4,Matrix2 360 Std ,6,3,Matrix2 Helical US ,4,3,GDC 10 US,6,0
+738,woman,40,ICA,6.5,5.5,4.9,5.2,73.33993333,BAT,no,27.8,10,5,Matrix2 3D ,6,4,Matrix2 Helical US ,6,3,Matrix2 Helical US ,6,1
+743,woman,46,ICA,3.1,3.4,3.1,3.3,18.20258,Simple,no,20,3,3,Kaneka ES,2,2,Kaneka ES,2,1.5,Kaneka ES,4,0
+744,woman,76,ICA,4.1,6.5,6.3,6.4,137.1552,Simple,yes,28.8,15,6,Matrix2 360 Soft,8,4,Matrix2 360 Soft,8,3,Matrix2 360 US ,8,1
+745,woman,40,ICA,4.7,5.5,4.7,5.1,68.99365,BAT,no,28.5,15,5,Matrix2 2D Std,6,3,GDC 10 US,6,3,GDC 10 US,5,1
+746,man,71,BA,7.4,9.3,9,9.2,402.9876,Stent assist,no,27.4,30,7,Matrix2 2D Std,15,7,Matrix2 360 Soft,15,7,Matrix2 360 Soft,20,2
+748,woman,34,ICA,3.2,3.5,3.4,3.5,21.79683333,Simple,no,31.1,8,4,Matrix2 360 Soft,4,2,Matrix2 360 US ,2,2,GDC 10 US,3,0
+749,woman,60,ICA,4.5,4.8,4.5,4.7,53.1288,BAT,yes,25.7,8,4,Matrix2 360 Std ,4,2,Matrix2 360 US ,4,2,Matrix2 360 US ,6,0
+751,woman,72,ICA,10.4,10.7,10.4,10.6,617.3072533,Double cathe,no,17.3,15,7,GDC 18 360° ,15,6,Matrix2 360 Soft,15,6,Matrix2 360 Soft,13,2
+753,man,60,ICA,5.7,10.6,8.3,9.5,437.4072333,Double cathe,no,20.9,20,9,GDC 18 360° ,15,6,GDC 18 360° ,15,5,Matrix2 360 Std ,10,2
+756,woman,47,ICA,5.5,5.4,4.6,5,64.998,BAT,yes,23.3,8,4,Matrix2 360 Soft,8,4,Matrix2 2D Soft,6,3,Matrix2 360 Soft,6,1
+758,woman,63,ICA,4.9,8,5.8,6.9,167.5504,BAT,no,27.2,15,6,GDC 18 360° ,8,4,GDC 10 US,8,4,GDC 10 US,7,2
+759,man,62,VA,9.5,9.8,7.9,8.9,360.5965533,Stent assist,no,28.7,20,9,GDC 18 360° ,30,7,GDC 18 2D,8,4,Matrix2 2D Soft,14,2
+761,woman,68,BA,12,16.1,12.4,14.3,1494.039213,Double cathe,no,17.8,30,12,GDC 18 360° ,30,10,GDC 18 2D,20,8,GDC 18 360° ,31,2
+762,woman,64,MCA,2.2,2.7,2.6,2.7,9.91926,Simple,no,38.8,6,2.5,Matrix2 Helical US ,1,1.5,Kaneka ES,,,,2,0
+763,woman,57,ICA,3,3.9,3.7,3.8,28.69646,Simple,no,31.4,6,4,Matrix2 360 Soft,4,3,Target ULTRA,4,2,Target 360°ULTRA,3,0
+764,man,33,ACA,3.9,6.1,5.6,5.9,105.4746933,Simple,no,22.9,10,5,Matrix2 360 Soft,8,3,Matrix2 360 Soft,4,3,Target ULTRA,7,1
+766,woman,67,ACA,2.9,4.8,3.5,4.2,36.9264,Simple,no,28,6,4,Matrix2 360 Soft,4,3,Target ULTRA,4,2.5,Target ULTRA,6,0
+768,woman,63,VA,4,7.3,6.8,7.1,184.4456933,Simple,no,19.7,10,6,Matrix2 360 Soft,8,4,Target ULTRA,8,4,Target ULTRA,8,2
+769,woman,34,ACA,4.1,4.9,4,4.5,46.158,Simple,yes,27,8,4,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2.5,Target 360°ULTRA,6,0
+772,woman,62,MCA,3.9,3.6,3.5,3.6,23.7384,Simple,no,21.1,6,3,Matrix2 360 Soft,3,2,Target 360°ULTRA,3,2,Target 360°ULTRA,5,0
+773,woman,46,ICA,4.3,3.6,3.5,3.6,23.7384,BAT,no,17.3,6,3,Matrix2 360 Soft,4,2.5,Target ULTRA,4,2,Target 360°ULTRA,4,0
+775,woman,69,BA,3.1,4.4,4.4,4.4,44.57962667,Simple,no,26.9,8,4,Matrix2 360 Std ,6,3,Target ULTRA,4,2,Target ULTRA,5,0
+777,woman,46,ICA,4.3,3.2,2.1,2.7,9.49536,Simple,no,26.4,6,3,Matrix2 360 Soft,3,2,Target 360°ULTRA,3,2,Target 360°ULTRA,5,0
+778,woman,57,MCA,3.6,3.4,2.7,3.1,14.89302,Double cathe,no,15.3,4,3,Matrix2 360 US ,3,2,Target ULTRA,2,2,Target ULTRA,3,0
+779,woman,68,ICA,2.7,4.3,3.4,3.9,29.83942,Simple,no,28.8,6,3,Matrix2 Helical US ,4,2,Target ULTRA,3,2,Target ULTRA,4,0
+780,woman,65,ICA,3.4,4.9,3,4,30.772,Simple,yes,32,8,4,Matrix2 360 Soft,6,3,Matrix2 Helical US ,2,2,Target ULTRA,4,0
+783,woman,67,ICA,4,6,5.9,6,111.156,Double cathe,no,27.4,15,5,Matrix2 360 Std ,8,3,Matrix2 360 Soft,6,3,Target 360°Soft,8,1
+787,woman,64,ICA,3.5,6.4,5.2,5.8,101.0158933,Simple,no,17,6,4,Matrix2 360 Soft,6,3,Matrix2 360 US ,4,3,Target 360°ULTRA,5,1
+788,man,70,ACA,4,5.6,5.2,5.4,82.29312,Simple,no,18.9,6,4,Matrix2 360 Soft,4,2.5,Matrix2 Helical US ,4,2.5,Target 360°ULTRA,7,1
+790,woman,62,ICA,6.8,7.1,7.1,7.1,187.3067567,Double cathe,no,26,15,6,Matrix2 360 Std ,15,5,Matrix2 2D Std,15,5,Target 360°STD,8,2
+791,woman,71,MCA,6.3,5.6,4.7,5.2,71.62549333,Double cathe,no,22.3,8,3,Matrix2 360 Soft,6,2.5,Matrix2 Helical US ,3,2,Target ULTRA,8,1
+792,woman,37,ACA,4.8,4.7,3.8,4.3,40.19095333,Simple,no,16.8,6,3,Matrix2 360 US ,4,2,Target ULTRA,3,2,Target ULTRA,4,0
+793,woman,58,ACA,3.8,5.6,3.9,4.8,54.86208,Simple,no,19.6,6,3,Matrix2 Helical US ,4,2.5,Target ULTRA,3,2,Target ULTRA,6,1
+795,woman,63,ICA,3,5.2,3.8,4,41.36426667,Simple,yes,22,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,2,2,Target ULTRA,5,1
+798,woman,66,ICA,8.8,9.7,6.5,8.1,267.26895,BAT,no,13.8,15,6,Matrix2 360 Std ,10,5,Matrix2 360 Soft,8,4,Target 360°Soft,7,2
+799,woman,60,ICA,5.1,5.9,5,5.5,84.91083333,Simple,no,24,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,8,3,Target 360°Soft,9,1
+800,woman,65,ICA,2.7,7.3,2.5,4.4,42.02366667,Simple,no,16.6,6,3,Matrix2 Helical US ,8,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,3,2
+801,woman,72,ICA,10.1,8.8,7.1,8,261.5829333,Stent assist,no,19.3,15,7,Matrix2 360 Std ,10,5,Matrix2 2D Soft,10,5,Matrix2 2D Soft,17,2
+805,man,57,MCA,4.2,8.2,5.6,7,168.2202667,Double cathe,no,27.5,10,6,Matrix2 2D Soft,10,5,Matrix2 360 Soft,8,4,Target 360°Soft,12,2
+806,woman,46,ICA,5.7,6.6,7.2,6.9,171.59472,BAT,no,25.7,15,6,Matrix2 360 Soft,10,5,GDC 10 SR 2D,10,5,GDC 10 SR 2D,17,1
+808,woman,70,ICA,8.2,6.3,6.1,6.2,124.69254,Simple,no,29.6,15,6,GDC 18 360° ,15,6,GDC 18 360° ,15,6,Matrix2 360 Soft,12,1
+809,woman,53,ICA,5.6,6.1,6.9,6.5,143.17615,BAT,no,14.4,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,6,3,Target ULTRA,6,1
+817,man,46,ICA,3.5,3.8,3.4,3.6,24.34128,BAT,no,24.6,8,4,Matrix2 360 Soft,4,3,Matrix2 Helical US ,4,2.5,Target ULTRA,5,0
+819,woman,68,MCA,2.6,4.2,4.3,4.3,40.64102,Double cathe,yes,22.9,6,3,Target 360°Soft,4,3,Matrix2 Helical US ,4,2,Target ULTRA,7,0
+820,man,32,BA,3.4,5.7,7.4,6.6,145.68972,Stent assist,yes,22.5,10,5,Matrix2 2D Soft,8,4,Matrix2 2D Soft,10,5,Target 360°ULTRA,8,1
+821,man,37,ICA,6.3,7.9,7.8,7.9,254.75762,BAT,no,22.4,15,7,GDC 18 360° ,15,6,GDC 18 soft,15,5,Matrix2 360 Std ,13,2
+822,woman,55,ICA,3.8,4.3,4.5,4.4,44.5566,Double cathe,no,20.5,8,4,Matrix2 360 Soft,4,3,Target ULTRA,2,2,Target ULTRA,5,0
+825,man,65,ICA,5.3,5.5,5.2,5.4,80.8236,BAT,no,23.1,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,6,4,Target ULTRA,8,1
+830,woman,58,ICA,4.7,5.4,4.9,5.2,72.00648,BAT,yes,26.4,10,5,Matrix2 360 Soft,8,4,Target 360°Soft,6,3,Target 360°ULTRA,11,1
+831,woman,60,ICA,7.6,5.8,7.7,6.8,158.9300533,BAT,no,28.9,15,6,GDC 18 soft,8,4,Matrix2 360 Std ,8,4,Matrix2 360 Std ,17,1
+834,woman,56,ICA,10.8,13.4,11.9,12.6,1051.47924,Stent assist,no,28.9,30,14,GDC 18 360° ,30,10,GDC 18 360° ,30,10,GDC 18 360° ,12,2
+835,woman,47,MCA,5,6.9,6.4,6.7,154.83968,Double cathe,no,20.9,15,6,Matrix2 360 Soft,8,4,Target 360°Soft,8,4,Target 360°Soft,11,1
+837,woman,63,BA,11.3,17.3,17.9,17.6,2852.267147,Stent assist,no,22.4,30,14,GDC 18 3D,30,14,GDC 18 2D,30,10,GDC 18 360° ,34,2
+839,woman,69,ICA,6.2,4.9,5.5,5.2,73.33993333,Stent assist,no,24.2,8,4,Matrix2 360 Soft,6,3,Target 360°Soft,4,3,Target 360°ULTRA,9,0
+840,woman,35,ICA,4.4,4.8,5.6,5.2,73.14944,BAT,no,19.3,8,4,Matrix2 360 Soft,8,4,Target 360°Soft,8,3,Target 360°Soft,5,0
+841,woman,38,ICA,4.1,5,5.5,5.3,76.27583333,BAT,no,20.7,10,5,Matrix2 360 Soft,6,4,Target ULTRA,6,4,Target ULTRA,7,1
+844,man,43,ICA,6.2,3.8,4.8,4.3,41.04608,Stent assist,no,26.6,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,3,Target ULTRA,6,0
+845,woman,43,ICA,6,4,5.1,4.6,49.1096,BAT,no,20,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,3,Target ULTRA,7,0
+848,man,53,VA,6.1,5.5,6.3,5.9,106.98765,Stent assist,no,13.7,8,4,Target 360°Soft,6,3,Target ULTRA,6,3,Target ULTRA,10,1
+851,woman,75,ICA,9.2,9.7,11.7,10.7,635.50617,Double cathe,no,18.3,20,8,GDC 18 360° ,20,8,Matrix2 2D Std,20,6,Matrix2 2D Std,23,2
+854,man,49,BA,2.1,2.5,1.3,1.9,3.231583333,BAT,no,17.8,4,2,Target ULTRA,2,2,Target ULTRA,,,,2,0
+858,woman,73,ICA,7.2,6.5,8.1,7.3,201.14055,Stent assist,no,24.6,15,5,Matrix2 360 Std ,6,3,Matrix2 360 Soft,6,3,Target ULTRA,17,1
+861,woman,60,BA,3.1,2.8,1.4,2.1,4.30808,BAT,no,40.2,4,2,Matrix2 360 US ,3,2,Target ULTRA,3,2,Target ULTRA,3,0
+864,woman,65,MCA,4,3.8,3.4,3.6,24.34128,Double cathe,no,21.3,4,2.5,Target 360°ULTRA,3,2,Target ULTRA,2,2,Target ULTRA,5,0
+865,woman,69,ICA,7.4,9.3,10.7,10,520.769,Double cathe,no,23.4,30,10,GDC 18 360° ,30,8,Matrix2 360 Std ,30,8,Matrix2 360 Std ,13,2
+866,woman,60,ICA,4.3,4.3,5.2,4.8,56.16832,BAT,no,32.7,8,4,Matrix2 360 Soft,4,3,Matrix2 Helical US ,4,3,Target ULTRA,8,0
+867,woman,58,BA,6.9,5.8,6.2,6,112.9144,Double cathe,no,24.3,10,5,Matrix2 3D ,8,3,Matrix2 360 Soft,6,3,Target 360°Soft,12,1
+868,woman,54,ICA,5.6,5.4,6.5,6,110.214,BAT,no,17.1,10,6,Matrix2 360 Soft,10,5,Matrix2 2D Soft,6,4,Target ULTRA,6,1
+869,woman,78,ICA,7.7,5.6,7.3,6.5,139.0601333,Double cathe,no,24.2,15,6,GDC 18 soft,10,6,Matrix2 360 Std ,15,5,Matrix2 2D Std,9,1
+870,woman,82,ICA,4.9,4.1,4.5,4.3,41.51865,Simple,no,28.6,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,7,0
+871,man,44,ICA,4.1,3.6,3.1,3.4,19.85736,Stent assist,yes,8.4,4,3,Matrix2 Helical US ,,,,,,,1,0
+872,man,55,ACA,4,4,4.2,4.1,36.0472,Double cathe,no,23.6,6,3,Matrix2 360 Soft,3,2,Target ULTRA,2,2,Target ULTRA,7,0
+875,woman,66,ICA,9.8,9.7,12.5,11.1,704.34125,Stent assist,no,21.9,30,10,GDC 18 360° ,30,8,GDC 18 2D,15,6,Matrix2 360 Std ,17,2
+877,woman,73,VA,7.7,5.8,7.3,6.6,146.24236,Simple,no,16.8,8,5,Matrix2 3D ,6,3,Matrix2 360 US ,4,2,Matrix2 360 US ,8,1
+878,woman,75,ACA,4.2,5.3,5.6,5.5,85.42893333,Double cathe,no,20.2,8,4,Matrix2 360 Soft,6,3,Target ULTRA,3,2,Target ULTRA,9,1
+879,woman,64,VA,3.6,2.8,3.1,3,13.6276,BAT,no,16.4,4,3,Target 360°ULTRA,1,2,Target ULTRA,1,2,Target ULTRA,3,0
+880,man,49,ACA,2.8,6.7,5.6,6.2,121.7398933,Simple,no,25.5,10,6,Matrix2 360 Std ,10,5,Matrix2 360 Soft,10,5,Target 360°Soft,8,1
+881,man,55,ICA,4.6,5.1,5.1,5.1,69.42069,BAT,no,26.2,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,8,3,Target ULTRA,5,1
+882,woman,68,ACA,7.4,7,9.4,8.2,282.3697333,Double cathe,no,25.8,15,6,GDC 18 360° ,10,6,Matrix2 360 Soft,10,5,Matrix2 2D Soft,14,2
+884,woman,69,ICA,5.8,3.6,3.2,3.4,20.49792,Stent assist,no,22.9,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,6,0
+885,woman,69,MCA,4.1,4.5,5.2,4.9,60.0054,BAT,no,23.8,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,8,0
+888,woman,61,MCA,6.1,5.5,7.4,6.5,138.4478333,Double cathe,yes,21.8,15,5,Matrix2 360 Std ,8,4,Target 360°ULTRA,8,4,Target 360°ULTRA,12,1
+889,man,57,ACA,5.3,5.9,6.3,5.6,108.93288,Double cathe,yes,30.1,15,5,Matrix2 360 Std ,8,3,Target 360°ULTRA,8,4,Matrix2 2D Soft,10,1
+890,woman,59,ICA,4.4,7.3,5.6,6.5,139.0601333,BAT,no,22.3,15,6,Matrix2 360 Std ,10,5,Matrix2 360 Soft,6,3,Matrix2 Helical US ,12,2
+891,man,79,ICA,6,7.1,9,8.1,270.8721,BAT,no,24.6,15,7,GDC 18 360° ,10,5,Matrix2 2D Soft,10,5,Matrix2 2D Soft,22,2
+893,woman,37,ICA,9,5.1,5.4,5.3,76.38678,Stent assist,no,22.3,8,3,Target 360°Soft,6,2,Target ULTRA,3,2,Target ULTRA,12,1
+894,woman,77,ICA,4.2,8.4,6.5,7.5,214.305,Simple,no,24.3,15,6,GDC 18 360° ,10,5,Matrix2 360 Soft,10,5,Matrix2 360 Soft,8,2
+897,man,54,ICA,3.4,4.2,3.4,3.8,28.39816,BAT,no,25.3,8,4,Matrix2 360 Soft,6,3,Target ULTRA,4,2.5,Target ULTRA,7,0
+898,man,61,MCA,6.8,7.2,8.1,7.7,235.01016,Double cathe,no,16.9,15,5,Matrix2 360 Soft,6,3,Target ULTRA,6,3,Target ULTRA,11,2
+901,woman,74,BA,5.8,4.1,5.7,4.9,59.92847,BAT,no,23,6,3,Target 360°Soft,3,2.5,Target ULTRA,3,2,Target ULTRA,8,0
+902,woman,70,ICA,2.4,3.8,3.2,3.5,22.27306667,Simple,no,21.4,6,3,Target 360°Soft,3,1.5,Target Nano Helical,3,1.5,Target Nano Helical,3,0
+905,woman,73,VA,6.4,6.6,5.5,6.1,115.8817,Simple,no,17.8,10,5,Matrix2 360 Soft,6,4,Target ULTRA,8,4,Target ULTRA,9,1
+909,man,50,ICA,3.4,3.4,3.5,3.5,21.79683333,BAT,no,27.2,8,4,Matrix2 360 Soft,4,3,Target ULTRA,3,1.5,Target Nano Helical,4,0
+910,woman,46,ICA,11,8.3,10.2,9.3,412.04022,Stent assist,no,38.7,20,9,GDC 18 360° ,20,8,GDC 18 360° ,15,6,GDC 18 360° ,20,2
+911,man,39,MCA,5.8,5.1,5.3,5.2,73.55764,Double cathe,no,24,8,4,Matrix2 360 Std ,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,11,1
+912,woman,60,ICA,3.6,3.8,4.2,4,33.4096,Double cathe,no,28,6,3,Matrix2 360 Soft,3,2,Target ULTRA,3,2,Target 360°ULTRA,9,0
+914,man,55,ICA,2.5,2.5,2.2,2.4,6.908,Double cathe,no,18.6,6,3,Target 360°ULTRA,3,2,Target 360°ULTRA,3,1.5,Target Nano 360,3,0
+915,woman,28,ICA,3.9,11.2,9.7,10.5,596.9768,Double cathe,no,26.1,20,9,GDC 18 360° ,30,8,Matrix2 360 Std ,15,7,GDC 18 360° ,16,2
+917,man,69,ACA,3.6,4.2,4.2,4.2,38.77272,Double cathe,no,23.7,8,4,Matrix2 360 Std ,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,9,0
+921,woman,70,MCA,4.2,4.3,3.9,3.9,34.22757,Double cathe,no,28.1,6,3,Matrix2 360 Soft,4,3,Target 360°ULTRA,3,2,Target 360°ULTRA,6,0
+922,woman,42,ICA,3.6,4.3,5.5,4.9,60.64648333,Double cathe,no,24.9,6,3,Matrix2 360 Soft,6,3,Target 360°Soft,4,2,Matrix2 360 US ,6,0
+923,woman,77,ICA,5.8,4.1,5.7,4.9,59.92847,Stent assist,no,17.3,8,3,Matrix2 360 Soft,6,2.5,Target ULTRA,4,2,Matrix2 Helical US ,5,0
+924,man,46,VA,6.1,6.4,7.6,7,178.1845333,Double cathe,no,19.7,15,5,Matrix2 360 Soft,8,4,Target ULTRA,10,3,Target 360°ULTRA,9,1
+926,woman,38,MCA,6.3,9.4,9.2,9.3,420.89816,Double cathe,no,23.4,20,8,GDC 18 360° ,20,8,Matrix2 360 Std ,15,6,GDC 18 soft,14,2
+928,woman,65,ICA,6,7.4,6.3,6.9,168.34482,Stent assist,no,23,15,5,Matrix2 360 Soft,8,4,Matrix2 360 Soft,8,4,Matrix2 360 Soft,8,2
+931,woman,65,ICA,4.5,5.6,5.1,5.4,80.71056,BAT,no,22.6,8,4,Matrix2 360 Soft,4,3,Target 360°ULTRA,6,3,Target 360°ULTRA,8,1
+933,man,53,ACA,5.3,4.4,6.1,5.3,74.44521333,Double cathe,yes,24.3,8,3,Matrix2 360 Soft,4,3,Target ULTRA,4,2.5,Target 360°ULTRA,10,0
+935,woman,57,MCA,3.9,4.4,4.6,4.5,47.6652,Double cathe,no,22.8,6,4,Matrix2 3D,3,2,Target 360°ULTRA,3,1.5,Target NANO 360,6,0
+936,woman,48,ICA,4.1,4.9,4.6,4.8,56.62048,Double cathe,no,21.7,8,4,Matrix2 360 Soft,6,3,Target ULTRA,6,3,Target ULTRA,8,0
+938,woman,61,ICA,4.1,5.9,4.5,5.2,72.2514,BAT,no,20.5,6,4,Matrix2 360 Soft,4,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,7,1
+939,woman,56,ICA,6,4.9,5.6,5.3,76.10941333,Stent assist,no,16.8,6,3,Matrix2 360 Soft,6,3,Target ULTRA,4,2.5,Target 360°ULTRA,6,0
+940,woman,69,ICA,8.6,11.9,11.7,11.8,859.79166,Stent assist,yes,17.8,20,8,GDC 18 360° ,15,7,Matrix2 360 Soft,15,6,GDC 18 soft,27,2
+942,man,49,ACA,4.2,6.3,6.2,6.3,128.78082,Simple,no,23.6,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,8,3,Target 360°Soft,8,1
+943,woman,71,ICA,16.6,11.2,16.2,13.7,1300.86432,Double cathe,no,14,30,10,GDC 18 360° ,30,10,GDC 18 3D,30,8,GDC 18 2D,11,2
+944,man,55,ICA,6.3,10.3,13.5,11.9,865.95705,Double cathe,no,24.6,30,10,GDC 18 360° ,20,8,GDC 18 360° ,20,8,Matrix2 360 Std ,19,2
+945,woman,53,ICA,6.1,4.3,5,4.7,52.88283333,Stent assist,no,20.6,8,3,Matrix2 360 Soft,6,3,Target ULTRA,6,2.5,Target ULTRA,6,0
+946,woman,46,ICA,3.7,4.5,3.5,4,32.97,Double cathe,no,26,6,4,Matrix2 360 Soft,6,3,Target ULTRA,3,1.5,Target Nano 360,4,0
+947,woman,65,ICA,6.8,4.4,5.3,4.9,59.80025333,Double cathe,no,29.5,6,4,Matrix2 360 Soft,8,3,Matrix2 360 Soft,8,3,Target ULTRA,10,0
+948,man,63,ICA,3.1,4.1,3.2,3.7,25.40469333,Double cathe,no,36.8,8,3,Matrix2 360 Soft,3,1.5,Target Nano 360,3,1.5,Target Nano 360,6,0
+949,woman,44,ICA,7,6.4,7.4,6.9,171.01696,Stent assist,no,28.4,8,4,Matrix2 360 Soft,8,4,Matrix2 360 Soft,8,3,Target Helical ULTRA,18,1
+950,man,71,VA,4,5.8,5.2,5.5,86.81053333,Double cathe,no,19.9,10,5,Matrix2 360 Soft,8,4,Target 360°ULTRA,8,3,Target 360°ULTRA,6,1
+953,woman,34,ICA,5.3,4.9,5.9,5.4,81.69966,BAT,no,24.6,10,5,Matrix2 360 Soft,8,4,Target Helical ULTRA,6,3,Matrix2 360 Soft,8,0
+954,man,64,ACA,2.3,6.3,4.5,5.4,80.1171,Simple,no,25.8,8,4,Matrix2 360 Soft,8,3,Matrix2 360 Soft,8,3,Matrix2 360 Soft,6,1
+956,woman,32,ACA,4.5,3.9,4.4,4.2,37.71768,Simple,no,27.2,8,4,Matrix2 2D Soft,6,3,Target Helical ULTRA,3,2,Target Helical ULTRA,5,0
+958,man,74,ACA,4.3,4.3,5.1,4.7,53.94049,Double cathe,no,27.1,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,6,0
+961,woman,73,ACA,3.6,3.3,4.2,3.7,26.83758,Simple,no,19.7,6,3,Matrix2 360 Soft,3,2,Target Helical ULTRA,3,1.5,Target Nano 360,3,0
+962,woman,76,ICA,4.1,4.4,4.4,4.4,44.57962667,Double cathe,yes,36.8,6,3,Matrix2 360 Soft,6,2,Target Helical ULTRA,4,2,Target Helical ULTRA,7,0
+963,man,60,BA,4.9,5.8,7.7,6.8,158.9300533,Simple,no,27.4,15,5,Matrix2 360 Std ,8,4,Matrix2 2D Soft,8,4,Matrix2 2D Soft,12,1
+964,woman,58,ACA,2.4,4.4,3.8,4.1,35.87554667,Double cathe,no,27.9,6,3,Target 360°ULTRA,6,2.5,Target Helical ULTRA,4,2,Target 360°ULTRA,6,0
+965,woman,67,ICA,2.8,7.1,4.4,5.8,94.82381333,BAT,no,28.3,15,5,Matrix2 360 Soft,8,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,3,2
+966,man,74,MCA,4,6.8,5.5,6.2,121.3505333,Double cathe,no,29.7,15,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,8,4,Matrix2 2D Soft,8,1
+967,woman,51,ICA,6,4.8,5,4.9,61.544,Stent assist,no,21.2,8,4,Matrix2 360 Soft,8,4,Target 360°ULTRA,8,3,Target Helical ULTRA,4,0
+968,woman,74,ACA,6.3,5.5,6.3,5.9,106.98765,Double cathe,no,21.1,8,4,Matrix2 360 Soft,8,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,8,1
+970,woman,73,ICA,3.4,4.1,4.5,4.3,41.51865,BAT,no,24,8,4,Matrix2 360 Soft,6,3,Matrix2 360 Soft,6,3,Target Helical ULTRA,5,0
+972,woman,57,ICA,7.1,6,7.7,6.9,166.8282,BAT,no,25.2,10,6,Matrix2 360 Std ,10,5,Matrix2 2D Soft,10,5,Target 360°ULTRA,12,1
+974,woman,74,ICA,5.1,5.6,5.7,5.7,95.21736,Double cathe,no,23.7,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,8,3,Target 360°ULTRA,8,1
+978,man,69,ICA,9.9,6.9,10,8.5,306.935,Stent assist,no,35.7,10,6,Matrix2 360 Soft,15,6,Matrix2 360 Soft,10,5,Target 360°Soft,14,1
+981,woman,64,ICA,3.8,4.4,3.5,4,32.23733333,BAT,no,24.4,8,3,Matrix2 360 Soft,3,2,Target Helical ULTRA,3,1.5,Target Nano Helical,5,0
+982,woman,65,BA,4.3,3.8,4.7,4.3,40.19095333,Simple,no,29.3,8,3,Matrix2 360 Soft,4,3,Matrix2 Helical US ,4,2.5,Target 360°ULTRA,7,0
+983,woman,72,ICA,6.3,9.5,6.9,8.2,281.2969,Stent assist,no,20,10,6,Matrix2 3D Std,15,5,Matrix2 360 Std ,10,5,Matrix2 2D Soft,8,2
+985,man,63,ACA,4.9,7.3,6.4,6.9,168.70592,Double cathe,no,21.4,10,6,Matrix2 360 Soft,10,6,Matrix2 360 Soft,10,5,Matrix2 360 US ,11,2
+986,man,77,ACA,5,4.2,5,4.6,50.554,Double cathe,no,28.7,4,3,Matrix2 3D Std,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,8,0
+988,woman,57,ICA,5.4,7.2,8.2,7.7,237.91152,BAT,no,24.3,15,6,Matrix2 360 Std ,10,5,Matrix2 2D Soft,10,5,Matrix2 2D Soft,12,2
+989,woman,65,ICA,4.8,4.4,5.8,4.8,64.10624,Stent assist,yes,28,15,4,Target 360°Soft,6,3,Matrix2 360 US ,6,3,Matrix2 360 US ,7,0
+990,woman,43,ICA,5.7,5.9,8.2,7.1,179.7639533,Double cathe,no,26.8,15,6,GDC 18 360° ,6,3,Matrix2 360 US ,8,4,Matrix2 360 Soft,13,1
+992,man,51,ICA,4,4,4.1,4.1,35.18893333,Double cathe,no,30.6,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,7,0
+993,woman,65,ICA,4,4.3,4.7,4.5,47.59455,BAT,no,30.7,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,6,3,Target Helical ULTRA,6,0
+994,man,52,MCA,2.6,2.1,1.4,1.8,2.76948,Double cathe,no,33.1,3,2,Target 360°ULTRA,3,1.5,Target Nano 360,3,1.5,Target Nano 360,3,0
+996,woman,68,ICA,4.5,5.2,7.1,6.2,119.7930933,Double cathe,no,26.3,8,4,Matrix2 360 Soft,8,3,Matrix2 360 Soft,4,3,Target 360°ULTRA,7,1
+997,woman,75,ICA,4.4,3.8,4.5,4.2,37.5858,Double cathe,no,27,8,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,4,2,Target Helical ULTRA,6,0
+1000,man,56,ACA,4.6,4.9,5.9,5.4,81.69966,Double cathe,no,31.1,8,4,Matrix2 360 Soft,6,3,Target 360°Soft,6,3,Target 360°Soft,13,0
+1001,woman,67,ICA,4.3,3.5,4.4,4,32.23733333,BAT,no,20.4,6,3,Matrix2 360 Soft,4,2.5,Target Helical ULTRA,3,1.5,Target Nano Helical,4,0
+1002,woman,64,ICA,3.6,4.7,4.9,4.8,57.85136,BAT,no,24,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,8,4,Target 360°Soft,7,0
+1003,woman,71,MCA,5.6,3.8,5.8,4.8,55.36448,Double cathe,no,27.8,8,4,Matrix2 360 Soft,6,4,Target Helical ULTRA,6,3,Target Helical ULTRA,9,0
+1004,woman,76,ICA,6.8,11.8,7.7,9.8,465.9906533,Double cathe,no,23.6,15,6,Matrix2 360 Std ,15,6,Matrix2 360 Soft,15,5,Matrix2 360 Soft,13,2
+1005,woman,66,ICA,4.6,5.6,5.6,5.6,91.90570667,Double cathe,no,17.8,6,3,Matrix2 360 Soft,6,3,Target 360°Soft,3,2,Target 360°ULTRA,7,1
+1007,woman,67,ICA,4.5,4.4,4.8,4.6,50.84288,Double cathe,yes,21.5,8,4,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2.5,Target 360°ULTRA,6,0
+1008,man,62,ICA,4.1,4.6,4.8,4.7,54.30944,Double cathe,no,17.5,6,4,Matrix2 3D Std,6,3,Target 360°Soft,4,2.5,Target 360°ULTRA,4,0
+1017,woman,69,MCA,5.4,3,3.5,3.4,18.683,Double cathe,no,22.3,3,2,Target Helical ULTRA,4,2.5,Target 360°ULTRA,3,1.5,Target Nano 360,4,0
+1022,man,57,MCA,4.1,4.5,3.5,4,32.97,Double cathe,no,17.3,4,3,Matrix2 360 US ,4,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,5,0
+1023,woman,66,BA,4.4,3.6,4.1,3.9,30.12516,Double cathe,no,,6,3,Matrix2 360 Soft,4,2,Matrix2 360 US ,3,2,Target Helical ULTRA,8,0
+1025,woman,58,ICA,7.7,4.9,5.8,5.4,80.31492,BAT,no,27.3,15,5,Matrix2 360 Std ,8,4,Target Helical ULTRA,10,3,Target Helical ULTRA,7,0
+1026,woman,66,ICA,2.9,4.8,4.4,4.6,50.84288,Double cathe,no,30.2,6,4,Matrix2 360 Soft,6,2,Target Helical ULTRA,4,2,Target Helical ULTRA,6,0
+1027,woman,62,ACA,2.9,3.1,3.5,3.3,18.73795,Double cathe,no,30.5,4,2.5,Target 360°ULTRA,4,2.5,Matrix2 Helical US ,3,1.5,Target NANO 360,4,0
+1028,man,39,ICA,4.4,3.8,4.6,4.2,38.42104,BAT,no,24,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,4,3,Target 360°ULTRA,8,0
+1029,woman,47,ICA,3.4,4.1,4.5,4.3,41.51865,BAT,no,30.3,8,3,Matrix2 360 Soft,4,3,Target Helical ULTRA,4,3,Target Helical ULTRA,5,0
+1031,woman,45,ICA,2.8,3.1,2.8,3,13.6276,Double cathe,no,25.7,6,3,Matrix2 360 Soft,4,2,Target Helical ULTRA,3,2,Target 360°ULTRA,5,0
+1032,woman,59,ICA,3.6,2.9,3.4,3.2,16.51221333,BAT,no,31,6,3,Target 360°Soft,3,2,Target Helical ULTRA,3,1.5,Target NANO 360,4,0
+1033,woman,73,ICA,4.5,5.3,5.2,5.3,76.44225333,Double cathe,no,27.9,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,4,2.5,Target Helical ULTRA,11,1
+1035,woman,75,ICA,9.4,7.5,9.5,8.5,316.94375,Stent assist,no,19.4,20,8,Matrix2 360 Std ,10,6,Matrix2 2D Soft,15,5,Matrix2 360 Soft,19,2
+1037,woman,50,ICA,3.6,4,4.8,4.4,44.2112,Double cathe,no,21.5,8,3,Matrix2 360 Soft,6,3,Target 360°Soft,6,3,Target 360°ULTRA,4,0
+1041,woman,66,MCA,4.1,4.1,3.8,4,32.61413333,Double cathe,no,36.2,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,6,3,Target 360°ULTRA,8,0
+1042,woman,61,MCA,7.2,7.8,7.8,7.8,248.34888,Double cathe,no,21,15,5,Matrix2 360 Std ,15,4,Target 360°Soft,10,3,Target Helical ULTRA,18,2
+1045,woman,71,ICA,4.2,4.9,4.7,4.8,57.85136,BAT,no,22.4,10,5,Matrix2 360 Soft,6,3,Target Helical ULTRA,4,2.5,Target 360°ULTRA,6,0
+1046,woman,75,BA,8.1,6.1,7.2,6.7,153.99816,Double cathe,yes,23.5,15,5,Matrix2 360 Std ,8,4,Matrix2 360 Std ,10,3,Target 360°ULTRA,12,1
+1047,man,57,VA,5.1,4.6,4.7,4.7,53.17799333,Stent assist,no,33.8,10,5,Matrix2 2D Soft,8,4,Target Helical ULTRA,6,3,Target 360°ULTRA,7,0
+1048,woman,45,ICA,3.2,3.1,3,3.1,15.0877,Double cathe,no,21.8,6,3.5,Target Helical ULTRA,4,2.5,Target 360°ULTRA,3,2,Target Helical ULTRA,3,0
+1050,woman,73,ICA,3.6,3.4,2.9,3.2,16.51221333,Double cathe,no,28.9,6,3,Matrix2 360 US ,3,2,Target 360°ULTRA,4,2,Matrix2 360 US ,5,0
+1051,woman,65,ACA,4.9,5.5,6.1,5.8,101.8354333,Double cathe,no,21.8,8,3,Matrix2 360 Soft,8,3,Target 360°ULTRA,8,3,Target 360°ULTRA,8,1
+1052,woman,54,ICA,3.4,4.3,3.6,4,32.4048,Simple,no,26.6,8,3,Matrix2 360 Soft,4,3,Target Helical ULTRA,4,2,Target 360°ULTRA,5,0
+1053,woman,70,ICA,3.9,2.7,3,2.9,12.2931,Stent assist,no,36.9,6,3,Matrix2 360 Soft,4,2,Target Helical ULTRA,3,1.5,Target NANO Helical,6,0
+1054,man,61,ICA,3.8,3.7,4.4,4.1,34.93145333,BAT,no,28,8,3,Matrix2 360 Soft,4,2,Target Helical ULTRA,4,2,Target 360°ULTRA,5,0
+1055,man,48,VA,7.5,7.4,7.8,7.6,229.57168,Stent assist,no,32.4,15,6,Matrix2 3D Std,20,6,Matrix2 2D Std,10,5,Target 360°Soft,17,2
+1056,woman,44,ICA,3.9,3.3,4.4,3.9,29.63532,BAT,no,24.9,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,6,0
+1059,woman,54,MCA,4.2,4.3,4.6,4.5,46.5819,Double cathe,no,20,6,3,Target 360°Soft,4,2,Target 360°ULTRA,3,2,Target Helical ULTRA,4,0
+1060,woman,57,MCA,4.5,4.6,4.8,4.7,54.30944,Stent assist,no,21.8,8,3,Matrix2 360 Soft,6,3,Target Helical ULTRA,4,2,Target 360°ULTRA,5,0
+1063,woman,59,ICA,4.8,5.4,6.3,5.5,97.9209,Double cathe,no,30.3,10,5,Matrix2 360 Soft,10,5,Target 360°Soft,8,3,Target 360°ULTRA,9,1
+1065,man,77,BA,5.7,6.5,7.3,6.9,171.34195,Double cathe,no,20.2,10,5,Matrix2 360 Soft,10,4,Target 360°STD,8,4,Target Helical ULTRA,12,1
+1067,man,54,ICA,3.1,2.8,2.3,2.6,8.762693333,BAT,no,24.2,6,3,Matrix2 360 Soft,3,1.5,Target NANO Helical,2,1.5,Target NANO Helical,4,0
+1068,man,43,ICA,3.5,3.9,3.2,3.6,23.51232,BAT,no,24.8,6,3,Matrix2 360 US ,4,2,Target Helical ULTRA,3,1.5,Target NANO Helical,4,0
+1069,woman,41,ICA,5.3,4.5,6.1,5.3,76.13715,Stent assist,no,25.1,6,3,Matrix2 360 Soft,6,2.5,Target Helical ULTRA,4,2.5,Target 360°ULTRA,8,0
+1072,woman,54,ICA,3.9,10,12.7,11.4,757.682,Double cathe,no,28.4,40,12,Axium 3D,30,10,Axium 3D,30,9,Matrix2 360 Std ,16,2
+1074,man,46,ICA,8.8,8.2,11.6,8.5,423.1254667,Stent assist,no,11.3,15,7,Matrix2 360 Std ,15,4,Target 360°Soft,10,3,Target 360°ULTRA,11,2
+1076,woman,67,BA,3.9,3,3.4,3.2,17.0816,Double cathe,no,18.4,6,2.5,Matrix2 Helical US ,4,2,Matrix2 360 US ,3,1.5,Target NANO Helical,4,0
+1077,woman,53,ICA,5.6,7.5,7.5,7.5,220.78125,BAT,no,26.4,15,7,Matrix2 360 Soft,15,6,Matrix2 360 Soft,15,6,Matrix2 360 Soft,11,2
+1081,woman,65,ICA,3.6,5.6,6.1,5.9,105.4746933,Double cathe,no,19.9,15,5,Matrix2 360 Soft,6,4,Target 360°ULTRA,6,3,Target 360°ULTRA,6,1
+1082,woman,46,ICA,5.1,5.4,4.8,5.1,69.18048,Stent assist,yes,21.5,8,4.5,Target Helical ULTRA,6,3,Target 360°ULTRA,4,2,Target 360°ULTRA,8,1
+1083,woman,70,MCA,6.8,4.7,6.7,5.7,93.93467,Double cathe,no,26.7,15,5,Matrix2 360 Std ,15,4,Target 360°Soft,8,4,Target 360°ULTRA,7,0
+1086,man,48,MCA,4.2,3.8,4.7,4.3,40.19095333,Double cathe,no,23.7,8,3,Target 360°Soft,4,2.5,Target Helical ULTRA,3,2,Target Helical ULTRA,5,0
+1087,woman,31,ICA,4,3,3.4,3.2,17.0816,Stent assist,no,23.7,6,3,Matrix2 Helical US ,6,3.5,Target Helical ULTRA,6,2,Target Helical ULTRA,3,0
+1088,woman,73,BA,8.4,10.3,10,10.2,549.814,Stent assist,yes,20.3,30,9,Axium 3D,30,8,Matrix2 360 Std ,20,8,Matrix2 360 Soft,10,2
+1089,woman,80,MCA,3.5,4.1,4.2,4.2,37.84956,Double cathe,no,20.7,8,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,6,0
+1093,woman,63,MCA,4.8,4.9,5.5,5.3,74.75031667,Double cathe,no,24.1,8,3,Matrix2 360 Soft,6,3,Target 360°ULTRA,6,3,Target Helical ULTRA,7,0
+1094,woman,58,ICA,5.6,5.4,7.3,6.4,132.03072,Stent assist,no,19.9,15,6,Matrix2 360 Soft,8,4,Target Helical ULTRA,6,3,Target 360°ULTRA,8,1
+1097,woman,45,ICA,4.8,3.8,5.4,4.6,49.39848,Stent assist,yes,24.6,15,4,Target 360°Soft,4,2,Matrix2 360 US ,2,2,Target Helical ULTRA,5,0
+1098,woman,70,ICA,3,5.2,3.9,4.6,48.82072,BAT,no,18.4,6,3,Target 360°ULTRA,4,2,Target 360°ULTRA,3,1.5,Target NANO 360,4,1
+1099,woman,69,ICA,4.2,4,4.3,4.2,37.8056,Stent assist,no,26.5,8,3,Target Helical ULTRA,6,2.5,Target Helical ULTRA,3,1.5,Target NANO 360,4,0
+1101,man,58,ICA,8.9,10.8,11.7,11.3,747.25092,Stent assist,no,19.7,30,10,GDC 18 360° ,20,8,Matrix2 360 Std ,20,7,Matrix2 360 Std ,15,2
+1102,woman,67,ICA,3.5,5,4.9,5,64.10833333,Double cathe,no,30,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,8,1
+1105,woman,58,ICA,3.9,4.6,3,3.8,27.4436,BAT,no,23.9,8,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,5,0
+1107,woman,67,ICA,3.3,6.3,4,5.2,68.5776,BAT,no,18.3,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,3,2,Target 360°ULTRA,3,1
+1108,woman,55,MCA,4,5.6,5.7,5.7,95.21736,Double cathe,no,35,12,4.5,Target 360°Soft,8,4,Target 360°ULTRA,6,3,Target 360°ULTRA,10,1
+1109,man,59,ACA,4,3.2,4,3.6,24.1152,Double cathe,no,12.8,4,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,3,1.5,Target NANO 360,3,0
+1110,man,47,ICA,4.6,5.2,7.8,6.5,137.9716,BAT,no,25,15,5,Matrix2 360 Soft,8,4,Target 360°Soft,10,3.5,Target 360°Soft,9,1
+1113,woman,75,ICA,4.8,6.5,3.8,5.2,67.21693333,Stent assist,yes,18.5,8,3.5,Target 360°ULTRA,8,3,Target 360°ULTRA,8,2,Target Helical ULTRA,3,1
+1116,woman,71,ICA,5.3,5.6,6,5.8,101.9872,Double cathe,no,25.1,15,5,Matrix2 360 Std ,10,5,Matrix2 360 Soft,8,4,Target 360°Soft,11,1
+1118,woman,66,ACA,3.6,3.8,4.7,4.3,40.19095333,Double cathe,no,18.9,6,3,Target 360°Soft,6,3,Target Helical ULTRA,3,2,Target 360°ULTRA,3,0
+1119,man,59,ICA,4.7,3.3,4,3.7,25.5596,Double cathe,no,29.1,8,4,Matrix2 3D Std,6,3,Target 360°Soft,4,2,Target 360°ULTRA,6,0
+1120,woman,63,ICA,3.8,7.7,4.4,6.1,108.1562533,Double cathe,no,25.1,12,4.5,Target 360°Soft,10,3,Target Helical ULTRA,6,3,Target 360°ULTRA,7,2
+1121,woman,61,ICA,6.2,7.9,7.8,7.9,254.75762,Simple,yes,28.5,20,8,Matrix2 360 Std ,15,7,Matrix2 360 Soft,15,7,Matrix2 360 Soft,13,2
+1125,woman,69,ICA,3.8,4.7,5.2,5,63.95133333,Simple,yes,21.2,8,3,Target 360°Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,5,0
+1126,woman,49,ICA,3.1,3.6,3.8,3.7,26.48904,Double cathe,no,21.3,6,3,Matrix2 360 Soft,6,2,Target Helical ULTRA,,,,2,0
+1130,woman,45,ICA,5.5,6.7,7.4,7.1,184.2227533,Double cathe,no,25.8,15,6,Target 3D,20,6,Target XL 360°Soft,8,3,Target 360°ULTRA,10,1
+1133,woman,65,ICA,7,8.1,6.7,7.4,210.16962,Double cathe,no,23.5,20,6,Target XL 360°Soft,6,4,Matrix2 360 US ,8,4,Matrix2 360 US ,18,2
+1134,woman,42,ICA,4.8,4.5,4.1,4.3,41.51865,BAT,no,22.1,8,3,Target 360°Soft,6,3,Target 360°ULTRA,4,2.5,Target Helical ULTRA,7,0
+1135,woman,46,ICA,3.5,4.9,4.2,4.6,49.54292,BAT,no,26.9,8,4,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,8,3.5,Target 360°ULTRA,8,0
+1136,man,64,ICA,3.9,4,4.3,4.2,37.8056,BAT,no,22.6,6,3,Matrix2 360 Soft,6,2.5,Target Helical ULTRA,3,1.5,Target NANO 360,4,0
+1137,man,58,BA,5.3,4.4,5.8,5.1,68.11288,Double cathe,no,19.6,8,3,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,2.5,Target Helical ULTRA,6,0
+1138,woman,44,BA,3.8,4.1,4.5,4.3,41.51865,Double cathe,no,23.3,8,3,Target 360°Soft,6,2.5,Target Helical ULTRA,6,2.5,Target Helical ULTRA,4,0
+1139,woman,66,ICA,3.3,4.7,4.6,4.7,53.17799333,BAT,no,16.8,8,3,Target 360°Soft,4,3,Target 360°ULTRA,4,2,Target Helical ULTRA,5,0
+1140,woman,44,ICA,5,4.4,5.5,5,63.32333333,Double cathe,no,20.5,12,4.5,Target 360°Soft,6,3,Target Helical ULTRA,6,3,Target Helical ULTRA,5,0
+1141,woman,74,BA,3.8,4.5,5.3,4.9,61.15935,Simple,no,22.5,8,4,Target 360°Soft,6,3,Target 360°ULTRA,4,2,Target 360°ULTRA,8,0
+1143,woman,72,ICA,4.4,6.9,4.9,5.9,104.39401,Double cathe,no,28.2,20,6,Target XL 360°Soft,8,4,Target Helical ULTRA,4,2.5,Target 360°ULTRA,6,1
+1145,man,70,ICA,4.8,3.7,5.1,4.4,43.45132,Double cathe,no,22.7,6,3,Target 3D,6,3,Target Helical ULTRA,6,2,Target Helical ULTRA,4,0
+1146,man,75,BA,7.3,8.9,9.7,9.3,420.16811,Double cathe,no,22.5,25,8,Target 3D,20,6,Target XL 360°Soft,20,6,Target XL Helical Soft,18,2
+1147,woman,64,ICA,5.3,7,5.6,6.3,129.2424,Double cathe,no,22.9,15,6,Target 3D,12,4.5,Target 360°Soft,8,4.5,Target Helical ULTRA,11,2
+1149,woman,60,ICA,3.1,3.9,4.5,4.2,38.5749,Double cathe,no,16.1,8,4,Target 3D,4,2.5,Target 360°ULTRA,3,1.5,Target NANO 360,3,0
+1150,woman,67,ICA,7.9,10.5,11.3,10.9,676.81915,BAT,yes,16.1,20,7,Target XL 360°Soft,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,14,2
+1151,man,62,ICA,2.9,3.9,2.6,3.3,17.51178,Simple,yes,27.1,4,2.5,Target 360°ULTRA,3,2,Target 360°ULTRA,2,1.5,Target NANO 360,4,0
+1152,woman,60,ICA,2.9,6.9,5,6,108.33,BAT,no,20.8,20,6,Target 360°Soft,15,4,Target 360°Soft,10,3.5,Target 360°Soft,6,1
+1154,woman,70,BA,3.8,5.2,3.7,4.5,45.3102,Simple,yes,21.8,8,3,Target 360°Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,4,1
+1156,man,50,ICA,4.9,8.3,7.9,8.1,277.95123,BAT,no,24.1,20,7,Target XL 360°Soft,15,6,Matrix2 360 Soft,10,6,Target 360°Soft,9,2
+1158,woman,76,ICA,3.9,5.7,4.2,5,62.643,Double cathe,yes,21.2,10,5,Matrix2 2D Soft,6,3,Target 360°Soft,6,3,Target 360°ULTRA,7,1
+1161,woman,77,ICA,3.6,5,4.5,4.8,56.52,Double cathe,no,21.7,10,4.5,Target 360°ULTRA,8,4,Target 360°ULTRA,4,2,Target Helical ULTRA,5,1
+1163,woman,68,ACA,3.8,3.2,3.9,3.6,23.51232,Double cathe,no,25.2,6,3,Matrix2 360 Soft,3,2,Target Helical ULTRA,3,2,Target 360°ULTRA,4,0
+1164,woman,42,ICA,3.5,3,3.2,3.1,15.5744,Double cathe,no,22,8,3,Target 360°Soft,6,2,Target Helical ULTRA,3,1.5,Target NANO 360,4,0
+1165,woman,59,ICA,6,5.7,5.8,5.8,100.34812,BAT,no,13.4,12,4.5,Target 360°Soft,4,3,Target Helical ULTRA,4,2,Target 360°ULTRA,6,1
+1166,woman,52,ICA,6.2,6,5.5,5.8,100.166,Stent assist,no,22.3,15,5,Matrix2 360 Soft,8,4,Target 360°Soft,10,3.5,Target 360°Soft,6,1
+1167,woman,50,ICA,2.3,4.8,4.1,4.5,46.3464,BAT,no,21.7,8,3,Matrix2 360 Soft,4,3,Target 360°ULTRA,6,2.5,Target Helical ULTRA,3,0
+1168,woman,61,ICA,4,3.8,4.2,4,33.4096,BAT,no,27.1,8,3,Target Helical ULTRA,4,3,Target Helical ULTRA,3,1.5,Target NANO 360,6,0
+1169,woman,34,ICA,4.3,4.4,5.8,5.1,68.11288,Double cathe,no,23.4,8,4,Matrix2 360 Soft,8,3,Target 360°Soft,4,2.5,Target Helical ULTRA,10,0
+1170,man,74,ACA,2.3,5.1,6.1,5.6,91.17304,Double cathe,no,21.3,8,4,Matrix2 360 Soft,8,4,Target Helical ULTRA,6,3.5,Target Helical ULTRA,11,1
+1171,woman,74,ICA,6,4.4,4,4.2,38.6848,BAT,no,15.2,15,4,Target 360°Soft,10,3,Target 360°ULTRA,8,2,Target Helical ULTRA,3,0
+1173,woman,78,ICA,6,4,6.4,5.2,69.66613333,Double cathe,no,26.6,15,6,Target 3D,8,4,Matrix2 360 Soft,8,4,Target Helical ULTRA,11,0
+1174,woman,37,ICA,3.2,3.3,3.9,3.6,24.24708,BAT,no,24.5,8,3,Matrix2 360 Soft,3,1.5,Target NANO 360,3,1.5,Target NANO 360,3,0
+1176,man,50,ICA,2.7,4.4,3.1,3.9,27.83924,BAT,no,31,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,4,0
+1178,woman,52,MCA,3.1,4.1,4.3,4.2,38.75074,Double cathe,no,19.1,6,3.5,Target Helical ULTRA,6,2,Target NANO Helical,4,2,Target NANO 360,3,0
+1179,woman,64,ACA,5.5,9.7,8.1,8.9,365.95287,Double cathe,no,19.5,20,7,Matrix2 360 Std ,20,8,Matrix2 360 Soft,15,5,Target 360°ULTRA,8,2
+1180,woman,53,ICA,4.3,4.9,6,5.5,84.623,BAT,no,20.7,15,5,Target 360°STD,6,3,Target NANO 360,6,3,Target NANO 360,6,0
+1181,man,57,ICA,3.1,3.9,3.9,3.9,31.04361,BAT,no,29.3,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,6,0
+1183,woman,71,ICA,3.2,5.1,5.3,5.2,73.55764,BAT,no,26.5,8,4,Matrix2 360 Soft,8,3,Target 360°Soft,4,2.5,Target 360°ULTRA,7,1
+1186,woman,54,ICA,3.4,3.4,3.8,3.6,24.34128,BAT,no,22.8,8,3,Matrix2 360 Soft,3,2,Target NANO 360,3,2,Target NANO 360,3,0
+1187,woman,79,BA,6.7,6.9,8.3,7.6,227.78188,Double cathe,no,17.8,15,5,Matrix2 360 Std ,10,3,Target Helical ULTRA,10,3,Target Helical ULTRA,15,1
+1188,woman,41,ICA,2.4,4.8,3.7,4.3,39.96592,BAT,no,30.5,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,3,2,Target NANO 360,5,0
+1192,woman,69,ICA,5.9,7.7,6.4,7.1,183.1080533,Double cathe,no,20.2,10,5,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,6,3,Target NANO 360,11,2
+1195,man,73,BA,4.5,4.4,5,4.7,54.11266667,Simple,no,26.4,12,4.5,Target 360°Soft,8,3.5,Target 360°ULTRA,6,3,Target NANO 360,7,0
+1196,woman,66,ICA,3,3.3,3.8,3.6,23.62536,BAT,yes,30,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,4,0
+1197,woman,43,ACA,3.1,5.3,3.4,4.4,41.49405333,Simple,no,19.2,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,4,2.5,Target NANO 360,4,1
+1198,man,44,MCA,3.1,5.5,4.6,5,66.20166667,Double cathe,no,19.9,8,4,Matrix2 360 Soft,4,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,4,1
+1199,man,52,ICA,4.6,3.7,3.9,3.8,28.69646,Double cathe,no,22.2,8,3,Matrix2 360 Soft,4,2,Target NANO 360,4,2,Target NANO 360,4,0
+1200,man,53,MCA,3.6,4,3.4,3.7,26.33413333,Double cathe,no,21.4,4,3,Matrix2 3D Std,6,2,Target NANO Helical,3,1.5,Target NANO 360,3,0
+1201,woman,77,ACA,4.9,10.1,7.5,8.8,348.854,Double cathe,no,26.6,20,7,Target XL 360°Soft,10,5,Matrix2 2D Soft,12,4.5,Target 360°Soft,21,2
+1202,woman,50,ICA,3,4.9,4.3,4.6,50.72251333,BAT,no,21.9,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,4,2.5,Target 360°ULTRA,3,0
+1203,woman,70,ICA,5.9,5.6,5.9,5.8,100.2874133,BAT,no,28,10,5,Matrix2 360 Soft,8,4,Matrix2 360 Soft,8,4,Target 360°ULTRA,10,1
+1204,woman,39,ICA,1.7,3.6,2.6,3.1,15.18504,Simple,yes,34.5,4,3,Target 360°ULTRA,4,2,Target NANO 360,3,1.5,Target NANO 360,3,0
+1206,man,59,ICA,7.5,5.5,7.7,6.6,146.2769,Stent assist,no,25.7,15,6,Matrix2 360 Soft,15,6,Matrix2 360 Soft,10,5,Matrix2 360 Soft,9,1
+1207,woman,44,ICA,3.9,3.9,4.7,4.3,41.24861,BAT,no,20.9,10,3.5,Target 360°Soft,4,2,Target NANO 360,4,2,Target NANO 360,4,0
+1208,woman,61,ACA,5.9,4.4,6.1,5.3,74.44521333,Simple,yes,21.9,8,4,Matrix2 360 Soft,4,3,Target Helical ULTRA,4,2.5,Target 360°ULTRA,9,0
+1210,man,68,ICA,3.9,7,6.3,6.7,154.6293,Double cathe,yes,18.5,15,5,Matrix2 360 Soft,6,3,Target 360°Soft,4,2.5,Target Helical ULTRA,9,2
+1212,woman,74,ICA,7.2,7,6.4,6.7,157.0837333,Stent assist,no,24.1,15,6,Matrix2 3D Std,10,5,Target 360°Soft,8,4.5,Target Helical ULTRA,10,2
+1213,woman,67,ICA,3.6,4.3,4.5,4.5,45.56925,BAT,no,20.8,6,4,Matrix2 360 Soft,6,3,Target NANO 360,4,2.5,Target NANO 360,5,0
+1214,woman,27,ICA,3.6,6,6.1,6.1,116.8394,Double cathe,no,25.2,15,5,Matrix2 360 Soft,8,4,Target 360°Soft,6,4,Target 360°Soft,8,1
+1216,woman,74,ICA,4.3,3,2.7,2.9,12.2931,Stent assist,no,24.7,6,4,Matrix2 3D Std,6,3,Target Helical ULTRA,4,2,Target NANO Helical,5,0
+1218,man,48,ICA,3.4,2.5,3.1,2.8,11.35633333,Double cathe,no,19.5,4,3,Matrix2 360 US ,4,2,Target 360°ULTRA,4,2,Target NANO Helical,4,0
+1219,man,74,ACA,4.7,3,3.1,3.1,15.0877,Double cathe,no,30.4,8,3,Matrix2 360 Soft,6,3,Target Helical ULTRA,4,2.5,Target NANO 360,4,0
+1220,woman,49,MCA,5.6,5.9,7.1,6.5,142.4958167,Double cathe,no,23.7,8,4,Matrix2 360 Std ,8,3,Matrix2 360 Soft,4,2.5,Target Helical ULTRA,11,1
+1221,woman,64,ICA,2.2,5,3.9,4.5,45.9225,Simple,no,28.4,6,4,Matrix2 360 Soft,4,3,Target Helical ULTRA,4,2.5,Target 360°ULTRA,6,1
+1223,woman,81,ICA,3.7,4.2,3.2,3.7,26.02432,Simple,no,24,6,3,Matrix2 360 Soft,3,2,Target 360°ULTRA,2,2,Target NANO Helical,4,0
+1224,woman,66,ICA,4.2,5.7,4.7,5.2,72.90452,Double cathe,no,22.6,8,4,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2.5,Target 360°ULTRA,8,1
+1225,woman,62,ICA,3.3,5.1,4.7,4.9,61.46707,BAT,no,23.2,10,5,Target 360°Soft,8,5,Matrix2 3D Std,8,3.5,Target 360°ULTRA,5,1
+1226,man,62,ACA,5.6,4.8,5,4.9,61.544,Double cathe,no,28.7,8,4,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,8,0
+1227,man,58,ICA,4,3.9,4.4,4.2,37.71768,Double cathe,no,26.3,8,3,Matrix2 360 Soft,4,2.5,Target 360° ULTRA,3,2,Target Helical Nano,4,0
+1228,woman,61,ICA,3.7,2.7,3.5,3.1,15.33105,Double cathe,no,20.1,4,3,Matrix2 360 US ,4,2,Target NANO 360,,,,2,0
+1233,woman,55,ICA,7.8,6.6,8.1,7.4,207.03276,Double cathe,no,20.6,15,5,Matrix2 360 Soft,8,4,Matrix2 360 Soft,8,4,Target 360°ULTRA,10,1
+1234,woman,41,ICA,3.4,4.9,3.6,4.3,39.69588,Stent assist,no,22.4,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,2,2,Target NANO Helical,3,0
+1235,woman,36,ICA,4,3.9,3.9,3.9,31.04361,Double cathe,no,30.7,8,3.5,Target 360°ULTRA,4,2.5,Target NANO 360,4,2.5,Target NANO 360,5,0
+1237,woman,41,ACA,4.9,8.2,5.3,6.8,154.6596533,Double cathe,no,34.1,20,7,Target XL 360°Soft,8,3,Target 360°ULTRA,8,3,Target 360°ULTRA,14,2
+1239,man,63,ICA,2.4,5.1,4.9,5,65.3905,Double cathe,no,28.5,8,4,Matrix2 360 Soft,6,4,Target 360°ULTRA,6,3,Target NANO 360,6,1
+1240,woman,27,ICA,5.8,8.7,6.2,7.5,211.7145,Double cathe,no,25.1,15,5,Matrix2 360 Std ,15,5,Matrix2 360 Soft,10,3,Target 360°ULTRA,13,2
+1243,man,59,ICA,2.7,4,3.7,3.9,30.2068,Simple,no,23.8,8,3,Matrix2 360 Soft,3,2,Target NANO 360,3,2,Target NANO 360,4,0
+1246,woman,71,ICA,2.7,6,5.3,5.7,94.8594,Double cathe,no,23,10,5,Matrix2 360 Soft,6,4,Target 360°Soft,8,3,Target 360°ULTRA,5,1
+1247,woman,57,ICA,4.8,6.1,6.7,6.4,136.8872533,Stent assist,no,26,10,5,Matrix2 3D Std,15,4,Target 360°Soft,8,4,Target Helical ULTRA,9,1
+1248,man,49,BA,6.6,5.7,6.7,6.2,123.91382,Stent assist,no,27.8,15,5,Matrix2 360 Std ,8,4,Target 360°Soft,8,4,Target 360°Soft,14,1
+1249,woman,47,ICA,4.7,5.4,8.1,6.8,155.65608,Double cathe,no,34.2,20,6,Target XL 360°Soft,8,4,Target 360°Soft,8,4,Target 360°Soft,7,1
+1250,man,67,ACA,4.4,8.2,6.1,7.1,185.8576467,Double cathe,no,28.1,10,5,Matrix2 360 Soft,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,15,2
+1252,woman,54,ICA,4.6,4,4.9,4.4,45.13226667,Double cathe,no,26.5,12,4.5,Target 360°Soft,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,6,0
+1253,woman,46,ICA,4.4,4.2,4.5,4.4,43.5204,Stent assist,no,34.5,6,4,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,4,2,Matrix2 Helical US ,8,0
+1256,woman,55,ICA,4.2,5.5,3.4,4.4,43.05986667,Stent assist,no,26.8,6,3,Matrix2 360 Soft,4,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,5,1
+1257,woman,43,ICA,4.7,4.5,6.2,5.4,78.8454,Double cathe,no,24,8,4,Matrix2 360 Soft,6,3.5,Target Helical ULTRA,6,3.5,Target Helical ULTRA,7,0
+1259,woman,63,ICA,3.9,5.2,4.5,4.9,60.0054,BAT,no,30,10,5,Matrix2 360 Soft,8,4,Target Helical ULTRA,8,3.5,Target 360°ULTRA,5,1
+1261,man,48,ICA,5.5,4.4,3.7,4.1,34.93145333,Stent assist,no,22.5,8,4,Target 360°Soft,4,3,Target 360°ULTRA,4,3,Target NANO 360,5,0
+1263,woman,50,ICA,4,5.3,5.2,5.2,74.99994667,BAT,no,23.9,10,5,Matrix2 360 Soft,6,4,Target 360°ULTRA,6,4,Target 360°ULTRA,6,1
+1264,woman,72,MCA,9.5,10.5,8.5,9.5,443.72125,Double cathe,no,26.3,30,8,Target XL 360°Soft,30,8,Target XL 360°Soft,30,7,Matrix2 2D Std,14,2
+1265,woman,73,ICA,4.7,7.2,5.5,6.3,130.5612,Double cathe,no,22.2,10,6,Matrix2 360 Soft,10,3.5,Target 360°Soft,8,3,Target 360°Soft,9,2
+1266,woman,79,ICA,3.6,4.1,5,4.6,49.35033333,Simple,no,26.7,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,5,0
+1267,woman,49,ICA,4,6.7,6.2,6.5,141.3052333,Double cathe,no,28.1,20,6,Target 360°Soft,20,5,Target 360°Soft,8,4,Target 360°ULTRA,9,1
+1269,man,50,MCA,4.7,3.8,5.2,4.5,46.5348,Double cathe,no,22.1,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,4,0
+1270,woman,54,ICA,2.3,3.9,3.7,3.8,28.69646,BAT,no,23.6,6,3,Matrix2 360 Soft,4,2.5,Target Helical ULTRA,3,2,Target NANO 360,3,0
+1271,man,20,ICA,4.6,4.9,4.3,4.6,50.72251333,BAT,no,26.2,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,6,3,Target Helical ULTRA,6,0
+1272,woman,74,ICA,4.4,4.3,5,4.7,52.88283333,Double cathe,no,24.4,6,4,Matrix2 360 Soft,8,3,Target 360°Soft,6,2.5,Target Helical ULTRA,6,0
+1273,woman,72,VA,8.7,9.4,11.3,10.4,578.1200533,Double cathe,no,19.7,30,8,Target XL 360°Soft,20,7,Matrix2 360 Std ,15,6,Matrix2 360 Soft,14,2
+1275,woman,80,ACA,4.5,4.1,4.8,4.5,46.3464,Double cathe,no,26.9,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,6,0
+1277,woman,50,ICA,3.4,5.3,3.9,4.6,49.75958,Simple,no,24.6,8,3,Target 360°Soft,4,2.5,Target 360°ULTRA,4,2.5,Target 360°ULTRA,7,1
+1279,woman,55,ICA,3.5,5.1,4.9,5,65.3905,BAT,no,27.8,8,4,Matrix2 360 Soft,6,3.5,Target Helical ULTRA,6,3,Target Helical ULTRA,7,1
+1280,woman,65,ICA,4.9,4.1,5.3,4.7,53.44855667,Stent assist,no,22.8,12,4.5,Target 360°Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,7,0
+1281,woman,75,ICA,5.5,4.7,4.1,4.4,44.37238667,Double cathe,yes,28.8,8,3,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,7,0
+1283,woman,74,ICA,5.2,3.6,4.5,4,33.912,Stent assist,no,27.4,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,5,0
+1284,woman,51,ICA,5.9,4.7,6.7,5.7,93.93467,Double cathe,no,27.5,10,5,Matrix2 3D Std,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,8,0
+1286,man,52,ICA,2.5,4.2,4,4.1,36.0472,BAT,no,23.4,6,3,Target 360°Soft,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,4,0
+1287,woman,47,ICA,3.1,5.2,3.3,4.3,38.61572,Simple,no,30.9,6,4,Matrix2 360 Soft,4,3,Target 360°ULTRA,4,2.5,Target NANO 360,6,1
+1288,woman,72,ACA,4.3,4.6,5.9,5.3,75.27731333,Double cathe,no,24.3,6,3,Matrix2 360 Soft,6,2.5,Target Helical ULTRA,4,2,Target 360°ULTRA,6,0
+1289,man,61,BA,5.8,4.1,6.2,5.2,69.17629333,Double cathe,no,27.9,12,4.5,Target 360°Soft,6,4,Matrix2 360 US ,8,3,Target 360°ULTRA,9,0
+1290,man,68,MCA,4.2,4.2,4.3,4.3,40.64102,Double cathe,yes,26.1,8,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,6,0
+1291,man,68,ACA,5.2,6.6,6.1,6.4,134.84416,Double cathe,no,23.1,10,5,Matrix2 360 Soft,12,4.5,Target 360°Soft,8,3,Target 360°ULTRA,11,1
+1292,woman,74,ICA,6.8,8.5,10.1,9.3,417.83195,Double cathe,yes,29.2,30,9,Target XL 360°STD,30,8,Target XL 360°Soft,15,6,Matrix2 360 Std ,11,2
+1295,man,67,ICA,3.9,3.7,3.9,3.8,28.69646,Stent assist,no,41,8,3,Matrix2 360 Soft,6,2,Target NANO Helical,4,2,Target NANO Helical,4,0
+1296,woman,62,ICA,3.8,4.2,4.2,4.2,38.77272,BAT,no,26.9,10,3.5,Target 360°Soft,6,3,Target NANO 360,4,2,Target NANO Helical,8,0
+1300,woman,60,MCA,5,5.1,6.4,5.8,99.07328,Double cathe,no,24.9,8,3,Matrix2 360 Soft,4,2.5,Target NANO 360,4,2,Target NANO 360,10,1
+1301,woman,43,ICA,6.2,5.8,5.3,5.6,90.08869333,Stent assist,no,37.8,10,5,Matrix2 360 Soft,8,4,Cashmere14,8,4,Cashmere14,10,1
+1302,woman,81,BA,11,14.8,19,16.9,2487.026533,Double cathe,no,18.9,40,10,Target XL 360°Soft,30,9,Matrix2 360 Std ,10,5,Target 360°ULTRA,25,2
+1304,man,57,ACA,4.1,4.2,4.9,4.5,48.4659,Double cathe,no,37.4,8,3,Matrix2 360 Soft,4,2,Target NANO 360,4,2,Target NANO 360,11,0
+1305,woman,76,ICA,2.2,5.2,5.5,5.6,83.81706667,Simple,no,30.5,8,4,Target 360°Soft,6,3,Target 360°Soft,4,2,Target Helical ULTRA,9,1
+1306,woman,66,ICA,5.1,4.6,5.6,5.1,68.75344,Double cathe,no,25,8,3,Matrix2 360 Soft,8,3,Matrix2 360 Soft,4,2,Target NANO Helical,7,0
+1307,woman,52,ICA,2.2,6.2,3.7,5,60.02633333,Simple,no,26.7,8,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,5,1
+1308,woman,67,ICA,5,5.6,5.8,5.7,96.88784,Stent assist,no,32,8,4,Matrix2 360 Soft,8,4,Target 360°ULTRA,6,4,Target 360°ULTRA,11,1
+1309,woman,69,ICA,5,6.3,6.3,6.3,130.85793,Double cathe,no,26.9,15,5,Target XL Helical Soft,10,5,Target 360°Soft,8,4,Target 360°ULTRA,6,1
+1310,man,72,ACA,3.2,7.3,4.7,6,107.7334,Double cathe,no,20.9,10,5,Matrix2 360 Soft,12,4.5,Target 360°Soft,6,3,Target 360°ULTRA,4,2
+1311,woman,48,ICA,3,4.8,3.9,4.3,42.12624,Simple,no,24.2,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,4,0
+1312,man,53,ICA,4.1,7.4,7.6,7.5,220.742,Double cathe,no,26.5,15,5,Matrix2 360 Soft,8,4,Target 360°Soft,8,4,Target 360°Soft,14,2
+1313,man,46,ACA,4.2,9.3,7.6,8.4,310.70928,Double cathe,no,27.3,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,10,5,Target XL Mini 360 Soft,17,2
+1314,man,54,ICA,5.4,7.1,7.5,7.3,203.43275,Double cathe,no,24.6,15,5,Matrix2 360 Soft,15,4,Target 360°Soft,6,2.5,Target Helical ULTRA,12,2
+1315,woman,66,ICA,3.4,5.8,4.7,5.3,75.61015333,Simple,yes,28.6,15,5,Matrix2 360 Std ,8,4,Target 360°Soft,8,3,Target 360°Soft,5,1
+1316,woman,76,ICA,7.7,6.2,5.5,5.9,105.2894333,Double cathe,no,21.2,10,6,Target 360°Soft,12,4.5,Target 360°Soft,8,3,Target 360°ULTRA,6,1
+1318,woman,58,ICA,4,4.1,3.2,3.7,25.40469333,Stent assist,no,15.9,6,3,Target 3D,4,2.5,Target NANO 360,,,,2,0
+1319,woman,34,ICA,2.4,4.2,3.7,4,32.5304,Double cathe,yes,33,8,3,Target 360°Soft,6,3,Target 360°Soft,3,2,Target NANO 360,4,0
+1321,woman,66,ICA,4.3,5.2,5,5.1,69.394,BAT,no,22.2,12,4.5,Target 360°Soft,6,3,Target 360°Soft,4,3,Target 360°ULTRA,7,1
+1323,woman,73,ICA,6.6,10.8,13.5,12.2,930.8844,Double cathe,no,22.1,40,10,Target XL 360°STD,30,8,Target XL 360°Soft,20,6,Target XL 360°Soft,10,2
+1328,woman,28,ICA,4.2,5.6,3.6,4.6,48.53184,BAT,no,23.6,6,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,2,Target NANO 360,4,1
+1329,woman,62,ICA,2.2,4.2,3.7,4,32.5304,BAT,no,35,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,5,0
+1331,woman,60,ICA,5.1,5.2,6.2,5.7,96.17192,Double cathe,no,33.7,10,6,Matrix2 360 Soft,10,5,Matrix2 360 Soft,6,4,Target 360°ULTRA,12,1
+1332,woman,66,ICA,8.2,7.8,7.9,7.8,251.53284,Stent assist,no,27.9,20,7,Target XL 360°Soft,10,5,Target 360°Soft,12,4.5,Target 360°Soft,20,2
+1333,woman,37,ICA,4,3.2,4.1,3.7,25.40469333,Double cathe,no,31.2,6,3,Matrix2 360 Soft,3,2,Target Helical ULTRA,3,2,Target NANO 360,4,0
+1334,woman,72,ICA,7.5,6.7,7.9,7.3,202.2102433,Stent assist,no,29.8,20,6,Target XL 360°Soft,10,5,Target XL Mini 360 Soft,12,4,Target XL Mini 360 Soft,6,1
+1336,woman,62,ACA,3,4.4,5.3,4.9,59.80025333,Double cathe,no,24.4,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,5,0
+1337,man,48,ACA,5.1,6.9,5.8,6.4,134.04032,Double cathe,no,31.7,20,5,Target 360°Soft,10,5,Target 360°Soft,8,4,Target 360°ULTRA,16,1
+1338,woman,68,ACA,3.7,3.5,3.8,3.7,25.75323333,Double cathe,no,30.3,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target NANO 360,5,0
+1340,woman,63,ICA,7.2,6.9,9.1,8,262.8808,Double cathe,no,30.1,30,8,Target XL 360°Soft,20,6,Target XL 360°Soft,10,5,Target 360°Soft,6,1
+1342,woman,66,ICA,4.9,4.1,3.8,4,32.61413333,Stent assist,no,25.5,4,2.5,Target 360°ULTRA,6,2,Target Helical ULTRA,4,2,Target NANO 360,6,0
+1343,woman,69,ICA,3,4.3,3,3.6,24.3036,Stent assist,no,25.1,4,2.5,Target 360°ULTRA,4,2,Target NANO 360,3,2,Target NANO Helical,4,0
+1344,man,54,VA,5.7,3.2,4.6,3.9,30.04352,Stent assist,no,28.8,10,3.5,Target 360°Soft,4,2.5,Target 360°ULTRA,4,2.5,Target 360°ULTRA,6,0
+1345,woman,72,ICA,3.6,3.5,3,3.3,18.1335,Stent assist,no,41.3,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,3,2,Target NANO 360,6,0
+1347,man,60,ICA,3.2,3.8,3.7,3.8,27.96065333,Double cathe,no,31.2,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,4,0
+1348,man,58,ICA,4.2,5.6,5.1,5.4,80.71056,Double cathe,no,26.1,10,5,Matrix2 360 Soft,10,4.5,Target 360°ULTRA,8,4,Target 360°ULTRA,8,1
+1349,woman,49,ICA,4.5,6.8,6.7,6.8,162.1328533,BAT,no,24.5,15,5,Matrix2 360 Soft,10,5,Matrix2 360 Soft,12,4.5,Target 360°Soft,9,1
+1351,woman,58,BA,2.4,4.4,3.7,4.1,34.93145333,Double cathe,no,30.1,6,3,Matrix2 360 Soft,3,2,Target 360°ULTRA,2,2,Target NANO Helical,5,0
+1352,woman,68,MCA,4.1,4.3,4.4,4.4,43.56645333,Double cathe,no,28.1,4,2.5,Target 360°ULTRA,6,3,Matrix2 360 Soft,3,2,Target NANO 360,6,0
+1353,woman,56,ICA,3.4,5.1,4.8,4.9,62.77488,Double cathe,no,26.5,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,6,3,Target NANO 360,6,1
+1354,man,50,ICA,2.9,7.9,4.5,6.2,115.3479,Double cathe,yes,35.2,10,5,Matrix2 360 Soft,6,3,Target NANO 360,6,3,Target NANO 360,8,2
+1355,woman,41,ICA,4.6,4.7,4.7,4.7,54.33403667,BAT,no,28.2,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,6,3,Target 360°ULTRA,6,0
+1358,woman,65,ICA,4.6,5.8,4.3,5.6,73.09082667,Stent assist,no,24.4,8,4,Matrix2 360 Soft,6,3,Target 360°Soft,4,3,Kaneka ES,7,1
+1362,woman,50,ICA,4.1,4,3.4,3.7,26.33413333,Stent assist,no,24,8,3,Target 360°Soft,4,2.5,Target NANO 360,3,2,Target NANO 360,3,0
+1363,woman,48,ICA,4.3,3.6,4.5,4.1,34.7598,BAT,no,24.9,8,4,Matrix2 360 Soft,4,3,Target NANO 360,3,1.5,Target NANO 360,4,0
+1364,woman,54,ICA,4.2,4.4,4.6,4.5,47.6652,Stent assist,no,38.5,10,5,Matrix2 360 Soft,8,4,Target 360°ULTRA,6,3,Target 360°ULTRA,10,0
+1367,woman,71,ICA,2.7,3.9,4,3.9,31.8396,Double cathe,no,40.2,6,3,Target 360°ULTRA,4,2,Target NANO 360,4,2,Target NANO 360,5,0
+1368,woman,76,ICA,4.7,5.8,5.8,5.8,102.1086133,Double cathe,yes,24.9,10,5,Target XL Mini 360 Soft,8,4,Target 360°ULTRA,6,3,Target 360°ULTRA,10,1
+1369,woman,43,ICA,4.9,3.9,4.9,4.4,44.00396,Stent assist,no,30.9,8,4,Matrix2 360 Soft,6,3,Target 360°Soft,6,3,Kaneka ES,7,0
+1370,woman,55,MCA,5.7,4.2,5.1,4.7,52.68606,Stent assist,no,26.6,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2.5,Target 360°ULTRA,9,0
+1371,woman,66,ICA,6.1,4.9,4.7,4.8,57.85136,Double cathe,no,33.9,10,5,Matrix2 360 Soft,6,3.5,Target Helical ULTRA,8,3.5,Target 360°ULTRA,9,0
+1372,woman,61,MCA,8.6,6.3,7.9,7.1,184.92873,Stent assist,no,24.3,15,5,Matrix2 360 Soft,15,4,Target 360°Soft,15,4,Target 360°ULTRA,9,1
+1373,woman,35,ACA,3.5,5.2,4.9,5.1,68.00612,Double cathe,yes,31.2,6,4,Target 360°Soft,4,3,Matrix2 360 US ,4,3,Target 360°ULTRA,8,1
+1374,man,48,ICA,4.1,6.6,4.5,5.6,87.0408,Double cathe,no,28.1,8,4,Matrix2 360 Soft,8,4,Target 360°Soft,10,3,Target 360°ULTRA,8,1
+1375,woman,61,ICA,3.7,5.2,5.5,5.3,79.32686667,Double cathe,no,26.9,10,5,Matrix2 360 Soft,8,4,Target 360°Soft,6,3,Target 360°ULTRA,7,1
+1376,woman,66,ICA,3.1,4.9,3.5,3.8,34.10563333,Stent assist,yes,26.9,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,4,0
+1377,man,57,ICA,4.4,4.7,5.1,4.9,61.46707,Double cathe,no,26.4,6,3,Matrix2 360 Soft,4,2.5,Target NANO 360,4,2,Target NANO 360,5,0
+1378,woman,52,ICA,6.7,5.3,6.4,5.9,104.7336533,Stent assist,no,22.1,8,4,Matrix2 360 Soft,6,3,Cashmere14,8,3,Target 360°Soft,9,1
+1381,woman,76,BA,6.3,7,8.1,7.6,225.5148,Double cathe,no,18,15,5,Matrix2 360 Std ,10,3.5,Target 360°Soft,10,3.5,Target 360°Soft,10,2
+1382,woman,65,ICA,3.1,3.6,3.6,3.6,24.41664,Double cathe,no,30.7,4,2.5,Target 360°ULTRA,4,2,Matrix2 360 US ,3,1.5,Target NANO 360,4,0
+1384,man,60,ICA,4.6,4,5.4,4.7,53.1288,BAT,yes,27.2,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,6,0
+1386,woman,73,MCA,7.1,6.9,6.8,6.8,166.97264,Double cathe,no,21.9,15,5,Matrix2 360 Soft,8,4,Kaneka Complex,8,4,Target 360°Soft,11,1
+1387,woman,51,ICA,4.1,3.9,5.3,4.6,49.75958,Double cathe,no,20.4,6,4,Target 360°Soft,6,4,Target 360°ULTRA,6,3,Target 360°ULTRA,4,0
+1388,woman,75,MCA,7.4,11.2,8.9,10.1,526.8752533,Double cathe,yes,24.1,15,5,Target XL Mini 360 Soft,20,5,Target 360°Soft,15,4,Target 360°Soft,19,2
+1389,woman,48,ICA,3,3.8,3.4,3.6,24.34128,Double cathe,no,28.5,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,3,2,Kaneka ES,4,0
+1391,woman,55,ICA,3.9,5.2,4.8,5,65.312,Stent assist,yes,27.2,15,5,Matrix2 360 Soft,8,4,Kaneka Complex,6,4,Target 360°ULTRA,5,1
+1396,woman,59,ICA,3.6,4.4,4.7,4.6,49.78365333,Double cathe,yes,24.1,6,3,Matrix2 360 Soft,4,2,Target NANO 360,4,2,Target NANO 360,3,0
+1399,woman,58,ICA,5.6,4.1,3.1,3.6,23.94564,Stent assist,no,28.1,6,4,Target 360°ULTRA,6,3,Target 360°ULTRA,4,3,Target NANO 360,4,0
+1400,woman,49,ICA,3.9,6.8,6.7,6.8,162.1328533,Double cathe,no,21.9,15,5,Matrix2 360 Soft,12,4.5,Target 360°Soft,8,4,Target 360°ULTRA,12,1
+1401,man,62,BA,6.4,5.5,5.8,5.6,93.48826667,Double cathe,no,30.5,8,4,Matrix2 360 Soft,8,4,Target 360°Soft,8,3,Target 360°ULTRA,18,1
+1402,man,58,ACA,5.3,4.3,3.7,4,33.30493333,Double cathe,no,34.5,6,3,Target 360°ULTRA,4,2,Target NANO 360,4,2,Target NANO 360,7,0
+1404,woman,73,ICA,3.5,5.6,7,6.3,129.2424,Double cathe,no,31,10,5,Matrix2 360 Soft,8,4,Target 360°Soft,6,3,Target 360°ULTRA,12,1
+1405,woman,62,ICA,4.4,3.8,4.6,4.2,38.42104,Stent assist,no,27.2,8,4,Target 360°Soft,6,3,Target 360°ULTRA,4,2,Target NANO 360,5,0
+1407,man,41,ICA,5.1,7.3,7.9,7.6,229.3728133,Double cathe,yes,21.4,15,6,Matrix2 360 Soft,10,5,Target 360°Soft,12,4.5,Target 360°Soft,12,2
+1408,man,55,ACA,4.9,4.6,5,4.8,57.776,Double cathe,no,29.1,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2.5,Target 360°ULTRA,9,0
+1409,woman,36,ICA,4.6,6.1,6.1,6.1,118.7867233,BAT,yes,25.7,15,5,Target XL Mini 360 Soft,6,3,Target XL Mini 360 Soft,6,3,Target 360°Soft,6,1
+1410,woman,67,ACA,4,3.7,4.3,4,33.30493333,Double cathe,no,29.8,8,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,3,1.5,Target NANO 360,6,0
+1411,woman,47,ICA,5.5,6.2,6.8,6.5,143.4142667,Double cathe,no,22.8,15,6,Target 3D,8,4,Target 360°Soft,8,3.5,Target 360°ULTRA,12,1
+1412,woman,42,ICA,2.5,6.2,3.7,4.9,58.82580667,Simple,no,20.6,8,3,Target 360°Soft,6,3,Target 360°ULTRA,4,2.5,Target NANO 360,4,1
+1413,woman,62,ICA,12.2,9.5,10.7,10.1,537.2880167,Stent assist,yes,24.6,15,5,Target XL Mini 360 Soft,20,6,Target XL 360°Soft,20,6,Target XL 360°Soft,26,2
+1414,woman,51,ICA,5,4.2,6.1,5.2,69.72056,Stent assist,no,35.3,10,5,Target 3D,8,4,Target 360°Soft,6,3,Target NANO 360,10,0
+1415,man,56,ICA,4,3.7,4.1,3.9,30.96197,Double cathe,no,28.5,6,3,Target 360°Soft,4,2.5,Target NANO 360,4,2,Target NANO 360,6,0
+1416,woman,71,ICA,4.8,4.2,4.4,4.3,41.58616,Double cathe,no,26.2,6,3,Target 360°Soft,6,3,Target NANO 360,3,2,Target NANO 360,6,0
+1417,woman,79,ICA,6,6.4,7.4,6.9,171.01696,Double cathe,no,27.7,15,5,Target XL Mini 360 Soft,12,4,Target XL Mini 360 Soft,6,3,Target NANO 360,12,1
+1418,woman,65,BA,4.8,4.9,4.6,4.8,56.62048,Simple,no,24.2,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,6,3,Target 360°ULTRA,6,0
+1420,woman,51,ACA,2.6,3.6,2.9,3.2,17.48352,Double cathe,no,30.7,4,2.5,Target 360°ULTRA,4,2.5,Target NANO 360,4,2.5,Target NANO 360,4,0
+1421,woman,43,ICA,6.1,5.1,5.2,5.2,72.16976,Stent assist,no,26.3,15,5,Matrix2 360 Soft,8,4,Target 360°ULTRA,8,4,Target 360°ULTRA,6,1
+1422,woman,69,ACA,3.6,7.9,4.3,6.1,108.4435633,Double cathe,yes,29.8,8,4,Target 360°Soft,8,4,Target 360°Soft,6,3,Target 360°ULTRA,11,2
+1423,woman,48,ICA,3.1,4.7,6,5.4,79.6932,BAT,yes,25.2,10,3.5,Target 360°Soft,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,6,0
+1425,man,52,ICA,5.2,4.9,4.9,4.9,61.56964333,Double cathe,no,29.2,6,3,Target 360°Soft,4,2.5,Target 360°ULTRA,4,2,Target NANO 360,9,0
+1427,woman,85,ICA,8.5,9.8,9.1,9.5,443.3732333,Double cathe,yes,23.6,20,8,Matrix2 360 Std ,20,7,Target XL 360°Soft,15,5,Target 360°ULTRA,16,2
+1428,woman,75,ICA,8.3,5.9,5.7,5.8,102.07826,Stent assist,yes,21.8,15,4,Target 360°Soft,10,3,Target 360°ULTRA,10,3,Target 360°ULTRA,9,1
+1430,woman,57,ICA,4.1,4.2,3.2,3.7,26.02432,Stent assist,no,17.3,6,3,Target Helical ULTRA,4,2.5,Target NANO 360,,,,2,0
+1431,woman,47,ICA,4.6,5.9,4.3,5.1,67.71253,Stent assist,no,23.1,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,6,3,Target 360°ULTRA,6,1
+1433,woman,60,ICA,5.3,5.4,4.9,5.1,70.62174,BAT,yes,27.5,10,5,Matrix2 360 Soft,6,4,Target 360°ULTRA,6,3,Target 360°ULTRA,7,1
+1434,woman,42,ICA,4.2,7.4,5.7,6.5,143.4823,BAT,no,22.2,20,6,Target 360°Soft,10,6,Target 360°Soft,8,3,Target 360°ULTRA,12,2
+1435,woman,71,ICA,4.9,3.3,3.3,3.3,18.80703,Double cathe,no,36.2,6,3,Matrix2 360 Soft,4,2,Target NANO 360,4,2,Target NANO 360,5,0
+1436,woman,74,ICA,3.1,7,3.8,5.4,75.1716,Double cathe,no,24.1,8,4,Matrix2 360 Soft,4,2.5,Target Helical ULTRA,3,2,Target NANO 360,7,2
+1437,woman,35,ICA,5,4.6,5.8,5.2,72.60517333,Double cathe,no,27.6,15,5,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,6,3,Target 360°ULTRA,6,0
+1438,woman,61,ACA,1.9,3.6,4.1,3.9,30.12516,Simple,no,26.4,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,3,2,Target NANO 360,5,0
+1439,man,66,ICA,4.9,7.2,6.2,6.7,156.52272,Double cathe,yes,27.4,20,6,Target 360°STD,10,5,Target 360°ULTRA,10,5,Target 360°ULTRA,17,2
+1443,man,63,ICA,6.9,4.5,6.7,5.6,88.3596,Stent assist,no,28.8,10,3,Target Helical ULTRA,6,3,Target Helical ULTRA,4,3,Target 360°ULTRA,10,0
+1444,man,52,ICA,2.1,3.9,2.1,3,12.8583,Simple,no,48.7,4,3,Target 360°ULTRA,3,2,Target NANO 360,3,2,Target NANO 360,4,0
+1445,woman,76,ICA,2.9,5.4,4.2,4.8,56.97216,Double cathe,no,18.1,6,3,Target 360°Soft,4,3,Target 360°ULTRA,4,3,Target NANO 360,6,1
+1446,man,78,BA,5.8,5,4.9,5,64.10833333,Double cathe,no,20.2,6,3,Matrix2 360 Soft,6,3,Target 360°Soft,4,2,Target NANO 360,7,1
+1447,woman,65,BA,4.2,3,3.9,3.5,21.4305,Double cathe,no,18.4,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,3,2,Target NANO 360,3,0
+1449,woman,62,ICA,3.1,3.9,4.7,4.3,41.24861,Double cathe,no,23.6,6,3,Target 360°Soft,4,2,Target NANO 360,4,2,Target NANO 360,5,0
+1450,man,58,MCA,3.6,4.4,4.7,4.6,49.78365333,Double cathe,yes,24,6,4,Target 360°Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,5,0
+1453,woman,42,ICA,3.1,4.8,4.6,4.7,54.30944,Double cathe,no,27.4,8,4,Target 360°Soft,6,3,Target 360°ULTRA,6,3,Target NANO 360,6,0
+1454,woman,47,BA,4,4.7,5.4,5.1,67.73922,Double cathe,yes,27,6,3,Target 360°Soft,4,2,Target NANO 360,4,2,Target NANO 360,7,0
+1455,man,67,VA,5.6,6.2,5.5,5.8,103.5048667,Double cathe,no,28.4,15,5,Matrix2 360 Soft,8,4,Target 360°Soft,8,4,Target 360°ULTRA,10,1
+1456,man,42,ICA,5.1,4.1,4.8,4.5,46.3464,Stent assist,no,23.7,8,3,Target 360°Soft,4,2.5,Target 360°ULTRA,4,2,Target NANO 360,8,0
+1458,woman,48,ICA,5.4,6.2,8,7.1,184.2970667,Double cathe,no,23.4,15,6,Matrix2 360 Soft,15,5,Target 360°ULTRA,10,5,Target 360°ULTRA,9,1
+1459,woman,49,ICA,5.6,5.9,7.9,6.9,168.30871,Double cathe,no,25.7,15,5,Matrix2 360 Soft,8,4,Target 360°Soft,8,3.5,Target 360°ULTRA,15,1
+1461,woman,64,ICA,4.4,5.8,6.4,6.1,118.4994133,BAT,no,28.1,15,5,Target XL Mini 360 Soft,8,4,Target 360°ULTRA,8,4,Target 360°ULTRA,7,1
+1462,woman,70,ICA,5.4,4.8,5.5,5.2,71.8432,Double cathe,no,22.4,8,4,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,8,3,Target 360°ULTRA,6,0
+1463,woman,64,ICA,2.4,5.6,5.7,5.7,95.21736,Double cathe,yes,23.6,6,4,Target 360°Soft,6,3,Target 360°Soft,4,3,Target NANO 360,9,1
+1466,man,46,ICA,3.9,4.8,4.6,4.7,54.30944,Double cathe,no,24.7,6,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,6,0
+1468,woman,57,ICA,4.5,5.3,5.3,5.3,77.91229667,Simple,yes,21.1,8,4,Target 360°Soft,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,9,1
+1469,man,44,ICA,10.5,25.9,16.9,21.5,4924.967017,Stent assist,no,12.9,50,18,Target XL 360°STD,50,18,Target XL 360°STD,50,16,Target XL 360°STD,32,2
+1470,woman,52,ICA,6.3,5.4,7,6.2,122.6484,Double cathe,no,27,10,5,Matrix2 360 Soft,12,4.5,Target 360°Soft,8,4,Target 360°Soft,12,1
+1471,woman,59,ICA,5.7,8.8,9.2,9,381.3216,Double cathe,no,22,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,15,5,Target 360°ULTRA,10,2
+1475,woman,73,ICA,2.6,4.5,3.2,4.4,33.1584,Double cathe,no,19.4,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,2,1.5,Target NANO 360,3,0
+1476,man,55,BA,10.5,10.1,13.8,11.9,868.01218,Double cathe,no,28.4,30,9,Target XL 360°STD,20,8,Matrix2 360 Soft,20,8,Matrix2 360 Soft,30,2
+1478,woman,72,BA,4.9,5.8,5.6,5.7,96.88784,Double cathe,yes,20.9,8,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,3,Target 360°ULTRA,10,1
+1480,woman,62,ACA,6.3,6.9,8.1,7.5,219.36825,Double cathe,yes,28.5,15,5,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,6,2.5,Target Helical ULTRA,19,1
+1482,man,55,BA,5.6,4.4,5.1,4.8,56.36928,Double cathe,no,26.7,8,4,Matrix2 360 Soft,6,3,Target 360°Soft,6,3,Target 360°ULTRA,8,0
+1483,woman,51,ICA,3.4,3.8,3.6,3.7,26.48904,Double cathe,no,29.6,6,3,Target 360°Soft,4,2,Target Helical ULTRA,4,2,Target NANO 360,5,0
+1484,man,55,ACA,3.8,4.9,5.3,5.1,69.31393,Double cathe,no,33.5,8,3,Matrix2 360 Soft,4,2.5,Target Helical ULTRA,4,2.5,Target 360°ULTRA,9,0
+1485,woman,47,ICA,3.2,3.5,3.4,3.5,21.79683333,Double cathe,yes,19.1,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,3,1.5,Target NANO 360,3,0
+1486,woman,54,ICA,4.7,4.8,5.8,5.6,81.58976,Double cathe,no,21.6,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,4,3,Target 360°ULTRA,7,0
+1487,woman,35,ICA,6.4,3.8,5.6,4.7,52.34170667,Stent assist,no,27.7,8,4,Matrix2 360 Soft,8,3,Target 360°Soft,6,3,Target 360°ULTRA,9,0
+1488,woman,38,ICA,4.7,4,4.9,4.5,46.158,Double cathe,no,17.7,6,4,Target 360°Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,5,0
+1489,man,69,ICA,6,6.2,5.7,6,110.9676,Double cathe,yes,31,8,3,Target 360°ULTRA,8,3,Target 360°Soft,6,3,Target 360°ULTRA,10,1
+1490,man,53,ACA,4.5,5.5,4.5,5,64.7625,Double cathe,no,27.3,8,4,Target 360°Soft,4,3,Target 360°ULTRA,4,2.5,Target NANO 360,10,1
+1492,woman,66,ICA,3.8,9.1,5.6,7.4,197.3510933,Double cathe,yes,25.2,8,4,Target 360°ULTRA,8,4,Target 360°ULTRA,4,2,Target 360°ULTRA,14,2
+1493,woman,70,ICA,5.4,11.2,10.2,11.1,663.62016,Double cathe,no,24.4,30,9,Target XL 360°STD,30,9,Target XL 360°Soft,20,8,Matrix2 360 Soft,28,2
+1494,woman,55,ACA,3.6,2.9,4.3,3.6,23.49348,Double cathe,yes,28.2,6,3,Target 360°Soft,4,2,Matrix2 360 US ,2,2,Target NANO Helical,4,0
+1495,woman,63,ICA,4.2,4.1,4.2,4.2,37.84956,Double cathe,no,24.5,8,4,Target 360°Soft,4,2.5,Target NANO 360,4,2,Target NANO 360,6,0
+1496,woman,53,ICA,4.1,4.9,4.9,4.9,61.56964333,Double cathe,no,27.9,6,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,3,Kaneka ES,11,0
+1499,woman,57,ICA,4.2,4.4,4.6,4.5,47.6652,Stent assist,no,22.3,8,4,Matrix2 360 Soft,4,3,Kaneka ES,4,3,Kaneka ES,5,0
+1500,woman,32,ICA,4.7,4,5.8,4.9,59.49253333,Double cathe,no,25.1,6,4,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,4,3,Target 360°ULTRA,8,0
+1501,woman,76,ACA,3.9,4.9,3.9,4.4,44.00396,Double cathe,no,20.2,8,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,3,2,Target NANO 360,3,0
+1502,man,35,ICA,3.4,3.9,4.1,4,33.4724,BAT,no,29.1,8,3,Target 360°Soft,4,2.5,Target NANO 360,4,2,Target NANO 360,6,0
+1503,woman,58,ICA,3.6,5.3,5.5,5.4,82.3779,Simple,no,28.5,10,5,Matrix2 360 Soft,8,4,Target 360°ULTRA,8,3.5,Target 360°ULTRA,12,1
+1504,woman,49,ICA,5.2,7.4,7.4,7.4,212.0672267,Stent assist,no,25.5,20,7,Target XL 360°Soft,15,7,Target 360°Soft,15,7,Target 360°Soft,13,2
+1507,man,76,MCA,3.7,3.5,3.6,3.6,23.7384,Double cathe,no,29.8,4,2,Matrix2 360 US ,3,2,Target 360°ULTRA,3,1.5,Target NANO 360,5,0
+1509,woman,33,ICA,2.9,3.9,4,3.9,31.8396,Double cathe,no,26,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,3,2,Target NANO 360,5,0
+1510,woman,69,MCA,3.2,3.1,3.2,3.1,16.09354667,Double cathe,no,28.4,4,2,Matrix2 360 US ,3,2,Target NANO 360,2,2,Target NANO Helical,4,0
+1512,man,63,BA,6.5,8.1,7.4,7.7,241.53822,Stent assist,no,23.7,15,6,Matrix2 360 Std ,20,6,Target 360°Soft,10,5,Target 360°Soft,9,2
+1513,woman,65,ICA,3.4,6.1,4.3,5.2,71.38057333,Double cathe,no,26.9,12,4.5,Target 360°Soft,4,2.5,Target 360°ULTRA,6,3,Target 360°ULTRA,6,1
+1514,man,49,ACA,2.8,5.2,3.8,4.5,46.5348,Double cathe,no,29.9,8,4,Target 360°Soft,6,3,Target 360°Soft,4,3,Target 360°ULTRA,5,1
+1516,woman,51,ICA,3.3,4.4,3.9,4.2,37.71768,Double cathe,no,24.5,8,4,Target 360°Soft,6,3,Target NANO 360,4,2,Target NANO 360,4,0
+1517,woman,62,BA,3.2,5,3.8,4.4,43.75066667,Simple,yes,24.9,6,4,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,5,1
+1518,man,48,ICA,2.5,4.5,4.4,4.5,46.629,Double cathe,no,24.3,6,3,Matrix2 360 Soft,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,5,0
+1520,woman,26,ICA,5.8,7.1,7.9,7.5,220.15325,Double cathe,no,29.7,15,6,Matrix2 360 Std ,15,6,Matrix2 360 Soft,10,5,Target XL Mini 360 Soft,18,2
+1521,woman,66,ACA,4.1,8.9,5.9,7.4,203.3537267,Double cathe,yes,25.4,8,4,Target 360°Soft,8,3,Target 360°ULTRA,4,2,Target 360°ULTRA,14,2
+1523,woman,46,ICA,2.9,5.3,2.7,4,29.9556,Double cathe,yes,27.6,4,2,Target 360°ULTRA,8,3,Target Helical ULTRA,3,2,Target NANO 360,5,1
+1524,woman,44,ICA,4.6,3.2,3.9,3.6,23.51232,Stent assist,yes,16.9,6,3,Target 360°ULTRA,4,2,Target NANO 360,3,2,Target NANO 360,3,0
+1525,woman,68,ICA,3.7,6.1,5.3,5.7,96.44039,Stent assist,yes,28.2,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,6,2,Target Helical ULTRA,8,1
+1527,woman,75,ICA,2.3,3.4,3.2,3.3,18.78976,Double cathe,no,29.6,4,3,Matrix2 360 US ,3,2,Target NANO 360,2,2,Target NANO Helical,3,0
+1528,woman,74,ICA,4.1,4,4.8,4.4,44.2112,BAT,no,26.3,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,7,0
+1529,woman,73,MCA,7.3,7.4,7.3,7.3,206.3744067,Double cathe,no,28,15,6,Matrix2 360 Soft,20,5,Target 360°Soft,8,4,Kaneka ES,20,2
+1531,woman,62,ICA,4.8,4,5.3,4.7,52.14493333,Stent assist,yes,30.1,8,3,Target 360°Soft,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,9,0
+1532,woman,46,ICA,4.7,5.1,5.4,5.3,76.38678,Double cathe,no,25.5,10,5,Matrix2 360 Soft,6,4,Target 360°Soft,8,3,Target 360°ULTRA,8,1
+1534,man,57,ICA,3.5,6,4.3,5.1,68.8602,BAT,no,28.6,10,5,Matrix2 360 Soft,8,3,Target 360°ULTRA,4,2,Target 360°ULTRA,9,1
+1535,woman,45,BA,7.4,7.8,7.6,7.7,238.87864,Double cathe,no,25,20,6,Target XL 360°Soft,10,5,Target 360°Soft,4,3,Target NANO 360,16,2
+1536,woman,63,ICA,6.1,6.8,6,6.4,136.6528,Double cathe,no,20.3,8,4,Target 360°ULTRA,8,4,Target 360°ULTRA,6,3,Target NANO 360,11,1
+1540,woman,73,ACA,4.9,4.4,5.3,4.9,59.80025333,Double cathe,yes,23.4,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,5,0
+1545,woman,78,ICA,4.3,3.4,4,3.6,25.6224,Stent assist,no,30.4,8,4,Target 360°Soft,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,5,0
+1547,woman,66,ICA,5,5,6.1,5.5,87.78916667,Double cathe,no,25.4,8,4,Target 360°Soft,8,4,Target 360°Soft,4,3,Target NANO 360,12,1
+1548,woman,60,ICA,1.8,5.4,3.9,4.6,50.69844,Simple,no,25.9,6,3,Target 360°Soft,4,2,Target NANO 360,4,2,Target NANO 360,5,1
+1550,woman,69,MCA,5.3,3.2,5.4,4.3,38.88576,Double cathe,no,22.2,6,3,Target 360°Soft,4,3,Target NANO 360,4,2.5,Target NANO 360,6,0
+1552,woman,68,BA,3.4,4.5,3.5,4,32.97,Double cathe,no,29.1,6,3,Target 360°Soft,4,2,Target 360°ULTRA,4,2,Target NANO 360,5,0
+1553,woman,54,ICA,6.3,13.4,10,11.7,820.482,Double cathe,yes,28.2,40,10,Target XL 360°STD,30,9,Target XL 360°Soft,30,8,Target XL 360°Soft,20,2
+1554,woman,70,ICA,5.8,4.6,5.2,4.9,61.33885333,Stent assist,no,29.1,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,6,3,Target NANO 360,7,0
+1556,woman,81,ICA,8.4,6.3,8.6,7.4,209.82108,Stent assist,yes,19.5,8,4,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,8,3,Target 360°Soft,15,1
+1557,man,65,ACA,4.4,3.4,4,3.7,26.33413333,Stent assist,yes,20.6,4,2.5,Target 360°ULTRA,4,2,Target NANO 360,3,2,Target NANO 360,4,0
+1558,woman,82,BA,11.8,7.9,11.4,9.6,452.46144,Double cathe,no,14.4,30,8,Target 360°Soft,20,6,Target 360°Soft,8,4,Target 360°ULTRA,20,2
+1559,woman,61,ICA,4.1,4.9,4.2,4.5,48.4659,Stent assist,no,28.2,8,4,Target 360°Soft,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,9,0
+1560,woman,63,ICA,3.4,6.4,5.8,6.1,118.4994133,Simple,yes,27.9,10,5,Matrix2 360 Soft,8,4,Target 360°ULTRA,8,3,Target 360°ULTRA,7,1
+1564,man,73,ACA,7.3,5.4,6.6,6,111.9096,Stent assist,no,20.8,8,4,Matrix2 360 Soft,8,4,Target 360°ULTRA,8,4,Target 360°ULTRA,8,1
+2426,man,73,ACA,7.3,5.4,6.6,6,111.9096,Stent assist,no,20.8,8,4,Matrix2 360 Soft,8,4,Target 360°ULTRA,8,4,Target 360°ULTRA,8,1
+1564,man,73,ACA,3.3,1.9,2.4,2.1,5.01144,Stent assist,no,42.7,4,2,Target 360° ULTRA,4,2,Target 360° Nano,,,,2,0
+2426,man,73,ACA,3.3,1.9,2.4,2.1,5.01144,Stent assist,no,42.7,4,2,Target 360° ULTRA,4,2,Target 360° Nano,,,,2,0
+1566,man,67,ACA,5.4,4.8,4.7,4.7,55.49008,Double cathe,no,22.7,8,3,Target 360°Soft,4,3,Target NANO 360,4,2.5,Target NANO 360,8,0
+1567,woman,51,VA,4.4,6.4,4.4,5.4,79.58016,Stent assist,no,18.3,8,4,Target 360°Soft,6,2.5,Target Helical ULTRA,4,2,Target Helical ULTRA,8,1
+1568,woman,79,ICA,6,8.3,6.3,7.3,199.76523,Stent assist,yes,18.2,10,6,Matrix2 360 Soft,10,5,Target 360°ULTRA,8,4,Target 360°ULTRA,9,2
+1569,woman,74,ICA,2.6,4.6,3.1,3.8,28.35838667,Simple,no,24.4,6,3,Target 360°Soft,3,2,Target 360°ULTRA,3,2,Target NANO 360,4,0
+1570,man,49,BA,6.5,9.9,8.4,9.1,396.03564,Stent assist,no,30.6,30,8,Target XL 360°Soft,20,6,Target XL 360°Soft,15,5,Target 360°ULTRA,20,2
+1572,woman,69,ACA,5.9,3.9,5.3,4.6,49.75958,Stent assist,yes,29.3,10,5,Matrix2 360 Soft,6,4,Target 360°Soft,6,4,Target 360°ULTRA,5,0
+1573,woman,74,MCA,5.5,7.3,6.3,6.8,163.66308,Double cathe,yes,24.6,10,6,Target 360°Soft,10,5,Target 360°Soft,12,4.5,Target 360°Soft,11,2
+1575,woman,77,ICA,8.1,6.8,7.8,7.3,202.63048,Stent assist,no,32.5,20,6,Target XL 360°Soft,10,5,Target 360°Soft,15,5,Target 360°ULTRA,18,1
+1576,woman,78,MCA,6.4,6.3,7.4,6.8,165.90504,Stent assist,no,21.9,10,5,Matrix2 360 Soft,12,4.5,Target 360°Soft,8,4,Target 360°Soft,9,1
+1577,woman,63,ICA,3.7,4.6,4.3,4.4,45.54674667,Double cathe,yes,31.2,6,4,Matrix2 360 Soft,4,3,Target 360°ULTRA,4,3,Target 360°ULTRA,6,0
+1579,woman,61,ICA,2.5,2.9,2.9,2.9,12.76357667,Simple,no,23.6,4,3,Target 360°ULTRA,3,1.5,Target NANO 360,,,,2,0
+1580,man,66,ACA,3,6.2,6.4,6.3,130.82496,Double cathe,yes,20.3,3,2,Target 360°ULTRA,10,3.5,Target 360°Soft,8,3,Target 360°ULTRA,8,1
+1583,woman,67,ICA,3.5,4.1,3.6,3.8,29.35272,BAT,no,32.8,10,3.5,Target 360°Soft,4,2.5,Target 360°ULTRA,4,2,Target 360°ULTRA,5,0
+1584,woman,45,ICA,3.1,5.6,6.5,6,114.296,Double cathe,no,22.8,10,6,Target 360°Soft,10,5,Target 360°Soft,12,4.5,Target 360°Soft,7,1
+1585,woman,52,ACA,3.3,4.4,3.6,4,33.1584,Double cathe,no,20.7,6,3,Target 360°Soft,4,3,Target 360°ULTRA,3,2,Target NANO 360,4,0
+1586,woman,35,ICA,4.4,3.1,4.1,3.6,23.94564,Stent assist,no,25,8,3,Target 360°Soft,4,2,Target 360°ULTRA,4,2,Target NANO 360,3,0
+1587,woman,38,ICA,5.1,5.2,5.8,5.5,86.81053333,Stent assist,no,25.2,10,5,Matrix2 360 Soft,8,4,Target 360°Soft,6,4,Target 360°ULTRA,8,1
+1589,woman,47,ICA,4,3.2,4.4,3.8,28.00042667,BAT,no,28.1,6,4,Target 360°Soft,4,2.5,Target NANO 360,4,2,Target NANO 360,5,0
+1592,woman,52,MCA,2.6,5.3,3.8,4.5,47.4297,Double cathe,yes,38,8,3,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,2,Target NANO 360,7,1
+1594,woman,45,ICA,3.7,4.3,4.8,5.3,57.24848,BAT,no,29.5,8,4,Target 360°Soft,6,3,Target 360°ULTRA,4,2,Kaneka ES,7,0
+1595,woman,53,ICA,4.7,4.8,5.7,5.2,74.45568,Double cathe,yes,28.1,10,5,Matrix2 360 Soft,8,4,Target 360°ULTRA,6,3,Target 360°ULTRA,10,0
+1596,man,57,MCA,3.8,6.4,5.1,5.7,97.36512,Double cathe,no,19.4,10,5,Target 360°Soft,12,4.5,Target 360°Soft,8,4,Target 360°Soft,6,1
+1602,woman,53,ACA,5.9,6.3,7.1,6.7,156.83829,Stent assist,yes,30.6,8,4,Matrix2 360 Soft,8,3,Target 360°Soft,4,2.5,Target Helical ULTRA,16,1
+1603,woman,50,ICA,5.4,7.4,6.9,7.1,189.72194,Double cathe,yes,25.6,15,5,Matrix2 360 Soft,10,5,Target 360°Soft,10,5,Target 360°Soft,9,2
+1604,woman,53,ICA,7.3,5.3,6.7,6,111.5014,Stent assist,no,21.4,15,5,Matrix2 360 Soft,10,6,Target 360°Soft,10,5,Target 360°ULTRA,9,1
+1605,woman,43,ICA,3.6,5.5,5.9,5.7,96.79835,Double cathe,no,34.9,15,6,Matrix2 360 Soft,10,5,Target 360°Soft,10,4.5,Target 360°ULTRA,8,1
+1606,man,66,ACA,5.6,5.1,5.5,5.3,77.80135,Stent assist,no,31.7,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,6,3,Target 360°Soft,12,1
+1607,woman,74,ICA,3.2,5.1,4.7,4.9,61.46707,Double cathe,no,34.5,12,4.5,Target 360°Soft,4,3,Target NANO 360,4,3,Target NANO 360,8,1
+1608,woman,62,ICA,4.8,4.5,5,4.7,55.3425,Stent assist,no,26.9,8,4,Matrix2 360 Soft,6,4,Target 360°ULTRA,6,3,Target 360°ULTRA,6,0
+1609,man,50,ICA,4.6,4.5,5.4,4.9,62.3133,Stent assist,yes,23.4,8,4,Target 3D,6,3,Target 360°ULTRA,6,3,Target 360°ULTRA,7,0
+1610,woman,58,ICA,3.7,3.6,4.3,3.9,31.59468,BAT,no,26.4,6,3,Target 360°Soft,4,2.5,Target NANO 360,4,2.5,Target NANO 360,5,0
+1611,woman,76,ACA,4.6,4.5,4.8,4.6,51.9984,Double cathe,no,28.9,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,4,2.5,Target NANO 360,8,0
+1612,man,57,ACA,3.5,4.7,4.3,4.5,47.59455,Double cathe,yes,40.7,6,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,4,2,Target NANO 360,5,0
+1613,woman,35,ICA,5.6,4.3,4.5,4.4,44.5566,Stent assist,no,24.4,8,4,Target 360°Soft,6,4,Target 360°Soft,6,3,Target 360°ULTRA,8,0
+1614,woman,55,ICA,1.8,5.5,4.1,4.8,56.6456,Simple,no,31.5,8,4,Target 360°Soft,6,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,7,1
+1615,woman,76,ACA,3.3,4.7,5.1,4.9,61.46707,Double cathe,no,21.6,8,4,Target 360°Soft,6,3,Target 360°ULTRA,4,2,Target NANO 360,6,0
+1616,woman,81,ICA,9.9,8.1,11.3,9.7,464.63679,Stent assist,no,19.3,20,7,Target XL 360°Soft,15,5,Target XL Mini 360 Soft,20,6,Target XL 360°Soft,11,2
+1617,woman,56,ICA,4.3,4.1,4,4.1,35.18893333,Stent assist,no,27.3,10,3.5,Target 360°Soft,4,3,Target 360°ULTRA,4,2.5,Target 360°ULTRA,5,0
+1618,man,61,VA,7.8,5.8,8,6.9,167.5504,Stent assist,no,30.8,15,5,Matrix2 360 Soft,10,4.5,Target 360°ULTRA,10,4.5,Target 360°ULTRA,11,1
+1621,man,56,ICA,3.4,6.2,4.7,5.4,82.34964,Double cathe,yes,28.1,12,4.5,Target 360°Soft,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,11,1
+1622,woman,40,ICA,5.2,4.9,4.2,4.5,48.4659,Double cathe,yes,11,6,3,Matrix2 360 US ,3,2,Target NANO 360,,,,2,0
+1623,woman,49,ICA,5.8,6.4,6.8,6.6,150.31808,Double cathe,no,23.1,15,6,Micrus Frame C,10,5,Target XL Mini 360 Soft,8,4,Target 360°Soft,11,1
+1624,woman,77,BA,7.3,4.4,6.2,5.3,75.66562667,Stent assist,no,27.9,8,4,Matrix2 360 Soft,8,3,Target 360°ULTRA,6,3,Target 360°ULTRA,13,0
+1625,woman,57,ICA,4.2,6.9,5.2,6,112.6632,Stent assist,yes,24.7,8,4,Matrix2 360 Soft,8,3.5,Target 360°ULTRA,6,3,Target 360°ULTRA,11,1
+1626,man,68,ICA,5.3,9.9,9.7,9.8,492.50586,Double cathe,no,22.7,30,8,Target XL 360°Soft,15,7,Target 360°Soft,15,7,Target 360°Soft,17,2
+1627,woman,70,ACA,4.7,5.3,5.6,5.4,83.87568,Double cathe,yes,23.7,8,4,Target 360°Soft,4,2,Target 360°ULTRA,8,3,Target 360°ULTRA,7,1
+1628,woman,43,ICA,2,3.2,2.6,2.9,12.62698667,Simple,no,26.9,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,2,1.5,Target NANO 360,3,0
+1629,woman,62,ICA,4.1,4.2,5.4,4.8,56.97216,Stent assist,no,26.3,8,4,Matrix2 360 Soft,6,3,Target 360°Soft,4,3,Target 360°ULTRA,7,0
+1630,man,45,MCA,3.6,3.7,4.1,3.9,30.96197,Double cathe,no,20.2,6,3,Target 360°Soft,4,2.5,Target 360°ULTRA,3,2,Target NANO 360,4,0
+1634,man,50,ICA,4.8,8.2,7.5,7.8,251.043,Double cathe,no,26.2,20,7,Target XL 360°Soft,20,6,Target 360°Soft,20,5,Target 360°Soft,15,2
+1635,man,53,ICA,3.1,3.5,3.6,3.5,23.079,Simple,no,30.7,6,3,Matrix2 360 Soft,4,2,Target 360°ULTRA,4,2,Target 360°ULTRA,5,0
+1638,man,61,ICA,3.4,3.8,3.1,3.4,20.96054667,Stent assist,no,21.8,8,3,Target 360°Soft,3,2,Target NANO 360,,,,2,0
+1639,woman,66,ICA,7.1,7.2,8.8,8,265.2672,Stent assist,no,20.7,30,7,Target 360°Soft,20,6,Target 360°Soft,15,5,Target 360°ULTRA,9,2
+1640,woman,42,MCA,3.9,4.1,4.7,4.4,44.37238667,Double cathe,no,22.5,8,3.5,Target 360°ULTRA,4,3,Target 360°ULTRA,3,2,Target NANO 360,6,0
+1641,woman,46,ICA,4,6.4,5.4,5.9,106.70976,Double cathe,no,30.5,20,6,Target 360°Soft,10,5,Target 360°Soft,10,4.5,Target 360°ULTRA,7,1
+1642,man,66,ICA,4.7,5.1,5,5,66.725,Double cathe,no,28.6,8,4,Matrix2 360 Soft,6,3,Target 360°ULTRA,4,3,Target 360°ULTRA,9,1
+1643,woman,57,ICA,3.9,5,4.8,4.9,61.544,Double cathe,no,26.3,10,5,Target 3D STD,8,4,Target 360°Soft,6,3,Target 360° ULTRA,7,1
+1645,man,52,ACA,5.3,6.7,5.5,4.4,84.85326667,Double cathe,yes,24.2,10,5,Target 360° Soft,6,3,Target 360° ULTRA,4,3,Target NANO 360,9,1
+1646,woman,59,ACA,7.9,5.7,6.1,5.9,107.35817,Double cathe,no,24.6,20,6,Target XL 360°Soft,15,5,Target XL Mini 360 Soft,10,5,Target XL Mini 360 Soft,15,1
+1647,man,69,ICA,4.2,4,4,4,33.49333333,Stent assist,no,27.2,8,3,Target 360° Soft,4,2.5,Target NANO 360,4,2.5,Target NANO 360,7,0
+1648,woman,72,ICA,4.4,5.5,5.5,5.5,87.06958333,Double cathe,no,22.6,15,5,Matrix2 360 Soft,10,4.5,Target 360° ULTRA,8,4,Target 360° ULTRA,6,1
+1649,man,57,ICA,3.7,4.7,4.7,4.7,54.33403667,Double cathe,no,24,12,4.5,Target 360° Soft,6,3,Target 360° Soft,6,3,Target 360° Soft,6,0
+1651,woman,50,ICA,3.1,4.3,3.9,4.1,35.98283,Double cathe,no,25.2,8,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,4,2,Target NANO 360,4,0
+1652,woman,43,ICA,4.8,3.6,4.4,4,33.1584,Stent assist,no,26.6,8,3,Target 360° Soft,4,2.5,Target NANO 360,4,2.5,Target NANO 360,5,0
+1653,woman,57,ICA,7.8,5.4,6,5.7,96.6492,Stent assist,no,29.3,20,5,Target 360° Soft,10,4.5,Target 360° ULTRA,12,4.5,Target 360° Soft,12,1
+1654,woman,64,ICA,3.8,6.5,3.4,4.9,56.67176667,Double cathe,no,21.2,6,3,Matrix2 360 Soft,4,3,Target 360° ULTRA,4,3,Target 360° ULTRA,6,1
+1657,woman,76,ACA,8.5,10.9,11.4,11.1,721.82634,Stent assist,no,27.8,30,8,Target XL 360°Soft,20,7,Target XL 360°Soft,20,7,Target XL 360°Soft,30,2
+1658,man,50,BA,4.5,6.3,5.8,6,114.7356,Double cathe,no,26.1,8,4,Matrix2 360 Soft,8,3,Target 360° ULTRA,6,2,Target NANO Helical,13,1
+1659,woman,62,ACA,3.6,4.7,5.1,4.9,61.46707,Double cathe,no,22.7,12,4.5,Target 360° Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,5,0
+1660,man,55,ICA,3.8,6.8,4.5,5.6,89.6784,Double cathe,yes,26.8,12,4.5,Target 360° Soft,6,3,Target 360° Soft,6,3,Target 360° Soft,13,1
+1661,woman,73,ICA,3.6,5.5,3.5,4.5,45.33375,Double cathe,no,18.6,6,3,Target 360° ULTRA,4,2,Target NANO 360,2,1,Target NANO 360,4,1
+1662,woman,70,MCA,4.8,6.4,5.5,5.9,108.6858667,Double cathe,no,20.5,12,4.5,Target 360° Soft,8,4,Target 360° Soft,6,4,Target 360° Soft,8,1
+1663,woman,58,ICA,9,9.6,10.9,10.2,558.56832,Double cathe,no,26,40,10,Target XL 360°Soft,30,9,Target XL 360°Soft,20,5,Target 360° Soft,29,2
+1665,man,71,ICA,3.2,4.6,3.9,4.2,39.43212,Double cathe,yes,24.1,4,2.5,Target 360° ULTRA,3,2,Target NANO 360,3,2,Target NANO 360,4,0
+1666,woman,65,ICA,3.3,6,4.4,5.2,71.8432,Double cathe,yes,24.8,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,Target 360° ULTRA,6,1
+1667,woman,58,ACA,3.5,4.4,5.5,5,63.32333333,Simple,yes,23.2,6,3,Target 360° Soft,3,2,Target 360° ULTRA,3,2,Target 360° ULTRA,7,0
+1669,woman,68,ICA,5.1,5.2,5.5,5.3,79.32686667,Double cathe,no,24.3,8,4,Matrix2 360 Soft,6,3,Kaneka ES,6,3,Kaneka ES,6,1
+1670,man,65,BA,5.8,5.9,7,6.4,138.3274667,Stent assist,no,23.3,12,4.5,Target 360° Soft,8,4,Target 360° Soft,10,3.5,Target 360° Soft,17,1
+1673,woman,75,ICA,5.5,5.2,5.9,5.6,89.91285333,Stent assist,no,21.9,8,4,Matrix2 360 Soft,8,3,Target 360° ULTRA,4,2,Target 360° ULTRA,9,1
+1676,woman,43,ICA,5.5,5.5,7.6,6.1,133.4395333,Stent assist,no,32.2,15,5,Matrix2 360 Soft,8,4,Kaneka Complex,10,5,Kaneka Complex,11,1
+1677,man,69,ACA,4.3,10,7,8.5,311.3833333,Double cathe,yes,20.5,15,7,Target 360° Soft,10,5,Target 360° ULTRA,10,5,Target 360° ULTRA,17,2
+1678,woman,43,ICA,4.5,4.1,4.2,4.3,38.75074,Stent assist,no,19.2,6,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,4,0
+1679,woman,74,ICA,4.9,5.7,5.1,4.4,66.93852,Stent assist,no,25.2,8,4,Matrix2 360 Soft,6,3,Target Helical ULTRA,6,3,Target NANO 360,8,1
+1681,woman,56,ICA,4.9,5.2,5.5,5.4,80.8236,Double cathe,no,25.6,8,4,Matrix2 360 Soft,6,3,Target 360° ULTRA,4,2,Target 360° ULTRA,8,1
+1682,woman,61,ICA,4.8,5.8,4.3,5,65.25966667,Stent assist,yes,21.4,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,4,2,Target 360° ULTRA,5,1
+1684,woman,76,ICA,3.1,6.5,4.5,5.5,84.19125,Double cathe,no,18.3,12,4.5,Target 360° Soft,8,4,Target 360° ULTRA,8,4,Target 360° ULTRA,4,1
+1685,woman,74,ICA,5.3,4.6,5.7,5.2,71.35336,Stent assist,yes,22.8,12,4.5,Target 360° Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,6,0
+1686,woman,38,ICA,4.2,4,4.1,4,34.33066667,Stent assist,yes,26.9,8,3,Target 360° ULTRA,4,2,Target 360° ULTRA,3,2,Target 360° Nano,5,0
+1687,woman,46,ICA,3.5,5.2,3.9,4.5,47.7594,BAT,no,25.2,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,Target 360° ULTRA,7,1
+1689,man,65,VA,6,5.3,5.1,5.2,73.55764,Stent assist,no,31.2,15,5,Target 360° ULTRA,10,5,Target 360° Soft,10,5,Target 360° Soft,9,1
+1690,woman,76,MCA,4.4,5.4,4.5,4.8,61.0416,Simple,no,17.5,15,4,Target 360° ULTRA,6,3,Target 360° ULTRA,3,2,Target 360° Nano,5,1
+1691,woman,54,ICA,3.2,6.8,5.3,6.1,115.0516933,Double cathe,yes,22.6,10,5,Target 360° Soft,8,4,Target 360° ULTRA,6,4,Target Helical ULTRA,8,1
+1692,woman,69,MCA,3.8,3.6,4.8,4.2,37.98144,Double cathe,no,20.3,4,2.5,Target 360° ULTRA,4,2.5,Target 360° ULTRA,3,1.5,Target 360° Nano,7,0
+1694,woman,57,ACA,4.2,4,4.9,4.4,45.13226667,BAT,no,22.7,6,3,Target 360° Soft,4,2,Target 360° ULTRA,4,2,Target 360° ULTRA,5,0
+1695,woman,75,ICA,5.5,5.7,5.8,5.8,100.34812,Double cathe,yes,21.9,15,4,Target 360° Soft,10,3.5,Target 360° Soft,4,2,Target 360° ULTRA,7,1
+1698,woman,51,ICA,5.1,6.8,6.1,6.5,141.1011333,Stent assist,yes,,15,5,Matrix2 360 Soft,8,4,Target 360° Soft,10,5,Target 360° Soft,12,1
+1699,woman,84,ACA,10,17.1,13.9,15.5,1928.06205,Stent assist,no,15.9,45,12,Target XL 360°Soft,20,7,Target XL Helical Soft,20,7,Target XL Helical Soft,17,2
+1700,man,43,ICA,2.4,5.7,4.3,5,64.1345,Simple,no,31.9,12,4.5,Target 360° Soft,10,3.5,Target 360° Soft,4,2.5,Target 360° ULTRA,6,1
+1702,woman,66,ICA,4.2,5.1,4.3,4.7,53.94049,BAT,no,29.4,8,4,Matrix2 360 Soft,4,3,Target 360° ULTRA,4,3,Target 360° ULTRA,8,1
+1703,man,44,ICA,5.1,4.8,5.5,5.2,71.8432,Stent assist,yes,22.8,8,4,Matrix2 360 Soft,8,4,Target Helical ULTRA,8,3,Target Helical ULTRA,9,0
+1707,woman,64,ICA,3.2,4.6,3.5,4.1,34.54523333,BAT,no,27,8,4,Target 360° Soft,4,2.5,Target 360° ULTRA,4,2,Target 360° ULTRA,6,0
+1708,woman,71,ACA,3.9,4.1,3.9,4,33.4724,Double cathe,no,21.1,6,3,Target 360° Soft,4,2,Target 360° ULTRA,3,2,Target 360° ULTRA,5,0
+1710,woman,81,ACA,6.4,8.2,8.9,8.6,328.4586533,Stent assist,no,21.1,15,7,Matrix2 360 Soft,10,6,Target 360° Soft,15,4,Target 360° ULTRA,15,2
+1711,woman,60,ACA,3.6,3.7,3.5,3.6,24.3978,Double cathe,yes,23.6,4,2,Matrix2 360 US ,4,2,Target 360° Nano,3,2,Target 360° Nano,3,0
+1714,woman,40,ICA,4.6,4.6,5.1,4.9,60.15926,BAT,no,31.2,8,4,Matrix2 360 Soft,8,4,Target Helical ULTRA,6,3,Target 360° ULTRA,11,0
+1715,woman,60,ICA,6.4,5.7,5.8,5.8,100.34812,Double cathe,yes,24.2,10,5,Matrix2 360 Soft,8,4,Target 360° Soft,10,3.5,Target 360° Soft,9,1
+1716,man,74,ACA,3.4,4.1,4.9,4.5,47.31195,Double cathe,no,20.5,6,3,Target 360° Soft,4,3,Target 360° ULTRA,3,2,Target 360° Nano,5,0
+1717,woman,72,MCA,5,4.8,4.3,4.6,49.68736,Double cathe,no,28.7,8,4,Target 360° Soft,4,2.5,Target 360° ULTRA,4,2.5,Target 360° ULTRA,9,0
+1720,woman,47,ICA,5.3,6.2,5.1,5.7,94.32246,BAT,yes,21.8,12,4.5,Target 360° Soft,8,4,Target Helical ULTRA,6,3,Target Helical ULTRA,7,1
+1721,man,56,ICA,3.8,3.5,3.2,3.4,19.92853333,BAT,no,25.2,6,3,Target 360° Soft,4,2,Target 360° Nano,3,2,Target 360° Nano,4,0
+1722,woman,75,ACA,5.7,4.2,5.2,4.7,53.71912,Stent assist,no,13.2,4,2.5,Target 360° ULTRA,4,2,Target 360° ULTRA,3,2,Target 360° Nano,5,0
+1723,woman,45,ICA,4.3,3.9,3.8,3.9,30.24762,Stent assist,no,17.4,8,3,Target 360° Soft,4,2,Target 360° ULTRA,3,2,Target 360° ULTRA,4,0
+1724,woman,66,MCA,4.9,6.2,4.1,5.2,69.17629333,Double cathe,no,31.2,10,3.5,Target 360° Soft,4,2.5,Target 360° ULTRA,4,3,Target Helical ULTRA,9,1
+1725,woman,67,ICA,3.8,3.8,3,3.4,20.2844,Stent assist,no,24.6,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,3,2,Target 360° Nano,5,0
+1726,woman,55,ICA,5.5,5.8,6.9,6.4,134.04032,Stent assist,no,26.6,10,5,Matrix2 360 Soft,15,4,Target 360° Soft,10,4,Galaxy G3 Fill,7,1
+1727,woman,65,ICA,2.8,4.3,4.2,4.3,40.64102,BAT,yes,24.2,6,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,3,2,Target 360° Nano,5,0
+1728,man,70,ACA,5.3,4.2,5.6,4.9,60.31312,Double cathe,no,21.3,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,7,0
+1729,man,67,ICA,4.2,4,4.8,4.4,44.2112,Double cathe,no,26.2,6,3,Matrix2 360 Soft,4,2.5,Target 360° ULTRA,3,2,Target 360° ULTRA,5,0
+1730,woman,62,ICA,4.5,4.2,4.1,4.2,37.84956,Stent assist,no,25,8,4,Target 360° Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,5,0
+1732,man,62,ICA,2.8,4.3,3.8,4.1,35.06019333,Double cathe,yes,16,4,2.5,Target 360° ULTRA,3,1.5,Target 360° Nano,2,1.5,Target 360° Nano,3,0
+1733,woman,60,ICA,5.2,4.5,5.6,5.1,67.2588,Stent assist,no,24.3,8,4,Target 360° Soft,6,4,Target Helical ULTRA,6,3,Target 360° ULTRA,8,0
+1734,woman,69,ICA,4.8,6,6.1,6.1,116.8394,BAT,no,24,10,5,Target 360° Soft,8,4,Target 360° Soft,8,4,Target 360° ULTRA,13,1
+1735,woman,82,ACA,5.4,4,5.3,4.7,52.14493333,Double cathe,no,19.6,6,3,Matrix2 360 Soft,6,3,Target 360° ULTRA,3,2,Target 360° Nano,6,0
+1736,woman,80,BA,5.7,5.6,5.8,5.7,96.88784,Double cathe,no,21.9,10,5,Target 360° Soft,10,4.5,Target 360° ULTRA,10,4.5,Target 360° ULTRA,10,1
+1738,woman,43,ICA,3.9,4.9,4,4.5,46.158,Double cathe,yes,28.3,8,3,Matrix2 360 Soft,4,2.5,Target 360° ULTRA,4,2.5,Target 360° ULTRA,7,0
+1739,woman,34,ICA,4.1,3.6,4.6,4.1,35.53224,Stent assist,no,27.5,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,5,0
+1740,woman,62,ICA,3.2,4.3,2.4,3.4,18.36272,BAT,no,19.9,4,2,Target 360° ULTRA,2,1.5,Target Helical Nano,,,,2,0
+1741,man,62,ICA,2.2,4.6,3.3,4,31.7768,Double cathe,no,29,6,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,Target 360° ULTRA,5,0
+1742,woman,57,ICA,4.6,4.6,5.6,6,80.8864,Double cathe,no,24.2,10,5,Matrix2 360 Soft,8,4,Target 360° Soft,8,4,Target 360° ULTRA,8,0
+1743,woman,53,ICA,4.7,4.3,4.2,4.3,40.64102,Double cathe,yes,23.6,8,4,Matrix2 360 Soft,6,3,Target 360° ULTRA,4,3,Target 360° ULTRA,5,0
+1744,woman,61,ICA,5.3,8.7,7.9,8.3,298.54021,Double cathe,yes,21.8,15,4,Target 360° Soft,8,3,Target 360° ULTRA,6,2,Target Helical ULTRA,9,2
+1745,woman,62,ICA,4.1,7,6.4,6.7,157.0837333,Double cathe,yes,26.4,8,4,Matrix2 360 Soft,8,4,Target 360° Soft,6,3,Target 360° ULTRA,9,2
+1746,woman,53,ICA,3.7,4.3,5.1,4.7,53.94049,Double cathe,yes,31.7,8,4,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,6,0
+1747,man,75,VA,5,5.7,5.4,5.6,90.20592,Stent assist,no,23.3,15,4,Target 360° Soft,8,3.5,Target 360° ULTRA,8,3,Target 360° ULTRA,7,1
+1749,woman,46,ICA,4.7,7,7.1,7.1,184.6686333,Double cathe,no,25.7,15,7,Matrix2 360 Soft,10,6,Target 360° Soft,10,6,Target 360° Soft,11,2
+1750,woman,57,ICA,2.6,3.6,2.8,3.2,16.88064,Double cathe,no,28.7,4,3,Matrix2 360 US ,3,2,Target 360° ULTRA,2,2,Target Helical Nano,5,0
+1751,woman,63,ICA,4.4,6.6,8.6,7.6,225.75344,Stent assist,yes,23.4,15,5,Matrix2 360 Soft,10,5,Target 360° Soft,12,4.5,Target 360° Soft,10,1
+1753,woman,63,ICA,7.8,6.2,8,7.1,184.2970667,Stent assist,yes,21.4,20,6,Target 360° Soft,15,5,Galaxy G3 Fill,8,4,Target 360° ULTRA,6,1
+1755,woman,78,ACA,4.1,3.5,4,3.8,27.84133333,Double cathe,no,34.9,6,3,Matrix2 360 Soft,4,2,Target 360° Nano,4,2,Target 360° Nano,5,0
+1757,woman,72,BA,5.4,4.8,6,5.4,81.3888,Stent assist,no,28.5,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,4,3,Target 360° ULTRA,12,0
+1758,woman,49,ICA,4.3,10.6,8.9,9.8,483.8384133,Double cathe,no,28.4,30,8,Target XL 360°Soft,30,8,Target XL 360°Soft,30,7,Target 360° Soft,11,2
+1759,woman,55,ICA,3.1,6.5,4,5.3,72.11533333,Double cathe,yes,27.2,10,6,Matrix2 2D Soft,12,4.5,Target 360° Soft,4,2.5,Target 360° Nano,6,1
+1760,woman,73,ICA,4.9,6.2,6.3,6.3,128.78082,Stent assist,yes,20.8,10,5,Target 360° Soft,8,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,10,1
+1763,man,51,VA,8.1,7.1,6.4,6.7,159.3277867,Stent assist,no,27.9,15,5,Target 360° ULTRA,15,5,Target 360° ULTRA,15,4,Target 360° ULTRA,10,2
+1765,woman,62,ICA,3.4,5,5.3,5.2,72.11533333,Double cathe,yes,25.5,6,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,4,2,Target 360° ULTRA,7,1
+1766,man,67,ACA,5.4,3.3,3.8,3.6,23.62536,Stent assist,no,28.4,4,2.5,Target 360° ULTRA,3,2,Target 360° ULTRA,4,2,Target 360° Nano,7,0
+1767,woman,53,ICA,5.4,5.7,6.4,6.1,116.45632,Stent assist,no,29.6,15,5,Matrix2 360 Soft,12,4,Galaxy G3 Fill,15,4,Target 360° Soft,9,1
+1768,man,58,ACA,7.1,5.9,8.3,7.1,181.9561967,Double cathe,no,19.2,10,6,Target 360° Soft,10,5,Target 360° Soft,8,4,Target 360° ULTRA,12,1
+1769,woman,70,MCA,3.4,5.8,4.5,5.2,71.0268,Double cathe,yes,21.8,8,3,Matrix2 360 Soft,8,3,Target 360° ULTRA,4,2,Target Helical Nano,7,1
+1770,woman,60,ICA,4.3,3.9,3.6,3.8,27.92088,Stent assist,yes,41.9,10,3.5,Target 360° Soft,8,3,Target 360° ULTRA,4,2,Target 360° ULTRA,5,0
+1772,man,56,ACA,4.4,6,4,5,62.8,Simple,yes,21.8,6,3,Target 360° Soft,4,2.5,Target 360° ULTRA,4,2,Target 360° ULTRA,6,1
+1773,man,55,ACA,3.3,3.7,4.2,4,32.5304,Double cathe,no,25.1,6,3,Target 360° Soft,4,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,4,0
+1775,man,59,VA,7.6,4,5.7,4.8,57.2736,Stent assist,no,37.2,8,4,Matrix2 360 Soft,8,4,Kaneka ES,8,4,Kaneka Complex,11,0
+1776,man,61,ACA,4.7,6.5,7.7,7.1,185.9691167,Double cathe,yes,22.6,20,5,Target 360° Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,9,1
+1777,woman,58,MCA,2.6,3.9,3.8,3.9,30.24762,Simple,no,31.6,6,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,3,2,Target 360° Nano,6,0
+1778,woman,55,ICA,6.7,4,5.8,4.9,59.49253333,Stent assist,yes,25.2,12,4.5,Target 360° Soft,8,4,Target 360° ULTRA,8,4,Target 360° ULTRA,7,0
+1779,man,63,ICA,2.3,3.8,2.8,3.3,18.37528,Double cathe,no,29.4,4,2,Target 360° ULTRA,2,2,Target Helical Nano,2,1.5,Target 360° Nano,4,0
+1780,woman,60,ICA,4.7,4.8,4.9,4.9,60.31312,Stent assist,yes,34.5,12,4.5,Target 360° Soft,10,5,Axium Prime 3D,6,4,Target 360° ULTRA,6,0
+1781,woman,34,ICA,3.7,4.4,4.2,4.3,41.58616,BAT,no,22.8,8,3,Matrix2 360 Soft,4,2.5,Target 360° ULTRA,6,2,Target Helical ULTRA,4,0
+1782,woman,63,BA,3.1,4.5,4.1,4.3,41.51865,Double cathe,no,33.7,8,4,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,5,0
+1783,woman,64,ACA,3.2,5.1,4.1,4.6,50.33734,Simple,no,26.2,6,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,4,2,Target 360° Nano,9,1
+1785,woman,63,BA,6.3,4.1,5.7,4.9,59.92847,Stent assist,no,32.1,6,3,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,4,2.5,Barricade Complex Finish,14,0
+1786,woman,63,ICA,4,3.8,4.1,3.9,31.79878,Double cathe,no,33.8,10,3.5,Target 360° Soft,4,3,Target 360° ULTRA,4,3,Target 360° ULTRA,6,0
+1790,man,45,ICA,4.6,3.3,4.3,3.8,28.21918,Stent assist,no,29.6,8,3,Matrix2 360 Soft,5,2.5,Galaxy G3 Xtrasoft,2.5,2.5,Galaxy G3 Xtrasoft,5,0
+1791,woman,68,ICA,5.6,6.9,5.6,6.3,127.39608,Stent assist,no,18.5,20,6,Target 360° STD,10,5,Target 360° Soft,8,3,Target 360° ULTRA,5,1
+1792,woman,77,MCA,4.8,6.3,6.6,6.5,141.4413,Stent assist,yes,20.9,9,3.5,Galaxy G3 Fill,10,3,Target 360° ULTRA,8,3,Target 360° ULTRA,7,1
+1794,woman,77,ICA,6.1,6,7.2,6.6,149.2128,Stent assist,yes,26.7,8,4,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,8,3,Target 360° Soft,13,1
+1795,woman,67,BA,5.8,6.7,7.1,6.9,171.77527,Stent assist,yes,31.3,15,7,Matrix2 360 Soft,20,6,Target XL 360°Soft,15,5,Target 360° ULTRA,12,1
+1799,man,56,ICA,3.2,4.7,4.1,4.4,44.37238667,Double cathe,yes,22.2,8,3,Target 360° Soft,4,2.5,Target 360° ULTRA,3,2,Target 360° Nano,4,0
+1800,woman,66,ICA,2.7,3.8,3.2,3.5,22.27306667,Double cathe,yes,21.3,6,3,Target 360° Soft,4,3,Target Helical ULTRA,2,1,Target 360° Nano,3,0
+1801,woman,66,ICA,4.4,4.7,4.4,4.6,49.78365333,Double cathe,yes,22,10,3.5,Target 360° Soft,4,2.5,Target 360° ULTRA,3,2,Target 360° ULTRA,5,0
+1802,woman,42,ICA,8.6,9.1,11,10.1,529.0952333,Stent assist,no,24.6,40,10,Target XL 360°Soft,30,10,Target 360° STD,30,9,Target 360° STD,10,2
+1803,woman,70,ICA,3.9,3.5,3.6,3.6,23.7384,Simple,no,24.6,6,3,Target 360° Soft,4,2,Target 360° Nano,4,2,Target 360° Nano,4,0
+1804,woman,55,ICA,6.1,5.4,7.4,6.8,142.20432,Stent assist,yes,28.2,20,5,Target 360° Soft,8,4,Target 360° ULTRA,15,4,Target 360° ULTRA,9,1
+1807,man,51,ICA,5.4,9.5,6.4,8,254.5493333,Double cathe,no,14,10,5,Target 360° Soft,8,4,Target 360° ULTRA,8,3.5,Target 360° ULTRA,9,2
+1808,woman,51,ICA,5.6,4.6,5.8,5.2,72.60517333,Stent assist,no,24.2,8,4,Matrix2 360 Soft,6,4,Target 360° ULTRA,6,4,Target 360° ULTRA,7,0
+1809,woman,47,ICA,6.7,5.1,7.1,6.1,115.59439,Stent assist,no,29.6,10,5,Matrix2 360 Soft,8,4,Target 360° ULTRA,8,3.5,Target 360° ULTRA,10,1
+1810,woman,64,BA,5,5.3,5.9,5.6,91.64194667,Stent assist,yes,22.9,12,4.5,Target 360° Soft,8,4,Target 360° Soft,10,3.5,Target 360° Soft,8,1
+1811,woman,60,ICA,4.8,5.2,6.2,5.7,96.17192,Double cathe,no,21.8,10,5,Matrix2 360 Soft,8,4,Target 360° Soft,10,3.5,Target 360° Soft,7,1
+1812,man,58,MCA,4.8,4.4,4.5,4.5,46.629,Double cathe,no,28.8,8,3,Matrix2 360 Soft,6,2.5,Target Helical ULTRA,4,2,Target 360° ULTRA,7,0
+1813,man,40,ICA,4,4.1,3.7,3.9,30.96197,Double cathe,no,25.5,6,3,Matrix2 360 Soft,6,2.5,Target Helical ULTRA,4,2,Target 360° Nano,5,0
+1814,woman,51,ICA,2.8,2.7,3,2.9,12.2931,BAT,no,22.3,3,2,Target 360° ULTRA,2,1,Target 360° Nano,2,1,Target 360° Nano,3,0
+1816,man,67,ACA,2.9,4,3.5,3.8,27.84133333,Double cathe,no,23.8,6,3,Target 360° Soft,3,2,Target 360° ULTRA,3,2,Target 360° ULTRA,4,0
+1818,woman,56,ICA,2.1,3.6,1.5,2.6,7.3476,Stent assist,no,27.1,3,2,Target 360° Nano,2,2,Target Helical Nano,,,,2,0
+1819,woman,66,BA,3.2,11.8,13.1,12.5,1011.210833,Stent assist,no,10.8,25,9,Galaxy G3 Fill,25,9,Galaxy G3 Fill,25,9,Galaxy G3 Fill,11,2
+1820,woman,78,ICA,2.7,4.6,3.1,3.6,26.86584,Double cathe,no,33.2,6,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,2,2,Target Helical Nano,5,0
+1823,woman,69,ACA,5.4,3.9,3.8,3.9,30.24762,Stent assist,no,15.6,6,3,Target 360° ULTRA,3,2,Target 360° Nano,3,2,Target 360° Nano,4,0
+1824,man,59,ICA,3.8,7.1,4.1,5.6,85.31170667,Double cathe,no,22.1,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,6,2
+1825,woman,45,ICA,5.5,9.1,8.5,8.8,356.2225333,Double cathe,no,20.8,30,8,Target 360° STD,15,7,Target 360° Soft,15,7,Target 360° Soft,14,2
+1826,woman,55,MCA,5.5,5.3,5.7,5.5,86.95445,Stent assist,no,30.9,15,4,Target 360° Soft,8,3,Target Helical ULTRA,8,3,Target Helical ULTRA,9,1
+1827,woman,45,ICA,1.7,3.7,2.2,3,12.7798,Simple,no,20.5,4,3,Target 360° ULTRA,3,1.5,Target 360° Nano,,,,2,0
+1829,woman,43,ICA,2.9,3.6,2.2,2.8,11.60544,Stent assist,no,28,4,2.5,Target 360° ULTRA,3,2,Target 360° ULTRA,3,2,Target 360° Nano,3,0
+1830,man,64,ACA,3.8,6.1,3.8,5,60.65433333,Double cathe,no,34.7,6,3,Smart Complex Soft,4,3,Smart Complex Extra Soft,4,3,Smart Complex Extra Soft,11,1
+1832,woman,71,MCA,5.1,4.5,5.1,4.8,57.6504,Stent assist,no,21.6,8,4,Target 360° Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,8,0
+1833,woman,81,ICA,10,9,9.5,9.3,416.1285,Stent assist,yes,22.5,20,8,Target 360° Soft,20,8,Target 360° Soft,15,5,Target 360° ULTRA,16,2
+1834,woman,57,ACA,3.2,5.1,4.9,5,65.3905,Double cathe,no,26,10,5,Target 360° Soft,8,4,Target 360° Soft,6,3,Target 360° ULTRA,6,1
+1835,woman,59,ICA,6,5.6,6.5,6.1,116.2009333,Stent assist,yes,26,10,5,Target 360° Soft,12,4.5,Target 360° Soft,8,4,Target 360° ULTRA,10,1
+1836,man,67,ACA,5.4,4.6,5.8,5.2,72.60517333,Stent assist,yes,17,8,3,Target 360° Soft,4,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,4,0
+1838,woman,84,BA,7.5,5.3,6.4,5.9,104.7336533,Stent assist,no,20.1,10,5,Target 360° Soft,12,4.5,Target 360° Soft,10,3.5,Target 360° Soft,10,1
+1840,woman,56,ICA,5.1,5.5,5.3,5.4,82.3779,Stent assist,yes,25.4,12,4.5,Target 360° Soft,8,4,Target 360° ULTRA,8,3.5,Target 360° ULTRA,7,1
+1841,woman,46,ICA,4.1,4.4,5.2,4.8,57.47456,Stent assist,no,31.2,8,4,Matrix2 360 Soft,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,6,0
+1842,woman,45,ACA,3.1,4.6,5,4.8,57.776,Simple,no,16.3,6,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,3,2,Target 360° Nano,4,0
+1844,woman,50,ICA,5.7,3.5,4.8,4.2,36.9264,Stent assist,no,24.4,6,3,Matrix2 360 Soft,6,3,Target 360° Soft,4,2,Target 360° Nano,5,0
+1845,woman,45,ICA,5.1,4.6,5,4.8,57.776,Double cathe,yes,18.2,8,4,Target 360° Soft,10,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,6,0
+1846,woman,68,VA,5.7,6,7.1,6.6,147.1404,Stent assist,no,25.9,6,4,Target 360° ULTRA,8,4,Matrix2 360 Soft,8,4,Axium Prime 3D,10,1
+1847,man,65,MCA,3.5,5.3,3.4,4.5,42.4371,Stent assist,yes,31.8,8,3,Galaxy G3,3.5,2.5,Galaxy G3 Xtrasoft,3,1.5,Galaxy G3 Mini,7,1
+1848,man,57,ACA,5.2,4.4,4.6,4.5,47.6652,Double cathe,yes,29.5,6,3,Target 360° Soft,4,2.5,Target 360° ULTRA,3,2,Target 360° ULTRA,9,0
+1849,woman,44,ICA,3.8,4.2,5.2,4.7,53.71912,Double cathe,no,28,8,4,Matrix2 360 Soft,6,3,Target 360° Soft,4,2,Kaneka ES,7,0
+1850,woman,67,ICA,3.6,5.2,4.1,4.7,52.44009333,Double cathe,no,27.5,6,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,7,1
+1851,man,44,ICA,5.2,4.8,5.9,5.4,80.03232,Stent assist,no,27,9,5,Barricade Complex Frame,9,5,Barricade Complex Frame,8,4,Barricade Complex Finish,9,0
+1854,man,57,ICA,4.4,6.2,6.3,6.3,128.78082,Double cathe,no,25,10,6,Target 360° Soft,10,5,Target 360° Soft,8,4,Target 360° ULTRA,8,1
+1855,woman,59,ICA,3,4.2,4.1,4.2,37.84956,Simple,no,28.3,6,4,Target 360° Soft,4,3,Target 360° ULTRA,4,3,Target 360° ULTRA,7,0
+1856,man,66,VA,4.4,4.6,4.8,4.7,54.30944,Stent assist,no,21.5,10,5,Galaxy G3,6,4,Galaxy G3 Xtrasoft,4,3,Galaxy G3 Mini,4,0
+1857,woman,72,ICA,2.1,2.8,2.6,2.7,10.28664,Simple,no,23.3,3,2,Target 360° ULTRA,2,2,Target Helical Nano,1,1,Target Helical Nano,3,0
+1858,woman,40,ICA,3.3,4.6,4.2,4.4,44.48752,Double cathe,no,24.5,6,4,Target 360° Soft,6,3,Target 360° ULTRA,4,3,Target 360° ULTRA,6,0
+1860,woman,56,MCA,4.2,4.9,5,4.9,62.82616667,Double cathe,yes,25.6,15,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,8,0
+1861,woman,46,ACA,3.5,4.2,4.4,4.3,41.58616,Double cathe,yes,26.2,6,4,Matrix2 360 Soft,4,3,Target 360° ULTRA,4,2.5,Target Helical ULTRA,7,0
+1862,woman,64,ICA,5.6,4.1,4.9,4.5,47.31195,Stent assist,no,18.3,8,3,Target 360° Soft,4,3,Target 360° ULTRA,4,2.5,Target 360° Nano,6,0
+1863,woman,60,MCA,4.4,3.8,4.2,4,33.4096,Stent assist,no,17.8,6,3,Target 360° ULTRA,3,2,Target 360° Nano,2,2,Target Helical Nano,4,0
+1864,man,70,VA,11,8.6,9.5,9.1,389.0826333,Stent assist,no,23.9,24,8,Galaxy G3,24,8,Galaxy G3,20,6,Galaxy G3,18,2
+1867,woman,45,ICA,3.6,4.4,5.3,4.9,59.80025333,Double cathe,no,28.8,6,4,Target 360° Soft,8,3.5,Target 360° ULTRA,4,2.5,Target 360° ULTRA,8,0
+1868,woman,56,MCA,3.3,2.1,3.2,2.7,9.49536,Stent assist,no,25.5,3,1.5,Target Helical ULTRA,3,2,Axium Prime 3D,4,2.5,Axium Prime 3D,4,0
+1870,man,37,ICA,4.1,2.6,3.8,3.1,16.02865333,Stent assist,yes,40.8,6,3,Target 360° ULTRA,3,2,Target 360° Nano,3,2,Target 360° Nano,6,0
+1871,man,66,MCA,3.2,6.7,6.3,6.5,143.58435,Stent assist,yes,25.2,12,4.5,Target 360° Soft,8,4,Target 360° Soft,8,3.5,Target 360° ULTRA,11,1
+1872,woman,72,ICA,2.9,4.5,2.4,3.5,19.782,Simple,no,21.2,4,2,Target 360° ULTRA,3,2,Target 360° Nano,,,,2,0
+1873,woman,88,ICA,6.3,8.4,7.6,8,267.2768,Double cathe,yes,26.5,8,4,Target 360° Soft,20,5,Target 360° Soft,10,5,Galaxy G3,18,2
+1875,man,50,ACA,5.8,9.7,5.8,7.8,229.65332,Stent assist,yes,23.3,10,5,Target 360° Soft,8,4,Target 360° ULTRA,8,4,Target 360° ULTRA,10,2
+1876,woman,46,ICA,3.4,4.9,4.3,4.6,50.72251333,Simple,yes,23,8,4,Target 360° Soft,4,3,Target 360° ULTRA,4,3,Target 360° ULTRA,7,0
+1877,man,59,MCA,3.4,5.2,4.2,4.7,53.71912,Double cathe,no,21.6,8,4,Target 360° Soft,4,3,Target 360° ULTRA,4,2,Target 360° ULTRA,7,1
+1878,woman,38,ICA,6,5.4,7.6,6.5,139.6044,Double cathe,no,23.7,20,5,Target 360° Soft,10,5,Galaxy G3,8,4,Target Helical ULTRA,10,1
+1881,woman,79,ACA,3,6.1,4,5.1,65.1236,Simple,yes,22.9,8,3,Target 360° Soft,4,2.5,Target Helical ULTRA,4,2,Target 360° Nano,6,1
+1885,man,71,ICA,3.7,5,3.8,4.4,43.75066667,Simple,no,19.3,6,4,Target 360° Soft,4,3,Target 360° ULTRA,4,2,Target 360° ULTRA,5,1
+1886,woman,73,ICA,4,8,5.8,6.9,167.5504,Double cathe,yes,21.8,12,4.5,Target 360° Soft,8,4,Target 360° ULTRA,8,4,Target 360° ULTRA,10,2
+1887,woman,54,ICA,2.4,5.7,3.4,4.1,41.58302,Simple,yes,18,4,3,Target 360° ULTRA,3,2,Target 360° ULTRA,3,2,Target 360° ULTRA,5,1
+1888,woman,59,ACA,4.4,7.3,6.3,6.8,163.66308,Stent assist,yes,22.9,10,5,Target 360° Soft,8,4,Target 360° Soft,8,4,Target 360° Soft,10,2
+1889,woman,49,ICA,4.8,4.7,5.2,4.9,62.67230667,Stent assist,no,30,10,5,Matrix2 360 Soft,8,4,Galaxy G3 Xtrasoft,8,4,Galaxy G3 Xtrasoft,8,0
+1891,man,71,ACA,4.1,4,4.7,4.4,43.29013333,Stent assist,yes,27.1,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,8,0
+1892,woman,57,ICA,3.7,5.3,4.1,4.7,53.44855667,Double cathe,no,23.6,8,4,Target 360° Soft,6,4,Target 360° Soft,4,3,Target 360° ULTRA,6,1
+1894,woman,36,ICA,4.7,5.7,7.9,6.8,160.24676,Stent assist,no,24.3,10,5,Target 360° Soft,8,5,OPTIMA Complex Supersoft,8,5,OPTIMA Complex Supersoft,11,1
+1895,woman,50,ICA,3.2,4.3,3.1,3.7,25.81132333,Simple,no,23.8,6,3,Target 360° Soft,3,2,Target 360° ULTRA,2,2,Target Helical Nano,5,0
+1896,woman,55,BA,4.9,3.7,5.4,4.6,48.09852,Stent assist,no,24.9,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,6,3,Target 360° ULTRA,6,0
+1897,woman,44,ICA,4.9,5.5,6.3,5.9,106.98765,Stent assist,no,26.8,10,5,Target 360° Soft,8,4,Target 360° ULTRA,6,4,Target 360° ULTRA,8,1
+1898,woman,55,ICA,4.3,4,6.2,5.1,66.1912,Stent assist,no,24.4,10,5,Matrix2 360 Soft,8,4,Target 360° ULTRA,6,3,Target 360° ULTRA,3,0
+1899,woman,59,ICA,4.2,5.3,4.6,4.9,62.51844667,Double cathe,yes,27.4,8,4,Matrix2 360 Soft,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,8,1
+1900,woman,40,ICA,5.2,5.6,5.3,5.4,83.87568,Stent assist,no,25.5,10,5,Target 360° Soft,8,4,Target 360° ULTRA,10,4.5,Target 360° ULTRA,7,1
+1901,woman,79,ICA,3.5,3.8,3.7,3.8,27.96065333,Simple,no,24,8,3,Matrix2 360 Soft,3,2,Target 360° Nano,2,2,Target Helical Nano,3,0
+1902,man,71,MCA,6,4.8,5.3,5.1,67.89936,Double cathe,no,22.7,6,4,Matrix2 360 Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° Nano,10,0
+1903,woman,58,MCA,3.8,4.6,4.5,4.6,49.8318,Stent assist,yes,18.2,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,4,2,Target 360° Nano,3,0
+1904,woman,45,ICA,5.3,4.3,4.1,4.2,38.75074,Stent assist,no,41.7,8,3,Matrix2 360 Soft,4,2,Target 360° Nano,6,2,Target Helical Nano,7,0
+1905,woman,79,MCA,5.6,6.3,8.6,8,226.8336,Double cathe,no,20,20,6,Target 360° Soft,12,4.5,Target 360° Soft,6,3,Target 360° ULTRA,16,1
+1906,woman,46,ICA,4.2,5.6,6.1,5.9,105.4746933,Stent assist,no,22.5,10,5,Target 360° Soft,10,4.5,Target 360° Soft,8,3,Target Helical ULTRA,7,1
+1907,man,47,ICA,4.9,5.2,3.9,4.6,48.82072,Stent assist,yes,19.1,10,5,Target 360° Soft,8,4,Target Helical ULTRA,8,3.5,Target 360° ULTRA,5,1
+1908,woman,72,MCA,4.3,5.4,5.8,5.6,91.78848,Double cathe,no,19.6,8,4,Matrix2 360 Soft,8,3,Target 360° ULTRA,4,2,Target 360° ULTRA,7,1
+1909,man,73,MCA,6.4,8.4,8.3,8.4,306.48912,Double cathe,no,19.2,10,6,Target 360° Soft,10,6,Target 360° Soft,10,5,Target 360° ULTRA,19,2
+1910,woman,74,ICA,3.9,3.5,4.5,4,32.97,Double cathe,no,22.2,6,3,Target 360° Soft,3,2,Target 360° ULTRA,2,1.5,Target 360° Nano,6,0
+1911,woman,70,BA,4.7,6.6,5.6,6.1,117.98864,Stent assist,yes,23,15,6,Matrix2 360 Soft,10,5,Target 360° Soft,10,5,Target 360° ULTRA,10,1
+1912,woman,70,ICA,2.9,4.1,3.4,3.8,27.72201333,Double cathe,no,25.2,8,4,Matrix2 360 Soft,3,2,Galaxy G3 Mini,3,2,Galaxy G3 Mini,4,0
+1913,woman,75,BA,5.6,4.4,5.2,4.8,57.47456,Stent assist,no,19.7,6,3,Target 360° Soft,4,3,Galaxy G3 Xtrasoft,3.5,2.5,Galaxy G3 Xtrasoft,7,0
+1914,woman,46,ICA,4.1,4.6,3.8,4.2,38.42104,Double cathe,yes,25.3,8,4,Matrix2 360 Soft,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,5,0
+1915,woman,81,BA,4.3,4.7,5.1,4.9,61.46707,Double cathe,no,23.9,8,4,Matrix2 360 Soft,8,3,Target 360° ULTRA,4,3,Target 360° ULTRA,6,0
+1916,man,66,ICA,3.3,6.6,4.3,5.5,81.6871,Stent assist,no,26,8,4,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,8,3,Target 360° ULTRA,6,1
+1917,man,47,VA,5.7,6.7,4.5,8.08,127.49028,Stent assist,no,27.6,10,4.5,Target 360° ULTRA,8,4,Target 360° ULTRA,10,3,Target 360° ULTRA,10,1
+1923,man,45,ICA,3.1,3.2,3,3.1,15.5744,Double cathe,no,24.3,4,2.5,Matrix2 Helical US ,4,2,Target 360° Nano,3,2,Target 360° Nano,3,0
+1924,woman,37,ICA,4.3,5.7,4.8,5.3,75.88752,Stent assist,no,25.9,10,6,Target 360° Soft,10,3.5,Target 360° Soft,6,4,Target 360° Soft,6,1
+1925,woman,67,ICA,5.9,3.5,5.7,4.6,48.0263,Stent assist,no,31.5,8,3.5,Target 360° ULTRA,6,3,Target 360° Nano,4,2.5,Target 360° Nano,7,0
+1926,woman,67,ICA,4,9.2,10.2,9.7,476.36312,Double cathe,no,26.4,20,8,Target 360° Soft,20,8,Target 360° Soft,20,6,Axium Prime 3D,15,2
+1927,woman,69,ICA,3.5,6.4,5.5,6,110.528,Simple,yes,20.6,10,5,Target 360° Soft,10,4.5,Target 360° ULTRA,4,2.5,Target 360° Nano,9,1
+1928,man,65,ICA,5.1,4.6,5.6,5.1,68.75344,Stent assist,yes,25.4,8,4,Target 360° Soft,4,3,Target 360° ULTRA,6,3,Target 360° ULTRA,9,0
+1929,woman,67,ICA,6.2,6.1,7.3,6.7,156.1370233,Stent assist,yes,27.6,10,6,Target 360° Soft,20,5,Target 360° Soft,15,5,Target 360° ULTRA,11,1
+1930,woman,58,ICA,3.8,4.3,5,4.7,52.88283333,Stent assist,no,24,6,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,6,0
+1931,woman,55,MCA,5.4,5.7,6.9,6.3,129.67101,Stent assist,no,18.9,10,6,Target 360° Soft,8,4,Target 360° Soft,8,4,Target Helical ULTRA,9,1
+1932,woman,66,BA,5.4,3.3,4.8,4.1,33.98736,Stent assist,no,21.3,6,3,Target 360° Soft,6,3,Target 360° ULTRA,6,2,Target Helical ULTRA,5,0
+1934,woman,45,ICA,3.6,5.6,5.7,5.7,95.21736,Double cathe,no,25.5,20,5,Target 360° Soft,8,4,Target 360° Soft,6,3,Target 360° Soft,6,1
+1935,woman,49,ICA,3.7,2.7,3.6,3.2,16.27776,Stent assist,no,23.3,6,3,Target 360° Soft,3,2,Target 360° Nano,,,,2,0
+1936,woman,49,ICA,4.4,4,5.1,4.6,49.1096,Double cathe,no,26.9,8,4,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,7,0
+1938,woman,53,ICA,3.9,3.8,4.6,4.2,38.42104,Stent assist,no,27.4,6,4,Target 360° ULTRA,6,3,Target 360° ULTRA,4,2.5,Target 360° Nano,6,0
+1939,woman,37,ICA,6.8,4,4.7,4.4,43.29013333,Stent assist,yes,28.7,12,4.5,Target 360° Soft,15,4,Target 360° Soft,4,2,Target 360° ULTRA,6,0
+1942,woman,47,ICA,4.4,3,4.3,3.7,24.9787,Stent assist,no,26.6,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,Target 360° Nano,3,0
+1943,woman,65,ICA,3,4.9,4.5,4.7,54.23565,Double cathe,no,24,6,3,Matrix2 360 Soft,4,2,Target 360° ULTRA,3,2,Target 360° Nano,4,0
+1945,woman,84,ACA,4.1,3.7,4.1,3.9,30.96197,Stent assist,no,25.1,10,3.5,Target 360° Soft,4,3,Target 360° ULTRA,3,2,Target Helical ULTRA,4,0
+1948,woman,47,ICA,3.9,5.5,6,5.8,100.166,Double cathe,no,18.4,20,5,Target 360° Soft,12,4.5,Target 360° Soft,8,3.5,Target 360° ULTRA,5,1
+1953,woman,76,ICA,6,5.2,7.6,6.4,132.3656533,Stent assist,no,23.3,12,4.5,Target 360° Soft,10,3,Target 360° ULTRA,8,3,Target 360° ULTRA,8,1
+1954,woman,79,ACA,6.7,5.8,6.4,6.1,118.4994133,Stent assist,no,16.5,12,4.5,Target 360° Soft,4,3,Target 360° ULTRA,8,3.5,Target 360° ULTRA,11,1
+1956,woman,76,ICA,3.1,3.5,4.2,3.9,30.0027,Double cathe,no,30.2,6,3,Target 360° Soft,4,2.5,Target 360° ULTRA,3,2,Target 360° ULTRA,6,0
+1958,woman,48,ICA,2.9,5.1,2.8,4,29.8928,Simple,no,30.8,8,3.5,Target 360° ULTRA,4,2,ED Silky soft,2,2,ED Silky soft,4,1
+1960,woman,60,ICA,3.4,4.6,4.2,4.4,44.48752,BAT,no,27.1,6,4,Matrix2 360 Soft,6,3,i-ED Extra soft,6,3,i-ED Extra soft,7,0
+1961,woman,63,ICA,3.4,7.1,7.1,7.1,187.3067567,BAT,yes,23.2,10,5,Target 360° Soft,10,5,Target 360° Soft,8,4,Target 360° Soft,7,2
+1962,woman,63,ICA,4.1,4,3.7,3.9,30.2068,Stent assist,no,20.1,8,3.5,Target 360° ULTRA,4,2.5,Target 360° ULTRA,3,2,Target Helical Nano,4,0
+1964,woman,54,ICA,4.1,7.4,6.8,7.1,186.9723467,Double cathe,no,23.9,15,6,Matrix2 360 Soft,10,6,Target 360° Soft,10,5,Target 360° ULTRA,10,2
+1965,woman,46,ICA,3.1,3.8,4.1,4,32.61413333,Double cathe,no,28.9,15,4,Target 360° Soft,4,3,Target 360° ULTRA,3,2,i-ED Silky soft,4,0
+1966,man,58,ICA,5,4.9,5.4,5.2,72.00648,Stent assist,no,28.1,8,4,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,8,3.5,Target 360° ULTRA,5,0
+1967,woman,65,ICA,3,4.9,4.5,4.7,54.23565,Double cathe,yes,28.6,8,4,Matrix2 360 Soft,8,3.5,Target 360° ULTRA,8,3,Target 360° ULTRA,6,0
+1970,man,63,ICA,3.2,6.8,5.9,6.4,134.3752533,Double cathe,no,27.5,10,6,Target 360° Soft,10,6,Target 360° Soft,10,5,Target 360° Soft,8,1
+1971,man,73,ACA,6.7,6.4,6.9,6.7,154.83968,Stent assist,yes,26.7,15,5,Matrix2 360 Soft,10,4.5,Target 360° ULTRA,10,4.5,Target 360° ULTRA,9,1
+1972,woman,57,ICA,3.9,4.1,4.3,4.2,38.75074,Stent assist,no,28.2,8,3,Target 360° Soft,4,3,Target 360° ULTRA,4,2,Target 360° ULTRA,8,0
+1973,woman,39,ICA,3.6,3.8,3.5,3.7,25.75323333,Double cathe,no,22.2,8,3.5,Target 360° ULTRA,4,2.5,Target Helical ULTRA,3,1.5,Target 360° Nano,3,0
+1974,man,63,ACA,4.8,7.3,8,7.7,235.3325333,Double cathe,yes,27.5,20,6,Target 360° Soft,15,4,Target Helical ULTRA,8,4,Target Helical ULTRA,11,2
+1975,woman,51,ICA,5,5.9,5.4,5.6,93.37104,Double cathe,no,26.7,15,5,Matrix2 360 Soft,8,4,Target 360° Soft,8,3.5,Target 360° ULTRA,11,1
+1976,woman,67,ICA,2.4,2,2.3,2.2,5.296133333,Stent assist,no,44.1,4,2,Target 360° ULTRA,2,1,Target Helical Nano,1,1,Target Helical Nano,3,0
+1977,woman,76,ICA,7.4,5.5,7.6,6.6,144.3772,Stent assist,no,12.4,20,5,Target 360° Soft,8,4,Target 360° ULTRA,8,4,Target 360° ULTRA,3,1
+1978,woman,72,ICA,3,5.7,3.9,4.8,55.84176,Simple,no,24.6,8,3,Target Helical ULTRA,4,2,Target Helical ULTRA,3,2,Target 360° Nano,5,1
+1979,woman,67,ICA,4.2,5,3.4,4.2,37.366,BAT,no,25,8,3.5,Target 360° ULTRA,4,3,i-ED Silky soft,3,2,i-ED Silky soft,5,1
+1982,woman,51,ICA,3.7,4.6,4.4,4.5,47.6652,Simple,no,29.2,8,4,Matrix2 360 Soft,6,3,Target 360° ULTRA,4,2.5,i-ED Silky soft,8,0
+1986,woman,81,ICA,3,2.5,2.9,2.7,10.24425,Stent assist,no,20.6,4,2.5,Target 360° ULTRA,2,2,Target Helical Nano,,,,2,0
+1987,woman,49,ICA,3,4.7,3.3,4,32.4676,BAT,yes,24.7,6,3,Matrix2 360 Soft,4,2,i-ED Silky soft,3,2,i-ED Silky soft,4,0
+1988,woman,16,ICA,4.4,3.1,4.6,3.9,29.10466,Double cathe,no,27.5,6,3,Matrix2 360 Soft,6,2,Target Helical ULTRA,2,2,i-ED Silky soft,6,0
+1989,woman,75,ICA,3.8,4.5,4.7,4.6,50.9151,Stent assist,no,18.9,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,6,0
+1991,man,63,MCA,5.6,7.6,5.8,6.7,154.5591733,Stent assist,no,28.3,15,6,Matrix2 360 Soft,10,5,Target XL Mini 360 Soft,10,5,Target XL Mini 360 Soft,7,2
+1992,woman,31,ICA,2.8,2.9,2.2,2.6,8.681053333,BAT,no,28.3,4,3,Target 360° ULTRA,2,1,Target 360° Nano,,,,2,0
+1993,woman,38,ICA,6.1,7.5,8.5,8,266.9,Stent assist,no,26.6,20,7,Target XL 360°Soft,10,6,Target 360° Soft,15,5,Target 360° ULTRA,11,2
+1995,woman,49,ICA,6.5,5.4,5.8,5.6,91.78848,Stent assist,no,30.3,10,5,Matrix2 360 Soft,12,4.5,Target 360° Soft,10,3,Target 360° ULTRA,8,1
+1996,woman,63,VA,6.5,7.3,7.3,7.3,203.5855633,Stent assist,no,30.8,20,6,Target XL 360°Soft,15,5,Target XL Mini 360 Soft,15,5,Target XL Mini 360 Soft,6,2
+1997,woman,51,ICA,4.5,6.5,6.4,6.5,141.5093333,Stent assist,no,23.4,20,6,Target 360° Soft,20,5,Target 360° Soft,20,5,Target 360° Soft,5,1
+1998,woman,74,ACA,4.4,5,4.8,4.9,61.544,Stent assist,no,24.5,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,3,i-ED Silky soft,9,1
+2001,man,56,ICA,3.6,3.9,4.3,4.1,35.98283,Stent assist,no,22.1,8,3.5,Target 360° ULTRA,4,2.5,Target 360° Nano,3,2,Target 360° Nano,3,0
+2002,man,51,ACA,3.3,4.7,4.3,4.5,47.59455,Stent assist,yes,25.9,6,3,Target 360° Soft,4,2,Target 360° ULTRA,3,2,i-ED Silky soft,7,0
+2004,woman,71,ACA,5.4,4.6,6.6,5.6,88.97504,Stent assist,yes,24.3,8,4,Target 360° Soft,8,4,Target 360° ULTRA,6,3,Target 360° ULTRA,9,0
+2005,woman,70,BA,7.9,6.9,9,8,259.992,Stent assist,no,32.1,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,15,5,Target XL Mini 360 Soft,12,1
+2006,man,71,BA,4.4,11.8,5.4,8.6,286.78248,Stent assist,no,52.8,30,10,Axium 3D,20,6,Axium Prime 3D,20,6,Axium Prime 3D,11,2
+2008,woman,55,ICA,4.1,5.2,7.2,6.2,121.48032,Double cathe,yes,44.4,20,6,Axium Prime Frame,8,4,Axium Prime 3D,8,4,Axium Prime 3D,11,1
+2009,man,47,ICA,5,7.6,6.3,7,175.4004,Double cathe,no,30.8,20,7,Target XL 360°Soft,10,6,Target 360° Soft,15,5,Target 360° ULTRA,11,2
+2012,woman,51,ICA,6.2,3.4,2.6,3,13.8788,Stent assist,no,44.8,8,3.5,Axium Prime 3D,6,3,i-ED Extra soft,4,2.5,i-ED Silky soft,7,0
+2013,woman,70,BA,6.7,5.6,7.5,6.5,142.87,Stent assist,yes,28.2,10,5,Matrix2 360 Soft,10,4.5,Target 360° ULTRA,10,4.5,Target 360° ULTRA,12,1
+2014,woman,45,ICA,3.7,3.4,4.5,4,32.028,Stent assist,no,37.5,8,4,Target 360° Soft,6,3,ED Complex SS,4,3,ED Complex SS,7,0
+2015,woman,72,MCA,3.3,4.1,2.6,3.4,18.96769333,Stent assist,no,24.3,6,3,Target 360° Soft,4,2,Target 360° Nano,3,2,i-ED Silky soft,3,0
+2016,woman,68,ACA,4.3,4.9,4.9,4.9,61.56964333,Double cathe,no,30.5,8,4,Matrix2 360 Soft,6,3,i-ED Extra soft,6,3,Target 360° ULTRA,10,0
+2017,woman,71,ICA,3.7,5.5,4.5,7,90.6675,Stent assist,yes,30.2,10,6,Target 360° Soft,6,4,Target 360° Soft,4,3,Target 360° ULTRA,12,1
+2018,woman,66,ICA,3.4,4,4,4,33.49333333,Stent assist,no,28.5,6,4,Target 360° Soft,6,4,Target Helical ULTRA,6,3,Target 360° ULTRA,5,0
+2020,woman,51,ICA,3.6,6.2,4.9,5.6,89.03365333,Double cathe,no,31.3,10,6,Matrix2 360 Soft,10,5,Target 360° ULTRA,8,4,Target 360° ULTRA,6,1
+2021,woman,73,ICA,4.4,10,8.9,9.5,442.4783333,Double cathe,yes,27.5,30,9,Target XL 360°Soft,30,9,Target XL 360°Soft,30,8,Target XL 360°Soft,7,2
+2022,man,55,ICA,4.5,4.1,4.8,4.5,46.3464,Double cathe,no,26.8,12,4.5,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,7,0
+2023,man,73,MCA,3.7,7.3,6.3,6.8,163.66308,Stent assist,yes,28.3,20,7,Target XL 360°Soft,10,6,Target 360° Soft,10,4.5,Target 360° ULTRA,6,2
+2025,man,80,ACA,6.9,7.5,5.9,6.7,155.15525,Stent assist,yes,25.7,15,5,Axium Prime Frame,8,4,Axium Prime 3D,8,4,Axium Prime 3D,8,2
+2026,man,58,ACA,5.5,5.8,7.7,6.8,158.9300533,Stent assist,yes,26.7,15,4,Target 360° Soft,10,3.5,Target 360° Soft,8,3.5,Target 360° ULTRA,15,1
+2027,woman,70,ICA,4.1,3.7,4,3.9,30.2068,Stent assist,no,23.5,8,4,Target 360° ULTRA,6,3,Target 360° ULTRA,3,2,i-ED Silky soft,4,0
+2028,woman,38,ICA,3.9,4.6,5.4,5,64.998,BAT,no,23.1,12,4.5,Target 360° Soft,8,3.5,Target 360° ULTRA,8,3.5,Target 360° ULTRA,5,0
+2029,woman,44,ICA,4.1,8.6,5.6,7.2,181.46688,Double cathe,yes,27.2,10,6,Target 360° Soft,10,6,Target 360° Soft,15,5,Target 360° ULTRA,11,2
+2030,woman,57,ICA,3.4,3.4,3.7,3.6,23.70072,Stent assist,no,24.1,6,3,Matrix2 360 Soft,3,2,Target 360° Nano,,,,2,0
+2033,woman,69,ICA,4.5,7,8.6,7.8,245.7364,BAT,yes,20.9,20,6,Target 360° Soft,12,4.5,Target 360° Soft,8,3.5,Target 360° ULTRA,10,2
+2035,man,47,ICA,4.3,4.2,3.9,4.1,35.14602,Stent assist,no,27.4,8,4,Target 360° Soft,8,3,Target 360° ULTRA,4,3,Target 360° ULTRA,5,0
+2036,man,72,ICA,5,4.9,5.2,5.1,68.00612,Stent assist,yes,24.9,4,3,Target 360° ULTRA,4,3,i-ED Silky soft,4,2,i-ED Silky soft,6,0
+2038,woman,60,ICA,5.5,4.8,5.4,5.1,69.18048,Double cathe,no,28.9,12,4.5,Target 360° Soft,10,4.5,Target 360° ULTRA,8,4,Target Helical ULTRA,7,0
+2039,woman,49,VA,5.3,4.8,5.4,5.1,69.18048,Stent assist,no,34.7,12,4.5,Target 360° Soft,6,4,Axium Prime 3D,6,4,Axium Prime 3D,8,0
+2040,woman,54,ICA,4.1,4.2,3.8,4,33.4096,BAT,no,28.5,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,Target 360° ULTRA,6,0
+2042,woman,67,ICA,4.3,6.3,5.3,5.8,101.34978,Stent assist,yes,34.8,10,5,Axium Prime 3D,8,4,Target Helical ULTRA,8,3.5,Target 360° ULTRA,10,1
+2045,man,61,MCA,4.2,3.1,3.5,3.4,19.30576667,Stent assist,no,29.1,4,2.5,Target 360° ULTRA,4,2.5,Target 360° Nano,3,2,Target 360° Nano,5,0
+2046,man,54,BA,7.5,6.1,7.1,6.6,149.59274,Stent assist,no,26.4,20,6,Target 360° Soft,12,4.5,Target 360° Soft,12,4.5,Target 360° Soft,16,1
+2047,woman,49,ICA,3.9,5.3,4.8,5.1,67.89936,Double cathe,no,28,10,5,Target 360° Soft,12,4.5,Target 360° Soft,4,3,Target 360° ULTRA,7,1
+2048,woman,39,ICA,3.2,5.9,2.7,4.3,35.84781,Stent assist,yes,28.4,6,3,i-ED Extra soft,4,2,i-ED Silky soft,3,2,i-ED Silky soft,4,1
+2049,woman,46,ICA,4.9,4,3.7,3.9,30.2068,Stent assist,no,23.8,8,3,Target 360° Soft,6,3,i-ED Silky soft,4,2,i-ED Silky soft,4,0
+2050,woman,50,ICA,3.3,4.3,4,4.2,37.8056,Stent assist,no,22.6,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,i-ED Silky soft,5,0
+2051,woman,64,ACA,4,3.5,3.9,3.7,26.43095,Stent assist,yes,26.6,6,3,Target 360° Soft,4,2.5,i-ED Silky soft,4,2,i-ED Silky soft,5,0
+2053,man,66,ACA,2.8,3.7,2.6,3.2,16.11029333,Double cathe,no,20.9,4,2,Target 360° ULTRA,3,2,i-ED Silky soft,2,1.5,i-ED Silky soft,3,0
+2054,man,61,ICA,3,3.8,3.6,3.7,26.48904,Simple,no,22,6,4,Matrix2 360 Soft,4,2.5,Smart Complex Extra Soft,2,1.5,Smart Wave Extra Soft,3,0
+2055,woman,64,MCA,3.7,5.3,5.6,5.5,85.42893333,Double cathe,yes,32.8,8,4,Target 360° Soft,4,2.5,Target 360° ULTRA,4,2.5,Target Helical ULTRA,9,1
+2056,woman,47,ICA,6.9,5.6,7.8,6.7,153.15664,Stent assist,yes,26.2,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,10,5,Target 360° ULTRA,5,1
+2057,woman,70,ACA,4,5.2,5,5.1,69.394,Stent assist,no,23.3,6,4,Target 360° Soft,6,3,Target 360° ULTRA,6,3,Target 360° ULTRA,6,1
+2060,woman,58,ICA,3.2,4.6,3.6,4.1,35.53224,Double cathe,no,28.4,8,4,Target 360° Soft,4,3,Target 360° ULTRA,4,2.5,Target 360° Nano,5,0
+2062,woman,67,ICA,3.6,3.7,3.1,3.4,20.40895333,Stent assist,no,28.3,4,2.5,Target 360° ULTRA,3,2,Target 360° Nano,3,1,Target 360° Nano,5,0
+2063,woman,65,BA,3.7,3.6,3.9,3.8,27.92088,Stent assist,no,30.8,8,3,Target 360° Soft,6,3,Target 360° ULTRA,4,2,Target 360° Nano,6,0
+2064,woman,50,ICA,5.2,4.6,4,4.3,41.40613333,Stent assist,no,8.8,10,5,Target 360° Soft,,,,,,,1,0
+2065,woman,71,MCA,6.2,6.2,6.8,6.5,143.4142667,Double cathe,no,21.9,20,5,Target 360° Soft,8,4,Target 360° ULTRA,6,3,Target 360° ULTRA,12,1
+2066,woman,55,ICA,4.5,5,4.7,4.9,60.26183333,Stent assist,yes,31.2,15,4,Target 360° Soft,4,3,Target Helical ULTRA,4,3,Target Helical ULTRA,8,1
+2068,woman,73,ICA,4.3,5.7,4.4,5.2,68.25104,Double cathe,no,25.4,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,3,Target 360° ULTRA,9,1
+2069,woman,40,ICA,5,5.7,6.1,5.9,107.35817,Stent assist,yes,,15,5,Target XL 360°Soft,12,4.5,Target 360° Soft,10,4.5,Target 360° ULTRA,6,1
+2070,woman,52,ICA,7,4.7,5.9,5.3,76.91377667,Stent assist,yes,32.7,10,5,Target 360° Soft,10,4.5,Target 360° ULTRA,8,4,Target 360° ULTRA,11,0
+2071,woman,64,ICA,4.3,6.4,6,6.2,124.5952,Stent assist,no,38.3,15,6,Axium Prime Frame,15,5,Axium Prime HELIX,10,4.5,Target 360° ULTRA,13,1
+2072,woman,51,ICA,5.7,4.5,5,4.8,56.52,Stent assist,no,34.7,10,4.5,Target 360° ULTRA,6,4,Target 360° ULTRA,7.5,3.5,Galaxy G3 Xtrasoft,14,0
+2074,man,64,BA,4.16,5.2,6,5.6,91.4368,Stent assist,yes,36.6,20,6,Target XL 360°Soft,6,3,OPTIMA Complex Supersoft,4,2,OPTIMA Complex Supersoft,6,1
+2075,woman,46,ICA,5,4.3,5.7,5,64.1345,Stent assist,no,25.6,8,4,Target 360° Soft,8,3.5,Target 360° ULTRA,8,4,OPTIMA Complex Supersoft,7,0
+2076,man,71,ACA,3.8,5.1,4,4.6,49.1096,Stent assist,yes,24.7,6,3,Target 360° ULTRA,4,3,Target 360° ULTRA,6,2.5,Target Helical ULTRA,5,1
+2078,woman,64,ICA,3.7,4.4,4.4,4.4,44.57962667,Double cathe,no,29.4,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,7,0
+2081,woman,63,ICA,2.7,4.8,3.1,4,31.1488,Double cathe,no,21.1,10,3.5,Target 360° Soft,3,1.5,i-ED Silky soft,,,,2,0
+2082,man,38,ICA,5.1,4.8,5.8,5.3,77.21888,Stent assist,no,27.6,12,4,Target XL Mini 360,6,4,Axium Prime 3D,6,3.5,Axium Prime 3D,6,0
+2083,woman,48,ICA,5.1,3.5,4.2,3.9,30.0027,Stent assist,no,41.7,13,4,OPTIMA Complex Soft,6,3,OPTIMA Complex Supersoft,6,2.5,OPTIMA Complex Supersoft,5,0
+2087,woman,51,ICA,2.9,4.9,4.5,4.7,54.23565,Double cathe,no,27.9,8,3.5,i-ED Extra soft,4,2,i-ED Silky soft,4,2,i-ED Silky soft,5,0
+2088,woman,48,ICA,6.5,7.1,6.6,6.9,169.21146,Stent assist,no,30,20,6,Target XL 360°Soft,10,5,Target XL 360°Soft,12,4.5,Target 360° Soft,11,2
+2089,man,53,ACA,5.7,4.8,5.2,5,65.312,Stent assist,no,44.1,17,5,OPTIMA Complex Soft,8,4,OPTIMA Complex Supersoft,8,4,OPTIMA Complex Supersoft,9,0
+2091,man,49,ACA,3.4,4.2,3.6,3.9,30.85992,Double cathe,no,41.5,8,3.5,Target 360° ULTRA,4,2,Target 360° Nano,3,2,OPTIMA Complex Supersoft,6,0
+2095,man,60,ACA,5.2,4.7,7.5,6.1,112.52975,Stent assist,no,25.8,20,6,Target XL 360°Soft,10,5,Galaxy G3,3.5,2.5,Galaxy G3 Xtrasoft,3,0
+2097,woman,72,MCA,5.3,6.2,6.3,6.3,128.78082,Double cathe,no,26.1,12,4.5,Target 360° Soft,10,3.5,Target 360° Soft,6,3,Target 360° Nano,14,1
+2099,woman,81,MCA,3.3,5.1,4.4,5,58.718,Double cathe,no,26,10,4,i-ED Soft,6,3,i-ED Extra soft,6,3,i-ED Extra soft,7,1
+2101,woman,46,ICA,5,5.8,7,6.4,135.9829333,Double cathe,no,24.6,20,6,Target 360° Soft,10,6,Target 360° Soft,10,5,Target 360° ULTRA,9,1
+2102,woman,53,ICA,2.6,4,3.1,3.6,23.3616,Double cathe,yes,28,6,3,Target 360° Soft,4,2,Target 360° ULTRA,4,2,Target 360° Nano,4,0
+2105,man,55,ACA,4.6,3.9,5.3,4.6,49.75958,Stent assist,no,22.4,10,3.5,Target 360° Soft,8,3,Target 360° ULTRA,6,3,Target 360° ULTRA,5,0
+2108,woman,79,ICA,3,4.1,3.6,3.9,30.12516,Stent assist,no,25.9,8,3.5,i-ED Extra soft,4,2,i-ED Silky soft,4,2,i-ED Extra soft,3,0
+2109,woman,50,MCA,3.1,7.3,5.1,6.2,120.79894,Double cathe,no,35.4,10,6,Target 360° Soft,10,6,Target 360° Soft,12,4.5,Target 360° Soft,8,2
+2110,woman,72,ACA,4,4.7,4.2,4.5,46.4877,Stent assist,no,23.8,8,3,Target 360° Soft,4,3,Target 360° ULTRA,4,2.5,Target 360° Nano,4,0
+2111,woman,74,ICA,10.9,14.8,14.3,14.5,1605.994867,Stent assist,no,27.2,50,14,Target XL 360°STD,50,14,Target XL 360°STD,50,14,Target XL 360°STD,19,2
+2112,woman,53,ACA,3.4,4.7,3.7,4.2,38.22322,Stent assist,no,30.4,8,3.5,Target 360° ULTRA,4,2,i-ED Silky soft,4,2,i-ED Silky soft,5,0
+2114,woman,85,BA,4.8,4.5,5.5,5,64.7625,Stent assist,no,25.7,20,5,Target 360° Soft,12,4.5,Target 360° Soft,8,3,Target 360° ULTRA,5,0
+2115,woman,52,ICA,4.6,5.8,6.7,6.3,128.12142,Double cathe,yes,29.1,20,6,Target 360° Soft,12,4.5,Target 360° Soft,8,4,Target 360° ULTRA,11,1
+2116,woman,56,ICA,4.7,4.4,4.2,4.3,41.58616,Stent assist,yes,29.8,8,3.5,Target 360° ULTRA,6,3,Target 360° ULTRA,4,2,Target 360° ULTRA,5,0
+2117,man,73,MCA,4.1,3,3.4,3.2,17.0816,Stent assist,no,42.4,10,3.5,Target 360° Soft,6,3,Target Helical ULTRA,2,2,Target Helical ULTRA,4,0
+2118,woman,70,ICA,3.2,5.2,4.3,4.8,56.16832,Double cathe,no,24.8,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° Nano,4,1
+2119,woman,67,ICA,4.2,3.6,4.9,4.3,39.69588,Stent assist,no,24.1,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,OPTIMA Complex SS,5,0
+2120,woman,64,ICA,3.3,3.9,3.3,3.6,24.24708,Stent assist,yes,24.9,6,3,i-ED Extra soft,4,2,i-ED Silky soft,3,2,i-ED Silky soft,4,0
+2121,man,49,ICA,4.2,3.9,3.1,3.5,22.14485,Stent assist,yes,29.7,8,3,Target 360° Soft,4,3,i-ED Silky soft,4,2.5,i-ED Silky soft,5,0
+2123,woman,49,BA,3.9,5.1,4.2,4.7,52.68606,Stent assist,no,25.8,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,5,1
+2124,woman,41,ICA,5,5.6,5.8,5.7,96.88784,Double cathe,no,24.1,20,5,Target 360° Soft,10,5,Target 360° Soft,10,4.5,Target 360° ULTRA,7,1
+2126,woman,43,ICA,4.4,3.2,4.3,3.8,27.36405333,BAT,no,26.9,8,4,Target 3D STD,4,3,Target 360° Nano,4,3,Target 360° Nano,4,0
+2127,man,67,MCA,5.9,7.8,9.1,8.5,315.7427,Stent assist,no,32.4,30,9,Target XL 360°Soft,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,7,2
+2129,woman,69,ACA,4.2,4.3,4.2,4.3,40.64102,Double cathe,no,29.6,10,3.5,Target 360° Soft,4,3,Target 360° ULTRA,3,2,Target 360° Nano,8,0
+2130,woman,57,BA,3.4,3.8,3.4,3.6,24.34128,Double cathe,no,27.9,10,3.5,Target 360° Soft,4,3,Target 360° ULTRA,3,2,Target Helical Nano,4,0
+2131,man,29,ICA,4,4.4,5,4.7,54.11266667,Stent assist,no,30.9,15,4,i-ED Soft �,4,3,Hydro Soft 3D,4,2.5,Hydro Soft 3D,7,0
+2132,man,46,ACA,3,4,3.7,3.9,30.2068,Stent assist,no,32.4,7,4,OPTIMA Complex Soft,4,2,OPTIMA Complex SS,4,3,OPTIMA Complex SS,5,0
+2134,woman,38,ICA,4.6,4.5,5.5,5,64.7625,Stent assist,no,33.6,12,4.5,Target 360° Soft,8,4,Hydro Soft 3D,6,3,Hydro Soft 3D,7,0
+2135,woman,62,MCA,5.5,3.7,4.8,4.3,39.96592,Stent assist,no,28.8,10,3.5,Target 360° Soft,4,2.5,Target 360° Nano,4,2.5,Target 360° Nano,9,0
+2136,woman,70,MCA,3.5,4.9,3.7,4.3,40.79854333,Double cathe,no,21.5,10,3.5,Target 360° Soft,6,3,Target 360° Nano,4,2.5,Target 360° Nano,4,0
+2137,woman,71,ICA,4.9,3.9,4.3,4.1,35.98283,Stent assist,no,31.7,8,3,Target 360° Soft,4,2.5,OPTIMA Complex SS,4,3,OPTIMA Complex SS,8,0
+2138,woman,55,ICA,4.8,5.4,6.2,5.8,101.62296,Stent assist,no,22.5,20,5,Target 360° Soft,6,4,Target 360° ULTRA,6,4,Target 360° ULTRA,7,1
+2139,woman,57,ICA,4.5,5.4,4.4,4.9,60.92856,Stent assist,no,25,20,5,Target 360° Soft,10,3.5,Target 360° Soft,6,3,Target 360° ULTRA,4,1
+2140,woman,59,ICA,4,4.3,4.7,4.5,47.59455,Double cathe,no,27.7,12,4.5,Target 360° Soft,8,3,Target 360° ULTRA,6,3,Target 360° ULTRA,5,0
+2141,woman,43,ICA,5.4,5.2,4.2,4.7,53.71912,Stent assist,yes,23.3,15,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,7,1
+2142,man,50,ICA,3.7,5.1,5.4,5.3,76.38678,Double cathe,no,29.9,20,5,Target 360° Soft,10,4.5,Target 360° ULTRA,6,4,Target 360° ULTRA,9,1
+2143,man,67,ICA,4.5,8,5.8,6.9,167.5504,Stent assist,yes,27.7,20,6,Axium Prime Frame,10,5,Axium Prime 3D,8,4,Target 360° Soft,13,2
+2144,man,45,ICA,3.8,3.9,4.1,4,33.4724,Double cathe,no,27.8,10,3.5,Target 360° Soft,4,3,Target 360° ULTRA,4,3,Target 360° ULTRA,6,0
+2145,woman,62,ICA,3.1,4.8,3.5,4.2,36.9264,BAT,yes,34.4,7,4,OPTIMA Complex Soft,8,3,OPTIMA Complex SS,4,3,OPTIMA Complex SS,5,0
+2146,woman,58,ACA,3.6,3.5,4.3,3.9,30.71705,Stent assist,yes,26.7,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2.5,OPTIMA Complex SS,4,0
+2147,woman,45,ICA,3.5,3.9,4,4,32.656,Stent assist,yes,25.1,13,4,OPTIMA Complex Soft,2,2,OPTIMA Complex SS,2,2,OPTIMA Complex SS,3,0
+2148,man,41,ICA,5.8,5.4,6.4,5.9,106.70976,Stent assist,no,35,20,6,Target XL 360°Soft,8,4,Hydro Soft 3D,8,4,Hydro Soft 3D,8,1
+2151,man,45,ACA,4.8,5.3,5.9,5.6,91.64194667,Double cathe,yes,24,8,4,Target 360° Soft,8,3.5,Target 360° ULTRA,4,2.5,Target 360° ULTRA,8,1
+2152,woman,72,ACA,6.4,9.6,8.1,8.9,362.18016,Double cathe,yes,24.3,20,7,Target XL 360°Soft,20,6,OPTIMA Complex Soft,20,6,OPTIMA Complex Soft,11,2
+2153,woman,56,ICA,4,5,3.9,4.5,45.9225,Double cathe,no,24,13,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,2,2,OPTIMA Complex SS,3,1
+2154,woman,65,ICA,3.5,6.8,5.2,6,111.0304,Double cathe,no,32.3,20,6,Target 360° Soft,10,5,Target 360° Soft,8,4,Target 360° ULTRA,7,1
+2155,woman,47,ICA,4.1,5.7,5.3,5.5,86.95445,BAT,no,23.5,20,5,Target 360° Soft,8,3.5,Target 360° ULTRA,3,2,Target 360° Nano,9,1
+2156,woman,50,ICA,5.2,8.4,5.9,7.1,184.14844,Stent assist,no,29.8,20,6,Target XL 360°Soft,13,5,OPTIMA Complex SS,10,4,OPTIMA Complex SS,8,2
+2157,woman,54,ICA,5.2,3.2,5.3,4.3,38.16565333,Stent assist,no,22.1,6,4,Target 360° ULTRA,3,2,Hydro Soft 3D,3,1,Target Helical Nano,6,0
+2158,woman,53,ICA,3.7,6.3,6.5,6.4,137.1552,Stent assist,yes,39.6,20,6,Target XL 360°Soft,6,3,i-ED Extra soft,6,3,i-ED Extra soft,10,1
+2159,woman,42,ICA,3.5,5.4,6.3,5.9,105.04242,Stent assist,yes,28,11,6,OPTIMA Complex Soft,17,5,OPTIMA Complex Soft,9,5,OPTIMA Complex Soft,5,1
+2161,woman,53,ACA,2.5,4.2,3,3.6,23.7384,Double cathe,no,26.6,4,2.5,Target 360° ULTRA,3,1,Target 360° Nano,2,1,Target 360° Nano,4,0
+2162,woman,72,ICA,6,9.7,6.6,8.2,274.73116,Stent assist,no,21.9,6,3,Target 360° Nano,10,3.5,Target 360° Soft,10,3.5,Target 360° Soft,13,2
+2163,man,65,ICA,5.6,5,4.4,4.7,54.11266667,Stent assist,yes,26.6,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,i-ED Silky soft,9,1
+2164,woman,80,VA,4.3,8.8,8.7,8.8,352.58432,Stent assist,no,22.9,20,6,Target XL 360°Soft,20,6,Target XL 360°Soft,12,4,Target XL 360°Soft,9,2
+2165,woman,80,ICA,4.3,3.8,3.9,3.9,30.24762,Stent assist,no,34,8,4,OPTIMA Complex SS,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,7,0
+2166,man,64,ACA,3.2,4,3.3,3.7,25.5596,Double cathe,no,27.6,8,3.5,Target 360° ULTRA,6,2,Target Helical ULTRA,4,2.5,Target 360° Nano,3,0
+2169,woman,43,ICA,7,4.6,4.7,4.7,53.17799333,Stent assist,no,33.5,13,4,OPTIMA Complex Soft,10,3,OPTIMA Complex SS,6,3,OPTIMA Complex SS,5,0
+2170,woman,35,ICA,6.2,6.1,6.9,6.5,143.17615,Stent assist,no,28.5,20,6,Target XL 360°Soft,10,5,Target 360° Soft,20,5,Target 360° Soft,8,1
+2171,woman,59,ICA,5.2,4.2,6.3,5.2,72.00648,Stent assist,no,32.4,12,4.5,Target 360° Soft,8,4,Hydro Soft 3D,8,4,Hydro Soft 3D,7,0
+2173,man,45,VA,7.2,5.2,5.7,5.5,85.3138,Stent assist,no,34.3,20,6,Target XL Helical Soft,12,4,Target XL Mini 360,6,3,Target XL Mini 360,3,1
+2174,woman,58,ICA,7.3,4.5,6.6,5.6,87.0408,Stent assist,no,52.9,20,6,Target XL 360°Soft,10,5,Target XL 360°Soft,8,4,Target 360° ULTRA,7,0
+2176,woman,72,ACA,4.9,4.2,4.6,4.4,44.48752,Stent assist,no,23,7,4,OPTIMA Complex Soft,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,5,0
+2177,man,56,ICA,4,4.8,4,4.4,44.2112,Stent assist,no,21.4,13,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,,,,2,0
+2178,woman,76,ACA,2.7,5.2,5.2,5.2,73.58485333,Simple,no,29.4,13,4,OPTIMA Complex Soft,8,3,OPTIMA Complex SS,3,2,OPTIMA Complex SS,6,1
+2180,man,65,BA,9.9,5.9,8.2,7.2,182.29584,Stent assist,no,30.3,20,6,Target XL 360°Soft,15,5,Target XL Mini 360,15,5,Target XL Mini 360,9,1
+2181,woman,44,ICA,4.8,4.7,5.7,5.2,72.90452,Stent assist,yes,20.3,12,4.5,Target 360° Soft,8,4,Hydro Soft 3D,4,2.5,Hydro Soft 3D,4,0
+2182,woman,51,ICA,4.5,5.1,5.9,5.5,86.60905,Stent assist,no,27.2,10,5,Target 360° Soft,15,4,Target 360° Soft,8,4,Target 360° ULTRA,7,1
+2183,woman,51,ICA,3.3,4.4,4.2,4.3,41.58616,Double cathe,no,29.8,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,6,0
+2186,woman,61,ICA,4.3,7.6,6.4,7,178.1845333,Stent assist,no,30.6,20,7,Target XL 360°Soft,20,6,Target 360° Soft,8,4,Target Helical ULTRA,11,2
+2187,man,49,ICA,3.7,4.5,4.1,4.3,41.51865,Double cathe,no,32,12,4.5,Target 360° Soft,8,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,7,0
+2189,woman,61,ACA,3.5,4.9,5,5,64.10833333,Stent assist,yes,32.9,10,5,Target 360° Soft,8,4,Target 360° ULTRA,8,3,Target 360° ULTRA,6,0
+2190,woman,55,ICA,6.6,4.8,5,4.9,61.544,Stent assist,no,31.6,10,5,Axium Prime Frame,10,5,Target 360° ULTRA,6,4,Target 360° ULTRA,8,0
+2191,woman,80,ICA,3.3,7.2,6.4,6.8,163.98336,Double cathe,yes,28.8,20,6,Target 360° Soft,10,5,Target 360° Soft,8,4,Axium Prime HELIX,11,2
+2194,woman,39,ICA,3.1,4.7,2.1,3.4,17.56202,Stent assist,no,28.1,4,2.5,Target 360° ULTRA,3,2,Target 360° ULTRA,2,2,Target Helical Nano,3,0
+2195,woman,55,MCA,5.3,4.6,5.6,5.1,68.75344,Stent assist,no,28.9,12,4.5,Target 360° Soft,12,4.5,Target 360° Soft,8,4,Target 360° Soft,7,0
+2196,man,38,ICA,3.6,5.3,4.4,4.9,59.80025333,Stent assist,no,36.5,9,5,OPTIMA Complex Soft,10,5,OPTIMA Complex SS,10,4,OPTIMA Complex SS,7,1
+2197,man,77,ICA,4.9,5.1,5,5.1,68.0595,Stent assist,yes,32.9,10,3.5,Target 360° Soft,8,2,OPTIMA Complex SS,6,2.5,OPTIMA Complex SS,8,1
+2198,woman,55,ICA,4.5,3.7,3.1,3.4,20.40895333,Stent assist,yes,30.9,10,4,OPTIMA Complex SS,2,2,OPTIMA Complex SS,2,2,OPTIMA Complex SS,3,0
+2199,woman,47,BA,6,5,6.4,5.7,95.456,Double cathe,no,30.6,20,5,Target 360° Soft,8,4,Target 360° ULTRA,8,4,Target 360° ULTRA,14,1
+2200,man,54,ICA,3.5,4.2,4.2,4.2,38.77272,Stent assist,no,29.4,17,5,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,4,0
+2201,man,63,ACA,3.2,4,3.4,3.7,26.33413333,Stent assist,no,33.4,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,4,0
+2202,woman,44,ICA,6.5,7.8,8.6,8.2,287.86264,Stent assist,no,26.4,30,9,Target XL 360°Soft,30,8,Target XL 360°Soft,20,8,Target 360° Soft,9,2
+2204,woman,73,ACA,6.2,5.7,5.4,5.6,90.20592,Stent assist,no,24.2,17,5,OPTIMA Complex Soft,8,4,OPTIMA Complex SS,8,4,Target 360° ULTRA,6,1
+2206,man,35,ICA,5.1,4.3,5,4.7,52.88283333,Stent assist,no,24.2,12,4.5,Target 360° Soft,8,4,Target 360° ULTRA,8,3.5,i-ED Extra soft,6,0
+2207,woman,64,ICA,3,3.5,3.5,3.5,22.43791667,Stent assist,yes,33.1,4,1.5,Target 360° Nano,6,3,Target 360° Soft,2,1,Target 360° Nano,3,0
+2208,woman,53,ICA,3.2,3.6,3.2,3.4,20.49792,Double cathe,no,29.7,10,3.5,Target 360° Soft,4,2.5,Target 360° Nano,3,2,i-ED Silky soft,4,0
+2209,woman,50,ICA,4.4,6.3,6.3,6.3,130.85793,Stent assist,no,37.1,20,7,Target XL 360°Soft,10,5,Target XL Mini 360,8,4,Target 360° Soft,7,1
+2210,woman,66,MCA,4.4,3.9,4.4,4.2,37.71768,Double cathe,no,27.2,8,3,Target 360° Soft,4,3,Target 360° ULTRA,3,2,Target 360° Nano,7,0
+2211,man,70,ACA,3.3,8.1,7.5,7.8,247.9815,Stent assist,yes,32.1,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,15,5,Target XL Mini 360,10,2
+2212,woman,74,MCA,4.6,3.2,4.2,3.7,26.02432,Double cathe,no,29.1,6,3,Target 360° Soft,6,2.5,Target Helical ULTRA,4,2,Target Helical ULTRA,4,0
+2214,woman,68,BA,6.7,9.8,8.9,9.4,429.0642533,Stent assist,no,24.8,30,8,Target XL 360°Soft,30,4,i-ED ES �,15,4,i-ED ES �,9,2
+2215,woman,69,ICA,3.2,3.4,3.3,3.4,19.96412,Simple,no,30.4,8,3,Target 360° Soft,4,2.5,Target 360° ULTRA,3,2,Target 360° Nano,5,0
+2216,man,58,ACA,4.7,4.3,4.3,4.3,41.60866333,Simple,no,31.5,12,4.5,Target 360° Soft,8,4,Hydro Soft 3D,4,3,Hydro Soft 3D,5,0
+2217,woman,78,MCA,4.5,7.8,5.6,6.7,153.15664,Stent assist,yes,45.3,15,5,Target XL Mini 360,12,4,Target XL Mini 360,8,4,Target XL Mini 360,7,2
+2218,woman,53,ICA,2.3,7.4,7.1,7.2,197.97072,Stent assist,yes,21.3,15,4,i-ED ES �,15,4,i-ED ES �,8,4,Target XL Mini 360,4,2
+2219,woman,64,ICA,3.8,4.6,4.5,4.6,49.8318,Double cathe,yes,24.6,20,5,Target 360° Soft,10,4.5,Target 360° ULTRA,6,3,Target 360° ULTRA,3,0
+2221,woman,87,MCA,5.9,5.4,5.9,5.7,95.03838,Stent assist,yes,28.7,20,5,Target 360° Soft,6,4,Target 360° ULTRA,6,3,Target 360° ULTRA,12,1
+2223,man,43,ACA,4.1,5.6,5.6,5.6,91.90570667,Stent assist,yes,32.7,8,4,Target XL Mini 360,8,4,Target 360° ULTRA,8,3.5,Target 360° ULTRA,7,1
+2224,woman,65,ICA,7.8,4.9,4.9,4.9,61.56964333,Stent assist,yes,21,15,4,Target 360° Soft,8,4,Target 360° Soft,8,3.5,Target 360° ULTRA,6,0
+2225,woman,52,ICA,4.8,6.1,7.7,6.9,169.60867,Double cathe,no,30.1,20,6,Target XL 360°Soft,15,5,Target XL Mini 360,10,5,Target 360° Soft,8,1
+2226,woman,67,BA,6.4,3.5,3.3,3.4,20.5513,Stent assist,yes,30.5,8,4,Target 360° ULTRA,6,2,Target Helical Nano,2,2,Target Helical Nano,7,0
+2227,woman,72,ACA,4.5,3.6,3.5,3.6,23.7384,Stent assist,yes,39.7,8,4,Target XL Mini 360,3,2,Hydro Soft 3D,2,1,Target 360° Nano,7,0
+2228,woman,51,ICA,3.2,5.2,5.5,5.4,80.8236,Stent assist,yes,32.5,10,4.5,Target 360° ULTRA,8,3,Target 360° ULTRA,3,2,Target 360° Nano,6,1
+2229,woman,52,ICA,3.2,4.2,4.3,4.3,40.64102,Stent assist,no,30.5,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,5,0
+2231,woman,55,ICA,3.5,4.4,4.9,4.7,53.03041333,Double cathe,no,28.4,8,4,Target 360° Soft,8,4,Target 360° ULTRA,8,3.5,Target 360° ULTRA,6,0
+2232,woman,31,ICA,4.5,3.6,4.7,4.2,37.19016,Stent assist,no,30.4,10,4.5,Target 360° ULTRA,6,3,Target 360° ULTRA,4,2,Target 360° Nano,6,0
+2233,woman,61,ICA,7,7.1,8.6,7.9,252.4423933,Stent assist,no,28,30,8,Target XL 360°Soft,30,8,Target 360° Soft,15,4,Target 360° ULTRA,7,2
+2234,woman,57,ICA,6.4,4.4,5.7,5.1,66.93852,Stent assist,no,30.2,20,6,Target XL 360°Soft,4,2.5,Hydro Soft 3D,3,1,Target 360° Nano,10,0
+2235,woman,75,BA,5.1,5.9,5.3,5.6,91.64194667,Stent assist,yes,32.5,12,4.5,Target 360° Soft,15,4,Target 360° Soft,3,2,Target 360° Nano,9,1
+2236,man,67,ACA,5.3,4.5,4,4.3,40.506,Stent assist,no,37.5,15,4,Target 360° Soft,8,3,Target 360° Soft,8,3,Target 360° ULTRA,5,0
+2238,woman,58,ICA,4.4,3.5,4.4,4,32.23733333,Stent assist,no,27.9,8,4,Target 360° Soft,8,3,Target 360° Soft,6,3,Target 360° ULTRA,4,0
+2240,woman,75,BA,6.8,5.8,5.7,5.8,100.34812,Stent assist,yes,36.6,20,6,Target XL 360°Soft,15,5,Target XL Mini 360,8,3,Target 360° ULTRA,6,1
+2241,woman,63,ICA,4.2,4.5,4.2,4.4,43.5204,Double cathe,yes,29.6,12,4.5,Target 360° Soft,8,3,Target 360° ULTRA,4,3,i-ED Silky soft,7,0
+2244,man,64,ACA,2.5,3.2,2.7,3,13.5648,Simple,no,33.8,4,2.5,Target 360° ULTRA,3,1,Target 360° Nano,2,1,Target 360° Nano,3,0
+2245,man,58,ICA,3.8,3.4,4.4,3.9,30.53336,Stent assist,no,33,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,5,0
+2246,woman,67,ICA,3.4,3.5,3.5,3.5,22.43791667,Simple,no,26.4,6,3,Target 3D STD,3,1,i-ED Silky soft,3,1,i-ED Silky soft,4,0
+2247,woman,66,ICA,2.1,4.4,3.3,3.9,29.63532,Double cathe,yes,38.2,8,3,Target 360° Soft,3,2,Target Helical ULTRA,3,1,Target 360° Nano,5,0
+2248,woman,52,ICA,4.3,5.1,5,5.1,68.0595,Double cathe,no,26.3,12,4.5,Target 360° Soft,15,4,Target 360° ULTRA,8,3,Target 360° ULTRA,5,1
+2249,woman,59,ICA,2.8,4.7,3.5,4.1,35.29621667,Double cathe,no,26.7,10,4,i-ED Soft,3,2,i-ED Silky soft,3,1,i-ED Silky soft,4,0
+2253,man,40,ICA,3.2,3.8,4.1,4,32.61413333,Double cathe,no,31.3,10,5,Hydro Soft 3D,4,2,Hydro Soft 3D,2,1.5,Target 360° Nano,4,0
+2254,man,63,ICA,3.7,4.7,4.4,4.6,49.78365333,Stent assist,no,33.3,12,4.5,Target 360° Soft,6,3,Hydro Soft 3D,3,2,Target 360° Nano,5,0
+2255,woman,82,VA,5.6,4.6,5.5,5.1,67.5257,Stent assist,no,27.7,20,5,Target 360° Soft,8,4,Target 360° ULTRA,6,3,Target 360° Nano,7,0
+2256,woman,58,ICA,2.6,5.2,3,4.1,33.4724,Double cathe,no,22.4,8,4,Target 360° Soft,6,3,Target 360° Soft,,,,2,1
+2257,woman,61,ICA,5.4,3.2,5,4.1,34.33066667,Stent assist,no,32.8,21,4.5,Target 360° Soft,6,3,i-ED Extra soft,3,2,i-ED Silky soft,6,0
+2259,man,51,ICA,4.1,4.2,3.8,4,33.4096,Stent assist,no,29.5,10,4,i-ED Soft,4,3,i-ED Silky soft,4,2,i-ED Silky soft,5,0
+2260,woman,65,ICA,4.2,3.4,4.3,3.9,29.83942,Stent assist,yes,33.5,7,4,OPTIMA Complex Soft,8,3.5,i-ED Extra soft,8,3.5,i-ED Extra soft,3,0
+2261,man,75,ACA,4.8,8.8,9.1,9,377.1768,Stent assist,no,41,36,10,Hydro Frame 18,36,10,Hydro Frame 18,12,6,Hydro Soft 3D,15,2
+2262,man,50,ACA,5.6,4.1,4.9,4.5,47.31195,Stent assist,yes,35.8,10,5,Target 360° Soft,10,5,Target 360° Soft,8,4,Target 360° Soft,6,0
+2264,woman,61,ICA,3,4.6,3.1,3.9,29.10466,Stent assist,no,33.8,13,4,OPTIMA Complex Soft,4,2,OPTIMA Complex SS,2,1.5,OPTIMA Complex SS,4,0
+2268,woman,68,ICA,3.1,2.8,3,2.9,12.7484,Stent assist,no,22.5,4,2.5,Target 360° ULTRA,2,1,Target 360° Nano,,,,2,0
+2269,man,75,ICA,4.3,4.2,5.6,4.9,60.31312,Double cathe,no,34.4,15,5,Target XL Mini 360,8,4,Target 360° ULTRA,4,2,Target 360° Nano,4,0
+2270,man,63,ICA,4.5,6.1,4.9,5.5,86.03338333,Stent assist,no,38.5,20,7,Target XL 360°Soft,12,6,Hydro Soft 3D,4,2,Hydro Soft 3D,9,1
+2271,woman,61,ICA,3.3,3.6,3.8,3.7,26.48904,Stent assist,no,30.5,6,3,Target Helical ULTRA,4,2.5,Target 360° Nano,3,1.5,Target 360° Nano,5,0
+2273,woman,52,BA,4.2,5.2,5.1,5.2,72.16976,Stent assist,yes,34.7,9,5,OPTIMA Complex Soft,8,4,OPTIMA Complex SS,4,3,OPTIMA Complex SS,6,1
+2274,woman,73,ICA,5.8,3,5,4,31.4,Stent assist,no,60,15,5,Target XL Mini 360,10,4.5,Target 360° ULTRA,8,3,Target 360° ULTRA,5,0
+2277,woman,68,ICA,3.7,6.7,4.5,5.6,88.3596,Stent assist,no,33.4,20,6,Target 360° Soft,10,6,Axium Prime 3D,10,5,Axium Prime 3D,5,1
+2279,woman,68,ICA,5.9,4.4,5.2,4.8,57.47456,Stent assist,no,32.4,9,5,OPTIMA Complex Soft,8,4,OPTIMA Complex SS,8,3,OPTIMA Complex SS,6,0
+2281,woman,76,ACA,3.3,3.1,3,3.1,15.0877,Stent assist,no,,8,3.5,i-ED Extra soft,4,3,i-ED Silky soft,4,3,i-ED Silky soft,3,0
+2283,woman,71,ICA,5.8,6.1,5.7,5.9,107.35817,Stent assist,yes,30.8,17,5,OPTIMA Complex Soft,8,4,OPTIMA Complex SS,8,3,OPTIMA Complex SS,6,1
+2286,woman,41,ICA,7.9,7.9,9.5,8.7,341.70265,Stent assist,no,28.8,30,9,Target XL 360°Soft,30,9,Target XL 360°Soft,30,8,Target XL 360°Soft,6,2
+2289,woman,55,ACA,4.1,4.1,4.1,4.1,36.06865667,Stent assist,yes,44.3,12,4.5,Target 360° Soft,8,4,Hydro Soft 3D,2,1,Hydro Soft 3D,5,0
+2290,man,40,ICA,3.3,4.7,3.6,4.2,37.19016,Stent assist,no,27.3,13,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,3,0
+2293,woman,61,ICA,5,7.4,5.5,6.5,138.4478333,Stent assist,no,34.1,15,5,Target XL Mini 360,10,3,Target 360° ULTRA,8,3.5,Target 360° ULTRA,11,2
+2294,man,44,ICA,4.5,4.9,5.4,5.2,72.00648,Stent assist,no,26.9,12,4.5,Target 360° Soft,9,5,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,7,0
+2295,man,64,ICA,4.4,3.4,3.5,3.5,21.79683333,Stent assist,no,25.9,8,3.5,i-ED Extra soft,4,2.5,i-ED Silky soft,4,2.5,i-ED Silky soft,6,0
+2314,man,44,VA,5.3,5.2,5,4.6,62.59066667,Stent assist,no,29.2,9,5,OPTIMA Complex Soft,9,5,OPTIMA Complex Soft,8,4,OPTIMA Complex SS,7,1
+2320,woman,43,ICA,4.5,4.3,3.3,3.8,28.21918,Stent assist,no,39,8,4,Matrix2 360 Soft,6,3,Matrix2 360 Soft,3,2,Matrix2 Helical US,4,0
+2323,woman,58,ICA,4.2,4.1,4.8,4.5,46.3464,Simple,no,23.8,8,3,Matrix2 360 Soft,4,3,Matrix2 Helical US,4,3,GDC 10 US,5,0
+2326,woman,65,ICA,2.6,3.3,3.2,3.3,18.23712,Unknown,yes,9.8,4,2.5,Target 360° ULTRA,,,,,,,1,0
+2327,man,56,BA,3.5,3.5,3.1,2.3,13.05978333,Stent assist,no,27,6,3,Axium Prime Frame,3,2,Hydro Soft 3D,,,,2,0
+2328,man,56,BA,3.5,3.5,3.1,2.3,13.05978333,Stent assist,no,27,6,3,Axium Prime Frame,3,2,Hydro Soft 3D,,,,2,0
+2329,woman,45,MCA,2,4.2,3.5,5.8,44.6194,Stent assist,no,33.5,9,5,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,6,0
+2332,man,49,ICA,3.4,1.9,1.8,1.9,3.40062,BAT,no,13.9,4,2.5,Target 360° ULTRA,,,,,,,1,0
+2335,woman,53,ICA,4.7,6.6,5,5.8,100.166,BAT,no,21.1,10,5,Matrix2 360 Soft,8,4,Matrix2 2D Soft,6,3,Target 360° ULTRA,6,1
+2336,woman,72,ICA,5.8,4.4,4.8,4.6,50.84288,Stent assist,no,27,15,5,Matrix2 360 STD,8,4,Matrix2 2D Soft,8,4,Target 360° ULTRA,5,0
+2337,woman,67,ICA,3.5,3.1,2.9,3,14.1143,Stent assist,yes,13.2,4,2,Matrix2 360 US,4,2.5,Target Helical ULTRA,2,1.5,Target Helical Nano,3,0
+2338,woman,41,ICA,2.8,4.1,4,4.1,35.18893333,BAT,no,23.5,8,3,Matrix2 360 Soft,4,3,Target 360° Soft,3,1.5,Target 360° Nano,3,0
+2340,woman,64,ICA,3.6,3.9,4.5,4.3,39.49335,Simple,no,27.9,8,4,Matrix2 360 Soft,4,3,Target Helical ULTRA,4,3,Target Helical ULTRA,6,0
+2341,woman,57,ICA,3.1,3.3,3.2,3.3,18.23712,Stent assist,yes,30.5,10,3.5,Target 360° Soft,3,1.5,Target 360° Nano,3,1.5,Target 360° Nano,6,0
+2342,man,58,ICA,2,3.5,2,2.8,10.25733333,Simple,no,20.5,4,2.5,Target Helical ULTRA,2,1.5,Target 360° Nano,,,,2,0
+2343,woman,66,ICA,4,3.4,4.4,3.9,30.53336,Double cathe,no,24.4,8,3,Matrix2 360 Soft,4,2.5,Target Helical ULTRA,3,2,Target 360° Nano,3,0
+2345,woman,60,ICA,3.4,2.7,3.2,3,13.5648,Stent assist,no,28.7,4,2.5,Target 360° ULTRA,3,2,Target 360° Nano,3,1.5,Target 360° Nano,4,0
+2346,man,56,ACA,2.3,2.9,5.1,3.3,25.54233,Stent assist,no,30.8,8,4,Target 360° Soft,7,4,OPTIMA Complex Soft,6,3,Target 360° ULTRA,3,0
+2348,woman,74,ICA,3.4,6.8,5.7,5.9,119.67796,Stent assist,no,29.4,19,6,Hydro Soft 3D,9,5,OPTIMA Complex Soft,6,3,Hydro Soft 3D,9,1
+2350,woman,61,ICA,3.2,4.2,3.7,3.9,31.71714,Stent assist,no,27.6,8,3.5,Target 360° ULTRA,4,2.5,Target 360° ULTRA,4,2.5,Target Helical ULTRA,4,0
+2351,woman,53,ICA,3.1,4,5,4.5,47.1,Stent assist,no,33.9,10,3.5,Target 360° Soft,8,3,Target 360° ULTRA,4,2,Target 360° ULTRA,8,0
+2352,woman,57,ICA,2.4,3.4,3.1,3.3,18.20258,Double cathe,no,,4,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,3,2,Target 360° Nano,4,0
+2355,woman,66,ICA,2.3,3.5,2.9,3.2,16.99786667,BAT,no,24.4,4,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,,,,2,0
+2356,woman,60,ICA,4.8,3.8,3.5,3.7,25.75323333,Stent assist,no,30.4,8,3.5,Target 360° ULTRA,4,2,Kaneka ES,4,2,Kaneka ES,5,0
+2361,woman,44,ICA,2.2,1.9,2,2,3.977333333,Stent assist,no,40,4,2,Galaxy G3 Mini,2,1.5,Galaxy G3 Mini,,,,2,0
+2363,woman,56,MCA,2.9,2.4,2.5,2.5,7.85,Stent assist,no,35.6,3,2,Target 360° ULTRA,3,1.5,Target 360° Nano,3,1.5,Target 360° Nano,4,0
+2368,woman,81,ICA,6,4.7,5.5,5.2,70.34646667,Stent assist,no,31.5,12,4.5,Target 360° Soft,12,4,Axium Prime 3D,6,4,Axium Prime 3D,5,0
+2370,woman,49,ICA,2.3,2.5,2,2.3,6.018333333,Stent assist,no,18.8,3,1.5,Target 360° Nano,,,,,,,1,0
+2371,woman,29,ICA,5,6.5,6,7.4,151.034,Stent assist,yes,36,20,6,Target XL 360°Soft,10,5,Target XL Mini 360,9,3,Target XL Mini 360,9,1
+2372,woman,43,ICA,6.5,4.6,4.1,4.4,43.42829333,Stent assist,yes,20.7,10,3,Target 360° ULTRA,4,2,Target Helical Nano,3,2,Target 360° Nano,5,0
+2374,man,47,ICA,6,5.8,4.8,5.3,77.21888,Stent assist,no,15.9,8,3.5,Target 360° ULTRA,4,2.5,Target Helical ULTRA,4,2,Target Helical ULTRA,3,1
+2375,woman,71,ACA,5.7,10.7,9,5.8,292.3026,Double cathe,yes,30.6,20,6,Target XL 360°Soft,15,5,Target 360° ULTRA,8,4,Target 360° ULTRA,22,2
+2376,man,60,ACA,6.8,6,4.5,7.5,105.975,Stent assist,no,24,20,6,Target 360° Soft,10,5,Target 360° Soft,10,5,Target 360° ULTRA,10,1
+2377,woman,77,MCA,2.8,4.4,4,4.7,43.29013333,Double cathe,no,26.7,12,4,Axium Prime Frame,6,3,Axium Prime HELIX,2,1,Target 360° Nano,3,0
+2378,woman,45,ICA,4,5.1,3,4.3,34.4301,Stent assist,no,34.4,15,4,Target 360° Soft,6,3,Target 360° ULTRA,6,3,Target 360° ULTRA,6,1
+2379,woman,66,BA,6.2,3.5,5.7,4.6,48.0263,Stent assist,no,26.7,10,3.5,Target 360° Soft,8,3,OPTIMA Complex SS,6,3,OPTIMA Complex SS,5,0
+2380,man,54,ICA,3.2,4.4,3.4,3.9,30.53336,Stent assist,no,23.4,7,4,OPTIMA Complex Soft,3,2,OPTIMA Complex SS,3,2,OPTIMA Complex SS,3,0
+2381,woman,42,ICA,3.9,5.5,5.8,5.7,95.1577,Stent assist,no,38.7,20,6,Target XL 360°Soft,10,5,Target XL Mini 360,8,4,Target XL Mini 360,6,1
+2382,woman,69,MCA,5.1,3,3.6,3.3,18.6516,Stent assist,no,35.9,8,3.5,i-ED Extra soft,6,3,i-ED Silky soft,4,2.5,i-ED Silky soft,5,0
+2384,woman,74,VA,5.6,3.5,4.7,4.1,35.29621667,Stent assist,no,37.8,10,5,Axium Prime 3D,6,3,Axium Prime HELIX,4,2.5,Axium Prime HELIX,8,0
+2385,woman,72,ICA,3.9,4,3.8,3.9,31.0232,Stent assist,no,32.6,12,4.5,Target 360° Soft,10,3.5,Target 360° Soft,4,2,Target 360° ULTRA,4,0
+2388,man,46,ICA,4.2,6.3,4.6,5.1,77.34762,Double cathe,no,27,10,5,Target 360° Soft,12,4.5,Target 360° Soft,10,3.5,Target 360° Soft,7,1
+2389,man,73,ICA,3.1,3.3,2.8,3.1,14.99036,Stent assist,no,26.8,4,3,Target 360° ULTRA,,2,Target 360° Nano,,,,2,0
+2390,man,36,ACA,3,4.4,3.2,3.8,28.00042667,Double cathe,no,29.8,8,4,Target 360° Soft,3,2,Target 360° Nano,2,2,Target Helical Nano,4,0
+2391,man,47,VA,8,7.4,8,7.7,238.5562667,Stent assist,no,38.1,33,8,Hydro Soft 3D,12,6,Hydro Soft 3D,12,4,Axium Prime HELIX,15,2
+2392,woman,73,ICA,3.2,5.9,5.2,5.6,89.91285333,Stent assist,no,34.7,20,6,Target XL 360°Soft,10,5,Target XL Mini 360,3,2,Target 360° Nano,4,1
+2396,woman,57,MCA,5,5.7,5.3,5.5,86.95445,Double cathe,no,28.1,20,5,Target 360° Soft,6,2,i-ED 12 SS �,4,2,i-ED 12 SS �,9,1
+2397,woman,63,ACA,5.8,7.3,7.8,7.6,226.46936,Double cathe,no,34.3,30,7,i-ED Soft,15,3,i-ED 12 SS �,15,3,i-ED 12 SS �,8,2
+2398,woman,61,MCA,3.9,4.2,4.9,4.6,49.54292,Double cathe,no,25.9,8,4,Target 360° Soft,8,4,Target 360° ULTRA,4,2,Target 360° Nano,6,0
+2399,man,56,ICA,3.7,4.3,4.1,4.2,38.75074,Double cathe,no,31.2,15,5,i-ED Soft,3,2,i-ED Silky soft,2,1.5,i-ED Silky soft,5,0
+2401,woman,75,VA,4.3,6.8,4.3,5.6,85.69269333,Double cathe,no,23,12,4.5,Target 360° Soft,8,4,Target 360° Soft,6,3,Target 360° Nano,6,1
+2402,woman,62,ACA,3,5.4,4.4,4.9,60.92856,Stent assist,no,25.6,12,4.5,Target 360° Soft,8,4,OPTIMA Complex SS,6,3,OPTIMA Complex SS,4,1
+2403,man,52,MCA,3.6,3.9,4,4,32.656,Double cathe,no,28.8,8,4,Target 360° Soft,6,3,Target 360° ULTRA,4,2,OPTIMA Complex SS,5,0
+2405,woman,68,ICA,3.9,4.3,4.1,4.9,45.20919667,Double cathe,no,34.3,8,4,Target 360° Soft,4,3,i-ED Silky soft,4,3,i-ED Silky soft,7,0
+2407,man,59,MCA,5.5,5,4.5,4.8,56.52,Double cathe,yes,25.1,8,4,Target 3D STD,6,4,Target 360° ULTRA,4,2.5,Target 360° Nano,7,1
+2410,woman,63,ICA,2.6,4.2,3.5,3.9,30.0027,Stent assist,no,31.6,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,5,0
+2411,woman,54,ICA,4.7,5.5,5.9,5.7,96.79835,Double cathe,no,29.6,15,5,Target XL Mini 360,12,4,Target XL Mini 360,8,4,Target 360° ULTRA,5,1
+2412,woman,62,ICA,4,4.7,3.7,4.2,38.22322,Stent assist,no,23.8,8,3,Target 360° ULTRA,2,1.5,Target 360° Nano,2,1.5,Target 360° Nano,5,0
+2413,woman,66,ACA,3.6,8.2,8.5,8.4,306.4012,Stent assist,yes,31.1,20,6,Target XL 360°Soft,15,5,Target XL Mini 360,15,4,Target 360° Soft,9,2
+2415,woman,53,ICA,6.5,7.6,8.1,7.9,254.50956,Stent assist,yes,28.2,20,7,Target XL 360°Soft,20,6,Target XL 360°Soft,15,5,Target XL Mini 360,5,2
+2416,woman,52,ICA,3.1,4.4,4.6,4.5,47.6652,Double cathe,no,26.7,8,4,Target 360° Soft,4,3,Target 360° ULTRA,4,2.5,Target 360° ULTRA,6,0
+2417,woman,67,ACA,4.8,7.4,5.5,6.5,138.4478333,Stent assist,no,34.3,20,6,Target XL 360°Soft,15,5,Target XL Mini 360,10,5,Target XL Mini 360,8,2
+2419,woman,64,MCA,9.6,10.3,11.4,10.9,669.80282,Stent assist,no,25.2,30,9,Target XL 360°Soft,15,7,Target 360° Soft,20,8,Target 360° Soft,22,2
+2420,woman,63,MCA,4.7,6.9,4,5.5,79.442,Double cathe,no,21.6,10,5,Target 360° Soft,10,5,Target 360° ULTRA,8,4,Target 360° ULTRA,4,1
+2421,woman,58,ICA,5.1,3.7,4.1,3.9,30.96197,Stent assist,no,28.4,10,3.5,Target 360° Soft,8,3,Target 360° ULTRA,4,3,Target 360° Nano,4,0
+2423,woman,72,ICA,4,5.1,4,4.6,49.1096,Stent assist,no,24.4,8,3,Target 360° ULTRA,8,3.5,Target 360° ULTRA,4,2.5,Target Helical ULTRA,5,1
+2424,woman,63,VA,4.7,3.5,4.5,4,32.97,Stent assist,no,42.4,15,4,Target 360° ULTRA,6,3,Target 360° ULTRA,4,2,Target 360° ULTRA,8,0
+2425,woman,49,ACA,3.3,3.5,4.4,4,32.23733333,Stent assist,no,35.1,8,3,Axium Prime Frame,4,2,Axium Prime HELIX,3,2,Axium Prime HELIX,5,0
+2427,woman,54,ICA,4.2,5.7,5.6,5.7,95.21736,Double cathe,no,23.6,10,5,Matrix2 360 Soft,8,4,Target 360° Soft,6,3,Target 360° ULTRA,7,1
+2429,woman,44,ICA,3,4.5,5.1,4.8,57.6504,Double cathe,no,28.3,12,4.5,Target 360° Soft,8,4,Target 360° Soft,6,3,Target 360° ULTRA,6,0
+2431,man,87,ICA,3.2,4.3,4.5,4.4,44.5566,Double cathe,no,33.4,15,5,Target XL Mini 360,6,3,Target 360° ULTRA,2,1.5,Target 360° Nano,4,0
+2433,woman,58,MCA,2.9,2.7,2.5,2.6,9.1845,Simple,no,32.4,4,2.5,Target 360° ULTRA,3,1.5,Target Helical Nano,2,1.5,Target 360° Nano,4,0
+2434,man,66,ACA,7,7.3,7.1,7.2,195.29544,Stent assist,no,43.9,30,8,Target XL 360°Soft,30,8,Target XL 360°Soft,15,4,i-ED 14 ES �,13,2
+2435,man,50,ICA,4.4,3.4,3.4,3.4,20.56909333,Stent assist,yes,19.7,6,3,Target 360° Soft,2,2,Target Helical Nano,2,1.5,Target Helical Nano,4,0
+2436,woman,46,BA,6.6,4.4,4.8,4.6,50.84288,Stent assist,no,48.7,13,4,OPTIMA Complex Soft,8,4,OPTIMA Complex SS,8,3,OPTIMA Complex SS,12,0
+2437,man,62,ICA,4,5.1,3.9,4.5,46.84095,Stent assist,no,12.1,10,3.5,Target 360° Soft,2,2,Target Helical Nano,,,,2,1
+2438,woman,51,ICA,4,3.8,4.1,4,32.61413333,Stent assist,no,33.6,8,4,Axium Prime Frame,4,2,Target 360° Nano,4,2,Target 360° Nano,6,0
+2444,woman,57,MCA,3.6,3.5,3.4,3.5,21.79683333,Double cathe,yes,24.8,6,3,OPTIMA Complex SS,3,2,OPTIMA Complex SS,2,2,OPTIMA Complex SS,4,0
+2445,woman,41,ICA,3.2,4.9,3.8,4.4,42.87565333,Double cathe,no,28,10,3.5,Target 360° Soft,4,2,Target 360° Nano,2,1,Target 360° Nano,7,0
+2446,woman,52,ICA,6.7,5.5,5.9,5.7,96.79835,Stent assist,no,30.2,20,6,OPTIMA Complex Soft,10,5,OPTIMA Complex SS,10,5,OPTIMA Complex SS,8,1
+2447,woman,62,ICA,3.4,4.3,3.4,3.9,29.83942,Stent assist,no,22.1,6,4,Target 360° ULTRA,4,3,Target 360° Nano,2,1.5,Target 360° Nano,3,0
+2449,man,64,ICA,2.1,5.5,4.4,5,63.32333333,Simple,no,23.3,12,4.5,Target 360° Soft,6,3,Target 360° Nano,6,3,Target 360° Nano,6,1
+2450,man,62,ICA,3.4,3.3,3.7,3.5,22.36465,Double cathe,no,31.9,8,3,Target 360° Soft,4,2,Hydro Soft 3D,3,1,Hydro Soft 3D,3,0
+2451,woman,44,ICA,3.5,3.5,3.9,3.7,26.43095,Stent assist,no,35.5,8,4,Hydro Soft 3D,3,2,Hydro Soft 3D,2,1,Hydro Soft 3D,4,0
+2452,woman,70,MCA,6.7,4.7,6.8,5.8,97.00925333,Stent assist,no,29.6,15,5,Target XL Mini 360,13,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,10,0
+2455,woman,53,ICA,3.5,5.2,3.4,4.4,40.71114667,Stent assist,no,32.9,8,3.5,i-ED Extra soft,3,2,i-ED Silky soft,3,2,i-ED Silky soft,7,1
+2459,woman,30,ICA,5.1,4.3,5.6,5.1,64.26952,Stent assist,no,32.1,11,6,OPTIMA Complex Soft,13,5,OPTIMA Complex SS,10,4,OPTIMA Complex SS,5,0
+2460,woman,53,ICA,2.5,3.6,3.3,3.4,21.13848,Double cathe,no,27.9,8,4,Target 360° Soft,4,3,Axium Prime HELIX,4,2,Axium Prime HELIX,4,0
+2463,woman,76,ACA,4.2,3.5,4,3.8,27.84133333,Stent assist,no,30.6,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,3,OPTIMA Complex SS,5,0
+2464,man,46,ICA,3.6,4.7,3.8,4.3,40.19095333,Double cathe,no,27.6,8,4,Target 360° Soft,4,3,Target 360° ULTRA,3,2,Target 360° ULTRA,7,0
+2465,woman,53,ICA,2.7,4.9,3.4,4.2,36.61868,Stent assist,no,37.5,15,3,i-ED 12 SS �,4,2,i-ED Silky soft,2,2,i-ED Silky soft,4,0
+2466,man,54,ICA,3.5,3.4,4.7,4,33.45146667,Stent assist,no,38,8,4,Target XL 360°Soft,4,3,Target 360° ULTRA,2,1.5,Target 360° Nano,5,0
+2471,woman,60,ICA,4,3.6,4.2,3.9,30.85992,Stent assist,no,22.6,10,3.5,Target 360° Soft,6,3,Target 360° Nano,3,1,Target 360° Nano,4,0
+2472,man,70,ACA,4,3.4,3.9,3.7,25.67578,Stent assist,yes,38,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,3,1,OPTIMA Complex SS,5,0
+2473,man,58,ACA,2.2,3.7,2.5,3.1,15.00658333,Stent assist,no,31,4,3,OPTIMA Complex SS,3,2,OPTIMA Complex SS,1,1,OPTIMA Complex SS,3,0
+2474,woman,65,MCA,4.1,3.8,4.6,4.2,38.42104,Stent assist,no,36.8,8,4,Hydro Soft 3D,6,3,Hydro Soft 3D,4,3,Hydro Soft 3D,6,0
+2475,woman,38,ICA,3.8,4,4.4,4.2,38.6848,Stent assist,yes,27.1,10,5,Target XL Mini 360,4,2,Target 360° Nano,3,2,Target 360° Nano,4,0
+2479,woman,57,ICA,3.9,5.2,5.8,5.5,86.81053333,Stent assist,no,31.8,15,5,Target XL Mini 360,8,4,Target XL Mini 360,6,3,Target 360° ULTRA,5,1
+2480,woman,73,ICA,8.1,9.1,8.9,9,381.4629,Double cathe,no,21.4,30,9,Target XL 360°Soft,20,7,Target XL 360°Soft,10,5,Target XL Mini 360,8,2
+2485,woman,62,ICA,3.9,4.1,4.1,4.1,36.06865667,Stent assist,no,25.7,8,4,Target 360° Soft,6,4,Target 360° ULTRA,6,3,Target 360° ULTRA,5,0
+2487,man,53,ACA,4.2,3.3,2.8,3.1,14.99036,Stent assist,yes,35.6,4,2.5,OPTIMA Complex SS,4,2,OPTIMA Complex SS,2,1.5,OPTIMA Complex SS,3,0
+2489,woman,50,ICA,4.2,3.5,3.4,3.5,21.79683333,Stent assist,no,25,7,4,OPTIMA Complex Soft,6,3,OPTIMA Complex SS,4,2,OPTIMA Complex SS,3,0
+2492,woman,64,MCA,3.7,4.5,3.7,4.3,37.46805,Stent assist,no,,8,4,Target 360° Soft,4,2.5,Target 360° Nano,4,2,Target 360° Nano,6,0
+2494,man,55,VA,5.3,5.1,5.8,5.5,85.1411,Stent assist,no,27.1,9,5,OPTIMA Complex Soft,9,5,OPTIMA Complex Soft,10,4,OPTIMA Complex SS,6,1
+2495,woman,48,ICA,4.3,5.7,4.6,5.2,71.35336,Stent assist,no,26.1,10,5,Target 360° Soft,8,4,Target 360° ULTRA,6,3,Target 360° Nano,8,1
+2496,man,66,BA,5.6,3.5,4.6,4.1,34.54523333,Stent assist,no,24.1,13,4,OPTIMA Complex Soft,4,2.5,OPTIMA Complex SS,3,2,OPTIMA Complex SS,6,0
+2497,man,45,ICA,3.6,3.8,3.9,3.9,30.24762,Stent assist,no,26.4,8,3.5,Target 360° ULTRA,4,3,OPTIMA Complex SS,2,1,OPTIMA Complex SS,5,0
+2498,woman,66,VA,6,6,5.7,5.9,105.5982,Stent assist,no,15.8,10,5,Target 360° Soft,8,4,Target 360° Soft,4,3,Target 360° Nano,9,1
+2499,woman,59,ICA,3.6,3.8,4.3,4.1,35.06019333,Stent assist,no,27.5,8,4,Hydro Soft 3D,4,2.5,Hydro Soft 3D,3,2,Hydro Soft 3D,3,0
+2501,man,73,ACA,4.3,4,3.8,3.9,31.0232,Stent assist,no,20.5,6,4,Target 360° ULTRA,3,2,Target 360° Nano,2,2,Target Helical Nano,7,0
+2502,woman,70,ICA,4.5,4.2,5,4.6,50.554,Stent assist,no,27.8,9,5,OPTIMA Complex Soft,8,4,OPTIMA Complex SS,8,3,OPTIMA Complex SS,5,0
+2503,woman,47,ICA,8,7,7.7,7.4,208.7367333,Stent assist,no,26.5,30,8,Target XL 360°Soft,15,5,Target XL 360°Soft,15,4,Target 360° ULTRA,5,2
+2504,woman,57,ICA,5,5.5,6.2,5.8,103.5048667,Stent assist,no,24.7,12,6,Hydro Soft 3D,10,5,Hydro Soft 3D,8,4,Hydro Soft 3D,6,1
+2506,woman,54,ACA,3.9,3.3,3.7,3.5,22.36465,Stent assist,yes,29.9,8,3.5,Target 360° ULTRA,2.5,2,Target Tetra,2,1.5,Target Tetra,4,0
+2509,woman,45,ICA,5,4.4,4.5,4.5,46.629,Stent assist,no,22.974247,7,4,OPTIMA Complex Soft,10,4,i-ED Soft,4,3,i-ED Silky soft,6,0
+2510,woman,78,ICA,4.5,6.3,4.9,5.6,90.46968,Stent assist,no,23,10,5,Target 360° ULTRA,8,4,Target 360° ULTRA,6,3.5,Target Tetra,8,1
+2511,woman,46,ICA,4.2,3.9,4.7,4.3,41.24861,Stent assist,no,24.1,8,4,Target 360° ULTRA,8,3.5,Target Tetra,4.5,3,Target Tetra,4,0
+2514,woman,87,ICA,5.3,5.5,6.5,6,112.255,Stent assist,no,27.2,15,5,Target XL Mini 360,8,4,Target XL Mini 360,8,3.5,Target Tetra,10,1
+2515,man,54,VA,5.8,7.3,8.1,7.7,238.27419,Stent assist,no,24,20,7,Target XL 360°Soft,10,6,Target 360° Soft,10,5,Target 360° Soft,16,2
